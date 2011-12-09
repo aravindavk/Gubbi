@@ -1,7 +1,0 @@
-Kedage (2.0) unstable; urgency=low
-
-   * Initial Release, Generated source sfd from ttf using Fontforge
-   * Added glyph U+25CC. Closes: #429298 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=429298
-   * Modified wrong glyph U+0C85 similar to https://bugzilla.redhat.com/show_bug.cgi?id=694705
-
-  -- Aravinda VK <hallimanearavind@gmail.com>  Fri, 09 Dec 2011 20:34:29 +0530

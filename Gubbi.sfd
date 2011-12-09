@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: Kedage
-FullName: Kedage
-FamilyName: Kedage
+FontName: Gubbi
+FullName: Gubbi
+FamilyName: Gubbi
 Weight: Normal
-Copyright: Kannada Unicode FONT\nCopyright (C) 2005, Indian Institute of Science,Bangalore.\nCopyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see <http://www.gnu.org/licenses/>.
+Copyright: Gubbi - Kannada Unicode FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
 Version: 2
 ItalicAngle: 0
 UnderlinePosition: -288
@@ -14,14 +14,13 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 469 1286364722 142053]
 FSType: 8
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062074370
-ModificationTime: 1323446713
+ModificationTime: 1323458623
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -1261,7 +1260,7 @@ StartChar: percent
 Encoding: 3205 3205 40
 Width: 1511
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
