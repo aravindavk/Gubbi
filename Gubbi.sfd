@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062074370
-ModificationTime: 1323458623
+ModificationTime: 1323459087
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -205,7 +205,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "+AKkA 2005, Indian Institute of Science,Bangalore.Distributed under the GNU General Public License (GPL) ." "" "" "" "" "Version 1.06" "" "" "Indian Institute of Science,Bangalore." "" "" "http://www.iisc.ernet.in" 
+LangName: 1033 "+AKkA 2005, Indian Institute of Science,Bangalore.+AAoAqQAA 2011, Aravinda VK <hallimanearavind@gmail.com>" "" "" "" "" "Version 2" "" "" "Indian Institute of Science,Bangalore." "" "" "http://www.iisc.ernet.in" "" "Copyright (C) 2005-2010, Indian Institute of Science,Bangalore,+AAoA-Copyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>,+AAoA-with Reserved Font Name Gubbi.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
@@ -237,6 +237,7 @@ SplineSet
  256 1920 l 1,7,-1
  256 128 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: .null
@@ -288,6 +289,7 @@ SplineSet
  574 270 574 270 615 234 c 0,20,21
  659 194 659 194 659 127 c 0,9,10
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: glyph5
@@ -309,6 +311,7 @@ SplineSet
  12 1259 12 1259 268 1401 c 1,15,-1
  305 1368 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph6
@@ -371,6 +374,7 @@ SplineSet
  270 912 270 912 270 782 c 0,68,69
  270 635 270 635 391 635 c 0,55,56
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph8
@@ -392,6 +396,7 @@ SplineSet
  476 1348 476 1348 518 1304 c 0,15,16
  565 1255 565 1255 565 1169 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph9
@@ -412,6 +417,7 @@ SplineSet
  404 1229 404 1229 537 1339 c 1,13,-1
  561 1329 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph10
@@ -432,6 +438,7 @@ SplineSet
  404 1229 404 1229 499 1094 c 1,12,13
  725 768 725 768 725 369 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph11
@@ -490,6 +497,7 @@ SplineSet
  239 690 239 690 201 690 c 0,76,77
  135 690 135 690 135 752 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph12
@@ -514,6 +522,7 @@ SplineSet
  59 563 l 1,11,-1
  489 563 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph13
@@ -536,6 +545,7 @@ SplineSet
  477 266 477 266 518 224 c 0,17,18
  565 176 565 176 565 94 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph14
@@ -563,6 +573,7 @@ SplineSet
  426 272 426 272 465 236 c 0,12,13
  508 197 508 197 508 131 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph16
@@ -579,6 +590,7 @@ SplineSet
  496 1286 l 1,3,-1
  573 1286 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph17
@@ -604,6 +616,7 @@ SplineSet
  358 25 358 25 614 25 c 256,22,23
  870 25 870 25 870 651 c 0,16,17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph18
@@ -630,6 +643,7 @@ SplineSet
  761 29 761 29 872 29 c 1,18,-1
  872 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph19
@@ -662,6 +676,7 @@ SplineSet
  978 194 978 194 1032 281 c 1,31,-1
  1057 270 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph20
@@ -698,6 +713,7 @@ SplineSet
  852 740 852 740 901 690 c 0,43,44
  995 593 995 593 995 426 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: glyph21
@@ -726,6 +742,7 @@ SplineSet
  225 455 l 1,14,-1
  698 455 l 1,11,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph22
@@ -762,6 +779,7 @@ SplineSet
  953 1303 953 1303 991 1352 c 1,39,-1
  1008 1339 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph23
@@ -795,6 +813,7 @@ SplineSet
  749 27 749 27 805 106 c 1,37,38
  864 192 864 192 864 352 c 0,25,26
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph24
@@ -818,6 +837,7 @@ SplineSet
  1030 1303 l 1,12,-1
  1030 1270 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph25
@@ -863,6 +883,7 @@ SplineSet
  727 27 727 27 787.5 86.5 c 128,-1,60
  848 146 848 146 848 248 c 0,46,47
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph26
@@ -896,6 +917,7 @@ SplineSet
  720 551 720 551 803 618 c 0,35,36
  836 645 836 645 836 698 c 2,24,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph27
@@ -925,6 +947,7 @@ SplineSet
  379 35 379 35 339 4 c 0,26,27
  305 -23 305 -23 268 -23 c 0,14,15
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph28
@@ -957,6 +980,7 @@ SplineSet
  379 740 379 740 339 710 c 1,33,34
  306 684 306 684 268 684 c 0,21,22
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph29
@@ -978,6 +1002,7 @@ SplineSet
  1171 496 l 1,7,-1
  1171 401 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph30
@@ -994,6 +1019,7 @@ SplineSet
  518 1157 l 1,3,-1
  518 -111 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph31
@@ -1039,6 +1065,7 @@ SplineSet
  841 238 841 238 877 199 c 128,-1,57
  913 160 913 160 913 106 c 0,46,47
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: glyph32
@@ -1077,6 +1104,7 @@ SplineSet
  421 272 421 272 460 236 c 1,41,42
  504 197 504 197 504 131 c 0,28,29
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph33
@@ -1093,6 +1121,7 @@ SplineSet
  186 811 l 1,3,-1
  1475 811 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph34
@@ -1109,6 +1138,7 @@ SplineSet
  186 811 l 1,3,-1
  3027 811 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: glyph35
@@ -1142,6 +1172,7 @@ SplineSet
  613 272 613 272 653 236 c 0,29,30
  696 197 696 197 696 131 c 0,17,18
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: exclam
@@ -1158,6 +1189,7 @@ SplineSet
  186 811 l 1,3,-1
  786 811 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -1182,6 +1214,7 @@ SplineSet
  158 195 l 1,11,-1
  463 500 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: numbersign
@@ -1209,6 +1242,7 @@ SplineSet
  666 193 666 193 758 271 c 0,25,26
  864 362 864 362 864 539 c 0,12,13
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dollar
@@ -1254,6 +1288,7 @@ SplineSet
  383 113 383 113 424 137 c 0,55,56
  469 164 469 164 469 209 c 0,43,44
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: percent
@@ -1303,6 +1338,7 @@ SplineSet
  455 760 455 760 491 798 c 0,65,66
  522 830 522 830 524 872 c 1,56,57
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: ampersand
@@ -1356,6 +1392,7 @@ SplineSet
  453 760 453 760 487 794 c 0,71,72
  518 826 518 826 518 870 c 0,61,62
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: quotesingle
@@ -1418,6 +1455,7 @@ SplineSet
  901 410 901 410 1016 410 c 0,89,90
  1119 410 1119 410 1188 512 c 1,82,83
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: parenleft
@@ -1486,6 +1524,7 @@ SplineSet
  911 174 911 174 1022 249 c 0,94,95
  1151 336 1151 336 1151 477 c 1,87,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: parenright
@@ -1550,6 +1589,7 @@ SplineSet
  477 700 477 700 511 734 c 0,95,96
  543 765 543 765 543 811 c 0,83,84
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -1637,6 +1677,7 @@ SplineSet
  477 700 477 700 511 734 c 0,142,143
  543 765 543 765 543 811 c 0,130,131
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: plus
@@ -1727,6 +1768,7 @@ SplineSet
  286 237 286 237 373 236 c 1,141,142
  459 234 459 234 459 317 c 0,134,135
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: comma
@@ -1784,6 +1826,7 @@ SplineSet
  853 1128 853 1128 1073 956 c 0,68,69
  1356 734 1356 734 1356 354 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -1836,6 +1879,7 @@ SplineSet
  971 1233 971 1233 1178 979 c 0,75,76
  1360 756 1360 756 1360 469 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: slash
@@ -1891,6 +1935,7 @@ SplineSet
  1167 1126 1167 1126 1272 911 c 0,82,83
  1352 748 1352 748 1352 475 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -1941,6 +1986,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,71,72
  1378 418 1378 418 1378 317 c 0,0,1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: one
@@ -1996,6 +2042,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,81,82
  1378 418 1378 418 1378 317 c 0,0,1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: two
@@ -2081,6 +2128,7 @@ SplineSet
  1183 1479 1183 1479 1298 1342 c 0,133,134
  1399 1222 1399 1222 1399 1053 c 0,0,1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: three
@@ -2130,6 +2178,7 @@ SplineSet
  613 176 613 176 678 228 c 0,58,59
  752 286 752 286 752 391 c 0,45,46
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph131
 EndChar
 
@@ -2189,6 +2238,7 @@ SplineSet
  271 188 271 188 336 188 c 0,85,86
  556 188 556 188 702 297 c 1,77,78
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph132
 EndChar
 
@@ -2219,6 +2269,7 @@ SplineSet
  993 709 993 709 1049 559 c 0,26,27
  1116 381 1116 381 1116 0 c 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph133
 EndChar
 
@@ -2298,6 +2349,7 @@ SplineSet
  598 -246 598 -246 709 -4 c 1,114,115
  823 -242 823 -242 823 -295 c 0,104,105
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph134
 EndChar
 
@@ -2366,6 +2418,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,98,99
  1378 418 1378 418 1378 317 c 0,12,13
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" glyph135
 EndChar
 
@@ -2433,6 +2486,7 @@ SplineSet
  1403 764 l 1,95,-1
  1403 592 l 1,0,-1
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" glyph136
 EndChar
 
@@ -2497,6 +2551,7 @@ SplineSet
  475 717 475 717 514 752 c 0,91,92
  549 783 549 783 549 827 c 0,81,82
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" glyph137
 EndChar
 
@@ -2558,6 +2613,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,90,91
  1378 418 1378 418 1378 317 c 0,0,1
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" glyph138
 EndChar
 
@@ -2627,6 +2683,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,95
  991 385 991 385 991 539 c 0,84,85
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph139
 EndChar
 
@@ -2703,6 +2760,7 @@ SplineSet
  911 393 911 393 1024 393 c 0,116,117
  1130 393 1130 393 1212 477 c 1,109,110
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" glyph140
 EndChar
 
@@ -2776,6 +2834,7 @@ SplineSet
  433 524 433 524 468 554 c 0,111,112
  499 581 499 581 500 618 c 0,99,100
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" glyph141
 EndChar
 
@@ -2821,6 +2880,7 @@ SplineSet
  662 678 662 678 697.5 644 c 128,-1,45
  733 610 733 610 733 563 c 256,34,35
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph142
 EndChar
 
@@ -2879,6 +2939,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,77,78
  1278 188 1278 188 1278 389 c 0,46,47
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph143
 EndChar
 
@@ -2945,6 +3006,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,91,92
  1278 188 1278 188 1278 389 c 0,60,61
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph144
 EndChar
 
@@ -3003,6 +3065,7 @@ SplineSet
  1320 1077 1320 1077 1418 902 c 0,85,86
  1499 758 1499 758 1499 518 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph145
 EndChar
 
@@ -3059,6 +3122,7 @@ SplineSet
  741 520 741 520 819 591 c 0,77,78
  883 649 883 649 874 666 c 1,63,64
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph146
 EndChar
 
@@ -3118,6 +3182,7 @@ SplineSet
  778 729 778 729 812 695.5 c 128,-1,76
  846 662 846 662 846 614 c 256,65,66
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph147
 EndChar
 
@@ -3161,6 +3226,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,51,52
  1245 324 1245 324 1245 430 c 0,33,34
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph148
 EndChar
 
@@ -3211,6 +3277,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,63,64
  1245 324 1245 324 1245 430 c 0,45,46
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph149
 EndChar
 
@@ -3255,6 +3322,7 @@ SplineSet
  811 899 l 1,54,55
  1155 700 1155 700 1155 348 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph150
 EndChar
 
@@ -3319,6 +3387,7 @@ SplineSet
  1251 844 1251 844 1304.5 721.5 c 128,-1,87
  1358 599 1358 599 1360 440 c 0,24,25
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph151
 EndChar
 
@@ -3390,6 +3459,7 @@ SplineSet
  623 -240 623 -240 733 0 c 1,97,98
  848 -238 848 -238 848 -293 c 0,88,89
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph152
 EndChar
 
@@ -3441,6 +3511,7 @@ SplineSet
  1102 1077 1102 1077 1248 891 c 0,71,72
  1389 711 1389 711 1389 432 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph153
 EndChar
 
@@ -3504,6 +3575,7 @@ SplineSet
  641 -246 641 -246 752 -4 c 1,90,91
  868 -246 868 -246 868 -297 c 0,80,81
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph154
 EndChar
 
@@ -3570,6 +3642,7 @@ SplineSet
  1712 1090 1712 1090 1870 913 c 0,98,99
  2040 722 2040 722 2040 487 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph155
 EndChar
 
@@ -3634,6 +3707,7 @@ SplineSet
  691 193 691 193 783 303 c 0,92,93
  856 390 856 390 856 518 c 0,78,79
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph156
 EndChar
 
@@ -3670,6 +3744,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,33
  991 385 991 385 991 539 c 0,22,23
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph157
 EndChar
 
@@ -3724,6 +3799,7 @@ SplineSet
  1162 188 1162 188 1242 289 c 0,68,69
  1311 376 1311 376 1311 516 c 0,51,52
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph158
 EndChar
 
@@ -3770,6 +3846,7 @@ SplineSet
  567 705 567 705 615 734 c 0,61,62
  668 767 668 767 668 819 c 0,49,50
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph159
 EndChar
 
@@ -3841,6 +3918,7 @@ SplineSet
  737 102 737 102 776 135 c 0,105,106
  819 172 819 172 819 231 c 0,95,96
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph160
 EndChar
 
@@ -3895,6 +3973,7 @@ SplineSet
  1152 818 1152 818 1258 649 c 1,75,76
  1354 498 1354 498 1354 322 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" glyph161
 EndChar
 
@@ -3954,6 +4033,7 @@ SplineSet
  793 158 793 158 904 233 c 0,81,82
  1030 318 1030 318 1030 545 c 0,62,63
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph162
 EndChar
 
@@ -4027,6 +4107,7 @@ SplineSet
  1360 257 1360 257 1292 133 c 1,100,101
  1358 69 1358 69 1430 -2 c 0,24,25
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" glyph163
 EndChar
 
@@ -4078,6 +4159,7 @@ SplineSet
  1019 776 1019 776 1072 627 c 1,60,61
  1118 501 1118 501 1118 379 c 0,24,25
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 17 subtable" exclamdown
 EndChar
 
@@ -4134,6 +4216,7 @@ SplineSet
  587 164 587 164 680 269 c 0,75,76
  748 345 748 345 748 377 c 1,63,64
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 17 subtable" cent
 EndChar
 
@@ -4175,6 +4258,7 @@ SplineSet
  380 1071 380 1071 550 873 c 1,50,51
  713 686 713 686 713 455 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: W
@@ -4210,6 +4294,7 @@ SplineSet
  -516 1176 -516 1176 -408 1176 c 0,41,42
  -290 1176 -290 1176 -246 1317 c 1,34,35
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: X
@@ -4267,6 +4352,7 @@ SplineSet
  -516 1176 -516 1176 -408 1176 c 0,80,81
  -290 1176 -290 1176 -246 1317 c 1,73,74
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Y
@@ -4291,6 +4377,7 @@ SplineSet
  76 942 76 942 140 759 c 0,21,22
  201 582 201 582 201 346 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -4341,6 +4428,7 @@ SplineSet
  1006 1126 1006 1126 1151 955 c 0,71,72
  1303 775 1303 775 1303 483 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 19 subtable" w
 EndChar
 
@@ -4382,6 +4470,7 @@ SplineSet
  -169 -391 -169 -391 -121 -391 c 0,51,52
  -16 -391 -16 -391 -16 -305 c 0,40,41
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -4433,6 +4522,7 @@ SplineSet
  -519 -588 -519 -588 -519 -553 c 0,70,71
  -519 -475 -519 -475 -612 -475 c 0,62,63
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: bracketright
@@ -4465,6 +4555,7 @@ SplineSet
  -203 1466 -203 1466 -138 1400 c 0,34,35
  -66 1327 -66 1327 -66 1202 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: asciicircum
@@ -4519,6 +4610,7 @@ SplineSet
  535 711 535 711 575 750 c 0,73,74
  612 787 612 787 612 836 c 0,65,66
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: underscore
@@ -4583,6 +4675,7 @@ SplineSet
  -111 -389 -111 -389 -78 -389 c 0,91,92
  27 -389 27 -389 27 -315 c 0,82,83
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: grave
@@ -4654,6 +4747,7 @@ SplineSet
  -203 1466 -203 1466 -138 1400 c 0,107,108
  -66 1327 -66 1327 -66 1202 c 0,73,74
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: a
@@ -4747,6 +4841,7 @@ SplineSet
  1897 711 1897 711 1937 750 c 0,146,147
  1974 787 1974 787 1974 836 c 0,138,139
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: b
@@ -4794,6 +4889,7 @@ SplineSet
  611 1425 611 1425 760 1275 c 0,56,57
  922 1112 922 1112 922 801 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: c
@@ -4832,6 +4928,7 @@ SplineSet
  171 885 171 885 171 866 c 0,44,45
  171 651 171 651 336 651 c 0,33,34
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d
@@ -4865,6 +4962,7 @@ SplineSet
  535 711 535 711 575 750 c 0,37,38
  612 787 612 787 612 836 c 0,29,30
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: e
@@ -4908,6 +5006,7 @@ SplineSet
  -111 -389 -111 -389 -78 -389 c 0,55,56
  27 -389 27 -389 27 -315 c 0,46,47
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: f
@@ -4961,6 +5060,7 @@ SplineSet
  449 723 449 723 485 756 c 0,76,77
  516 784 516 784 516 825 c 0,68,69
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: g
@@ -5077,6 +5177,7 @@ SplineSet
  286 237 286 237 373 236 c 1,192,193
  459 234 459 234 459 317 c 0,185,186
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: h
@@ -5106,6 +5207,7 @@ SplineSet
  783 156 783 156 907 250 c 0,29,30
  1044 355 1044 355 1044 530 c 0,15,16
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i
@@ -5138,6 +5240,7 @@ SplineSet
  839 1073 839 1073 991 933 c 0,38,39
  1159 779 1159 779 1159 514 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: j
@@ -5176,6 +5279,7 @@ SplineSet
  945 1102 945 1102 1048 948 c 0,45,46
  1141 809 1141 809 1141 600 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: k
@@ -5228,6 +5332,7 @@ SplineSet
  197 184 197 184 358 184 c 0,74,75
  526 184 526 184 606 324 c 1,66,67
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: l
@@ -5284,6 +5389,7 @@ SplineSet
  730 100 730 100 769 133 c 0,83,84
  813 170 813 170 813 231 c 0,73,74
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: m
@@ -5361,6 +5467,7 @@ SplineSet
  349 113 349 113 450 200 c 0,118,119
  588 318 588 318 588 489 c 1,106,107
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: n
@@ -5407,6 +5514,7 @@ SplineSet
  554 506 554 506 591 535 c 0,61,62
  625 561 625 561 625 600 c 0,49,50
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: o
@@ -5441,6 +5549,7 @@ SplineSet
  1118 188 l 1,39,-1
  1118 0 l 1,0,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: p
@@ -5489,6 +5598,7 @@ SplineSet
  478 678 478 678 514.5 709 c 128,-1,65
  551 740 551 740 551 788 c 0,57,58
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: q
@@ -5533,6 +5643,7 @@ SplineSet
  521 477 521 477 571 508 c 0,56,57
  616 536 616 536 616 575 c 0,46,47
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r
@@ -5568,6 +5679,7 @@ SplineSet
  385 899 l 1,25,26
  590 725 590 725 590 487 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: t
@@ -5592,6 +5704,7 @@ SplineSet
  76 942 76 942 140 759 c 0,21,22
  201 582 201 582 201 346 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u
@@ -5627,6 +5740,7 @@ SplineSet
  242 1090 242 1090 400 913 c 0,27,28
  570 722 570 722 570 487 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 19 subtable" Y
 EndChar
 
@@ -5680,6 +5794,7 @@ SplineSet
  616 1126 616 1126 772 941 c 0,73,74
  942 739 942 739 942 440 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: x
@@ -5732,6 +5847,7 @@ SplineSet
  1166 1071 1166 1071 1337 873 c 0,74,75
  1499 686 1499 686 1499 455 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: y
@@ -5780,6 +5896,7 @@ SplineSet
  -267 -391 -267 -391 -219 -391 c 0,51,52
  -115 -391 -115 -391 -115 -305 c 0,40,41
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceleft
@@ -5831,6 +5948,7 @@ SplineSet
  -519 -588 -519 -588 -519 -553 c 0,70,71
  -519 -475 -519 -475 -612 -475 c 0,62,63
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: bar
@@ -5875,6 +5993,7 @@ SplineSet
  41 844 41 844 49 838 c 0,54,55
  162 753 162 753 162 623 c 0,36,37
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: braceright
@@ -5951,6 +6070,7 @@ SplineSet
  -111 -389 -111 -389 -78 -389 c 0,111,112
  27 -389 27 -389 27 -315 c 0,102,103
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: asciitilde
@@ -6034,6 +6154,7 @@ SplineSet
  41 844 41 844 49 838 c 0,127,128
  162 753 162 753 162 623 c 0,109,110
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: M_c.rphf
@@ -6069,6 +6190,7 @@ SplineSet
  1128 1071 l 1,34,-1
  1128 899 l 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 15 subtable" threequarters
 Ligature2: "'rphf' Reph Form in Kannada lookup 0 subtable" M c
 EndChar
@@ -6115,6 +6237,7 @@ SplineSet
  633 176 633 176 698 228 c 0,48,49
  772 286 772 286 772 391 c 0,35,36
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph132
@@ -6173,6 +6296,7 @@ SplineSet
  271 188 271 188 336 188 c 0,80,81
  556 188 556 188 702 297 c 1,72,73
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph133
@@ -6199,6 +6323,7 @@ SplineSet
  993 709 993 709 1049 559 c 0,19,20
  1116 381 1116 381 1116 0 c 1,0,-1
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph134
@@ -6272,6 +6397,7 @@ SplineSet
  598 -246 598 -246 709 -4 c 1,104,105
  823 -242 823 -242 823 -295 c 0,94,95
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph135
@@ -6339,6 +6465,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,98,99
  1378 418 1378 418 1378 317 c 0,12,13
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: glyph136
@@ -6401,6 +6528,7 @@ SplineSet
  1403 764 l 1,88,-1
  1403 592 l 1,0,-1
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: glyph137
@@ -6460,6 +6588,7 @@ SplineSet
  475 717 475 717 514 752 c 0,83,84
  549 783 549 783 549 827 c 0,73,74
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: glyph138
@@ -6523,6 +6652,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,92,93
  1378 418 1378 418 1378 317 c 0,0,1
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: glyph139
@@ -6591,6 +6721,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,93
  991 385 991 385 991 539 c 0,82,83
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph140
@@ -6666,6 +6797,7 @@ SplineSet
  911 393 911 393 1024 393 c 0,116,117
  1130 393 1130 393 1212 477 c 1,109,110
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: glyph141
@@ -6737,6 +6869,7 @@ SplineSet
  433 518 433 518 468 549 c 1,105,106
  500 576 500 576 500 616 c 0,94,95
 EndSplineSet
+Validated: 2097189
 EndChar
 
 StartChar: glyph142
@@ -6778,6 +6911,7 @@ SplineSet
  662 678 662 678 697.5 644 c 128,-1,38
  733 610 733 610 733 563 c 256,27,28
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph143
@@ -6832,6 +6966,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,70,71
  1278 188 1278 188 1278 389 c 0,39,40
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph144
@@ -6894,6 +7029,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,84,85
  1278 188 1278 188 1278 389 c 0,53,54
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph145
@@ -6955,6 +7091,7 @@ SplineSet
  1243 819 1243 819 1345 682 c 0,86,87
  1436 561 1436 561 1436 383 c 0,4,5
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph146
@@ -7007,6 +7144,7 @@ SplineSet
  741 520 741 520 819 591 c 0,70,71
  883 649 883 649 874 666 c 1,56,57
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph147
@@ -7061,6 +7199,7 @@ SplineSet
  778 729 778 729 812 695.5 c 128,-1,68
  846 662 846 662 846 614 c 256,57,58
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph148
@@ -7099,6 +7238,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,43,44
  1245 324 1245 324 1245 430 c 0,25,26
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph149
@@ -7144,6 +7284,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,55,56
  1245 324 1245 324 1245 430 c 0,37,38
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph150
@@ -7183,6 +7324,7 @@ SplineSet
  811 899 l 1,46,47
  1155 700 1155 700 1155 348 c 0,0,1
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph151
@@ -7242,6 +7384,7 @@ SplineSet
  1251 844 1251 844 1304.5 721.5 c 128,-1,79
  1358 599 1358 599 1360 440 c 0,16,17
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph152
@@ -7308,6 +7451,7 @@ SplineSet
  623 -240 623 -240 733 0 c 1,89,90
  848 -238 848 -238 848 -293 c 0,80,81
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph153
@@ -7359,6 +7503,7 @@ SplineSet
  1302 847 1302 847 1356 705 c 1,70,71
  1403 577 1403 577 1403 442 c 0,0,1
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph154
@@ -7417,6 +7562,7 @@ SplineSet
  641 -246 641 -246 752 -4 c 1,82,83
  868 -246 868 -246 868 -297 c 0,72,73
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph155
@@ -7482,6 +7628,7 @@ SplineSet
  1835 899 l 1,96,97
  2040 725 2040 725 2040 487 c 0,0,1
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph156
@@ -7545,6 +7692,7 @@ SplineSet
  691 193 691 193 783 303 c 0,90,91
  856 390 856 390 856 518 c 0,76,77
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph157
@@ -7577,6 +7725,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,26
  991 385 991 385 991 539 c 0,15,16
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph158
@@ -7630,6 +7779,7 @@ SplineSet
  1162 188 1162 188 1242 289 c 0,68,69
  1311 376 1311 376 1311 516 c 0,51,52
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph159
@@ -7676,6 +7826,7 @@ SplineSet
  567 705 567 705 615 734 c 0,60,61
  668 767 668 767 668 819 c 0,48,49
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph160
@@ -7742,6 +7893,7 @@ SplineSet
  737 102 737 102 776 135 c 0,98,99
  819 172 819 172 819 231 c 0,88,89
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph161
@@ -7791,6 +7943,7 @@ SplineSet
  1150 818 1150 818 1258 646 c 0,67,68
  1354 494 1354 494 1354 322 c 0,0,1
 EndSplineSet
+Validated: 2097153
 EndChar
 
 StartChar: glyph162
@@ -7845,6 +7998,7 @@ SplineSet
  793 158 793 158 904 233 c 0,73,74
  1030 318 1030 318 1030 545 c 0,54,55
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: glyph163
@@ -7913,6 +8067,7 @@ SplineSet
  1360 257 1360 257 1292 133 c 1,92,93
  1358 69 1358 69 1430 -2 c 0,16,17
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: exclamdown
@@ -7958,6 +8113,7 @@ SplineSet
  1019 776 1019 776 1072 627 c 1,52,53
  1118 501 1118 501 1118 379 c 0,16,17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cent
@@ -8009,6 +8165,7 @@ SplineSet
  587 164 587 164 680 269 c 0,67,68
  748 345 748 345 748 377 c 1,55,56
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: sterling
@@ -8062,6 +8219,7 @@ SplineSet
  449 723 449 723 485 756 c 0,76,77
  516 784 516 784 516 825 c 0,68,69
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: currency
@@ -8102,6 +8260,7 @@ SplineSet
  44 -607 44 -607 91 -567 c 0,43,44
  143 -522 143 -522 143 -445 c 0,31,32
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Egrave
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" three c
 EndChar
@@ -8155,6 +8314,7 @@ SplineSet
  -489 -613 -489 -613 -421 -574 c 1,72,73
  -371 -544 -371 -544 -371 -531 c 1,62,63
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Eacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" four c
 EndChar
@@ -8178,6 +8338,7 @@ SplineSet
  -67 -194 -67 -194 55 -366 c 0,14,15
  164 -519 164 -519 164 -732 c 1,0,-1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Ecircumflex
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" five c
 EndChar
@@ -8237,6 +8398,7 @@ SplineSet
  -476 -681 -476 -681 -406 -545 c 1,83,84
  -341 -685 -341 -685 -341 -696 c 0,76,77
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 18 subtable" Edieresis
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" six c
 EndChar
@@ -8298,6 +8460,7 @@ SplineSet
  -19 -467 -19 -467 28 -517 c 0,88,89
  68 -560 68 -560 71 -625 c 0,8,9
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 18 subtable" Igrave
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" seven c
 EndChar
@@ -8351,6 +8514,7 @@ SplineSet
  112 -386 l 1,68,69
  220 -511 220 -511 220 -617 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Iacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" eight c
 EndChar
@@ -8391,6 +8555,7 @@ SplineSet
  -305 -798 -305 -798 -244 -664 c 1,47,48
  -172 -808 -172 -808 -172 -819 c 0,41,42
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Icircumflex
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" nine c
 EndChar
@@ -8443,6 +8608,7 @@ SplineSet
  -1 -453 -1 -453 31 -504 c 1,67,68
  54 -543 54 -543 54 -588 c 0,0,1
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 18 subtable" Idieresis
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" colon c
 EndChar
@@ -8508,6 +8674,7 @@ SplineSet
  -596 -545 -596 -545 -548 -509 c 1,93,94
  -494 -467 -494 -467 -494 -394 c 0,80,81
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Eth
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" semicolon c
 EndChar
@@ -8572,6 +8739,7 @@ SplineSet
  -245 -590 -245 -590 -185 -548 c 0,94,95
  -138 -516 -138 -516 -138 -504 c 0,84,85
 EndSplineSet
+Validated: 37
 Substitution2: "Single Substitution lookup 18 subtable" Ntilde
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" less c
 EndChar
@@ -8619,6 +8787,7 @@ SplineSet
  -640 -306 -640 -306 -564 -306 c 0,61,62
  -484 -306 -484 -306 -484 -234 c 0,53,54
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Ograve
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" equal c
 EndChar
@@ -8659,6 +8828,7 @@ SplineSet
  -273 -332 -273 -332 -251.5 -352 c 128,-1,35
  -230 -372 -230 -372 -230 -399 c 0,24,25
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Oacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" greater c
 EndChar
@@ -8712,6 +8882,7 @@ SplineSet
  110 -632 110 -632 152 -577 c 1,71,72
  187 -529 187 -529 187 -456 c 0,37,38
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Ocircumflex
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" question c
 EndChar
@@ -8771,6 +8942,7 @@ SplineSet
  110 -632 110 -632 152 -577 c 1,80,81
  187 -529 187 -529 187 -456 c 0,46,47
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Otilde
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" at c
 EndChar
@@ -8831,6 +9003,7 @@ SplineSet
  -30 -169 -30 -169 47 -273 c 0,85,86
  114 -364 114 -364 114 -497 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Odieresis
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" A c
 EndChar
@@ -8863,6 +9036,7 @@ SplineSet
  126 -434 126 -434 158 -394 c 0,28,29
  186 -359 186 -359 186 -307 c 0,17,18
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" multiply
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" B c
 EndChar
@@ -8911,6 +9085,7 @@ SplineSet
  -337 -272 -337 -272 -315.5 -293.5 c 128,-1,56
  -294 -315 -294 -315 -294 -346 c 0,47,48
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Oslash
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" C c
 EndChar
@@ -8946,6 +9121,7 @@ SplineSet
  -61 -616 -61 -616 -28 -575 c 128,-1,37
  5 -534 5 -534 5 -473 c 0,20,21
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Ugrave
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" D c
 EndChar
@@ -8987,6 +9163,7 @@ SplineSet
  -61 -616 -61 -616 -28 -575 c 128,-1,46
  5 -534 5 -534 5 -473 c 0,29,30
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Uacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" E c
 EndChar
@@ -9031,6 +9208,7 @@ SplineSet
  -371 -388 -371 -388 -293 -388 c 0,53,54
  -148 -388 -148 -388 -49 -294 c 1,43,44
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Ucircumflex
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" F c
 EndChar
@@ -9068,6 +9246,7 @@ SplineSet
  37 356 37 356 57 346 c 0,43,44
  172 292 172 292 172 -111 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Udieresis
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" G c
 EndChar
@@ -9111,6 +9290,7 @@ SplineSet
  -305 -636 -305 -636 -244 -475 c 1,52,53
  -172 -644 -172 -644 -172 -659 c 0,45,46
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" Yacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" H c
 EndChar
@@ -9155,6 +9335,7 @@ SplineSet
  163 198 163 198 211 21 c 0,56,57
  253 -135 253 -135 253 -357 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" Thorn
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" I c
 EndChar
@@ -9204,6 +9385,7 @@ SplineSet
  -265 -778 -265 -778 -201 -615 c 1,64,65
  -130 -791 -130 -791 -130 -804 c 0,58,59
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" germandbls
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" J c
 EndChar
@@ -9249,6 +9431,7 @@ SplineSet
  137 -403 137 -403 183 -371 c 0,55,56
  224 -342 224 -342 223 -307 c 0,45,46
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" agrave
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" K c
 EndChar
@@ -9302,6 +9485,7 @@ SplineSet
  200 -251 200 -251 262 -351 c 1,73,74
  330 -477 330 -477 330 -582 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" aacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" L c
 EndChar
@@ -9326,6 +9510,7 @@ SplineSet
  60 -204 60 -204 143 -49 c 1,15,-1
  193 -49 l 1,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" acircumflex
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" M c
 EndChar
@@ -9379,6 +9564,7 @@ SplineSet
  -759 -268 -759 -268 -696 -268 c 0,67,68
  -618 -268 -618 -268 -618 -193 c 0,61,62
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" atilde
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" N c
 EndChar
@@ -9421,6 +9607,7 @@ SplineSet
  139 -234 139 -234 206 -315 c 0,54,55
  265 -386 265 -386 265 -488 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" adieresis
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" O c
 EndChar
@@ -9476,6 +9663,7 @@ SplineSet
  -343 -676 -343 -676 -265 -676 c 0,74,75
  -189 -676 -189 -676 -189 -604 c 0,66,67
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" aring
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" P c
 EndChar
@@ -9528,6 +9716,7 @@ SplineSet
  252 -146 252 -146 328 -260 c 0,71,72
  397 -365 397 -365 397 -481 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" ae
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" Q c
 EndChar
@@ -9572,6 +9761,7 @@ SplineSet
  26 -613 26 -613 106 -559 c 0,55,56
  197 -498 197 -498 197 -394 c 0,39,40
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" ccedilla
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" R c
 EndChar
@@ -9613,6 +9803,7 @@ SplineSet
  -35 262 -35 262 -33 258 c 0,50,51
  233 -327 233 -327 233 -455 c 0,0,1
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" egrave
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" S c
 EndChar
@@ -9647,6 +9838,7 @@ SplineSet
  105 371 105 371 148 164 c 0,37,38
  190 -39 190 -39 190 -227 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 18 subtable" eacute
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" T c
 EndChar
@@ -9694,6 +9886,7 @@ SplineSet
  -391 -713 -391 -713 -329 -646 c 0,59,60
  -271 -583 -271 -583 -271 -492 c 0,46,47
 EndSplineSet
+Validated: 33
 Substitution2: "Single Substitution lookup 18 subtable" ecircumflex
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" U c
 EndChar
@@ -9745,6 +9938,7 @@ SplineSet
  -735 -268 -735 -268 -672 -268 c 0,66,67
  -594 -268 -594 -268 -594 -193 c 0,60,61
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Egrave
@@ -9784,6 +9978,7 @@ SplineSet
  197 -838 197 -838 231 -808 c 0,41,42
  270 -774 270 -774 270 -717 c 0,29,30
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" currency c
 EndChar
 
@@ -9834,6 +10029,7 @@ SplineSet
  -346 -831 -346 -831 -238 -831 c 0,65,66
  -154 -831 -154 -831 -82 -776 c 1,59,60
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" yen c
 EndChar
 
@@ -9856,6 +10052,7 @@ SplineSet
  69 -481 69 -481 168 -616 c 1,14,15
  256 -738 256 -738 258 -911 c 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" brokenbar c
 EndChar
 
@@ -9911,6 +10108,7 @@ SplineSet
  -51 -834 -51 -834 12 -702 c 1,78,79
  74 -834 74 -834 74 -844 c 0,72,73
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" section c
 EndChar
 
@@ -9968,6 +10166,7 @@ SplineSet
  328 -678 328 -678 367 -718 c 0,83,84
  403 -754 403 -754 403 -809 c 1,8,9
 EndSplineSet
+Validated: 37
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" dieresis c
 EndChar
 
@@ -10019,6 +10218,7 @@ SplineSet
  434 -594 l 1,64,65
  512 -700 512 -700 512 -770 c 0,0,1
 EndSplineSet
+Validated: 37
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" copyright c
 EndChar
 
@@ -10059,6 +10259,7 @@ SplineSet
  -2 -826 -2 -826 47 -711 c 1,48,49
  113 -834 113 -834 113 -844 c 0,42,43
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" ordfeminine c
 EndChar
 
@@ -10110,6 +10311,7 @@ SplineSet
  328 -668 328 -668 358 -708 c 0,66,67
  381 -739 381 -739 381 -778 c 0,0,1
 EndSplineSet
+Validated: 37
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" guillemotleft c
 EndChar
 
@@ -10167,6 +10369,7 @@ SplineSet
  -253 -666 -253 -666 -216 -639 c 0,80,81
  -174 -608 -174 -608 -174 -555 c 0,70,71
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" logicalnot c
 EndChar
 
@@ -10227,6 +10430,7 @@ SplineSet
  145 -807 145 -807 193 -778 c 0,87,88
  231 -754 231 -754 231 -745 c 0,77,78
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" less_c.blwf c
 EndChar
 
@@ -10271,6 +10475,7 @@ SplineSet
  -168 -631 -168 -631 -113 -631 c 0,56,57
  -51 -631 -51 -631 -51 -580 c 0,50,51
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" registered c
 EndChar
 
@@ -10310,6 +10515,7 @@ SplineSet
  4 -580 4 -580 22.5 -599 c 128,-1,35
  41 -618 41 -618 41 -641 c 256,24,25
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" overscore c
 EndChar
 
@@ -10356,6 +10562,7 @@ SplineSet
  276 -815 276 -815 307 -775 c 0,59,60
  334 -739 334 -739 334 -688 c 0,33,34
 EndSplineSet
+Validated: 37
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" degree c
 EndChar
 
@@ -10407,6 +10614,7 @@ SplineSet
  398 -662 398 -662 430 -620 c 0,66,67
  457 -584 457 -584 457 -532 c 0,41,42
 EndSplineSet
+Validated: 37
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" plusminus c
 EndChar
 
@@ -10461,6 +10669,7 @@ SplineSet
  310 -408 310 -408 373 -490 c 0,74,75
  428 -562 428 -562 428 -666 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" twosuperior c
 EndChar
 
@@ -10491,6 +10700,7 @@ SplineSet
  147 -760 l 2,25,26
  236 -760 236 -760 236 -666 c 0,17,18
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" threesuperior c
 EndChar
 
@@ -10537,6 +10747,7 @@ SplineSet
  100 -385 100 -385 162 -385 c 0,54,55
  229 -385 229 -385 229 -451 c 0,46,47
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" acute c
 EndChar
 
@@ -10570,6 +10781,7 @@ SplineSet
  403 -811 403 -811 430 -778 c 0,35,36
  455 -748 455 -748 455 -705 c 0,19,20
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" mu1 c
 EndChar
 
@@ -10609,6 +10821,7 @@ SplineSet
  403 -664 403 -664 430 -631 c 0,44,45
  455 -601 455 -601 455 -557 c 0,28,29
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" paragraph c
 EndChar
 
@@ -10652,6 +10865,7 @@ SplineSet
  -168 -688 -168 -688 -109 -660 c 0,54,55
  -66 -640 -66 -640 -53 -625 c 1,42,43
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" middot c
 EndChar
 
@@ -10687,6 +10901,7 @@ SplineSet
  270 -193 270 -193 287 -201 c 0,39,40
  383 -246 383 -246 383 -567 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" cedilla c
 EndChar
 
@@ -10727,6 +10942,7 @@ SplineSet
  -2 -826 -2 -826 47 -711 c 1,48,49
  113 -834 113 -834 113 -844 c 0,42,43
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" onesuperior c
 EndChar
 
@@ -10769,6 +10985,7 @@ SplineSet
  470 -207 470 -207 511 -347 c 0,52,53
  549 -476 549 -476 549 -649 c 0,0,1
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" ordmasculine c
 EndChar
 
@@ -10817,6 +11034,7 @@ SplineSet
  127 -816 127 -816 182 -674 c 1,61,62
  246 -824 246 -824 246 -836 c 0,54,55
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" guillemotright c
 EndChar
 
@@ -10860,6 +11078,7 @@ SplineSet
  399 -612 399 -612 431 -591.5 c 128,-1,54
  463 -571 463 -571 463 -545 c 1,46,47
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" onequarter c
 EndChar
 
@@ -10905,6 +11124,7 @@ SplineSet
  352 -341 352 -341 439 -477.5 c 128,-1,57
  526 -614 526 -614 526 -705 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" onehalf c
 EndChar
 
@@ -10928,6 +11148,7 @@ SplineSet
  60 -548 60 -548 143 -393 c 1,15,-1
  193 -393 l 1,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" threequarters c
 EndChar
 
@@ -10979,6 +11200,7 @@ SplineSet
  -120 -647 -120 -647 -86 -647 c 0,65,66
  -47 -647 -47 -647 -47 -610 c 0,59,60
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" questiondown c
 EndChar
 
@@ -11013,6 +11235,7 @@ SplineSet
  309 -567 309 -567 358 -624 c 0,39,40
  401 -675 401 -675 401 -745 c 0,0,1
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Agrave c
 EndChar
 
@@ -11061,6 +11284,7 @@ SplineSet
  115 -848 115 -848 156 -848 c 0,61,62
  195 -848 195 -848 195 -811 c 0,55,56
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Aacute c
 EndChar
 
@@ -11111,6 +11335,7 @@ SplineSet
  377 -467 l 1,66,67
  524 -562 524 -562 524 -723 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Acircumflex c
 EndChar
 
@@ -11151,6 +11376,7 @@ SplineSet
  256 -807 256 -807 305 -774 c 0,48,49
  360 -736 360 -736 360 -672 c 0,38,39
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Atilde c
 EndChar
 
@@ -11191,6 +11417,7 @@ SplineSet
  310 -358 310 -358 348 -367 c 1,49,50
  530 -764 530 -764 530 -848 c 0,0,1
 EndSplineSet
+Validated: 5
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Adieresis c
 EndChar
 
@@ -11223,6 +11450,7 @@ SplineSet
  415 -209 415 -209 447 -352 c 128,-1,34
  479 -495 479 -495 479 -627 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Aring c
 EndChar
 
@@ -11265,6 +11493,7 @@ SplineSet
  -34 -815 -34 -815 5 -775 c 0,51,52
  41 -737 41 -737 41 -684 c 0,38,39
 EndSplineSet
+Validated: 33
 Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" AE c
 EndChar
 
@@ -11317,6 +11546,7 @@ SplineSet
  -121 -653 -121 -653 -94 -653 c 0,68,69
  -53 -653 -53 -653 -53 -616 c 0,62,63
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: igrave
@@ -11346,6 +11576,7 @@ SplineSet
  393 -760 l 2,25,26
  481 -760 481 -760 481 -666 c 0,17,18
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: iacute
@@ -11388,6 +11619,7 @@ SplineSet
  77 -688 77 -688 137 -660 c 0,54,55
  180 -640 180 -640 193 -625 c 1,42,43
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: icircumflex
@@ -11432,6 +11664,7 @@ SplineSet
  352 -341 352 -341 439 -477.5 c 128,-1,57
  526 -614 526 -614 526 -705 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: idieresis
@@ -11454,6 +11687,7 @@ SplineSet
  60 -548 60 -548 143 -393 c 1,15,-1
  193 -393 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eth
@@ -11487,6 +11721,7 @@ SplineSet
  309 -567 309 -567 358 -624 c 0,39,40
  401 -675 401 -675 401 -745 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ntilde
@@ -11536,6 +11771,7 @@ SplineSet
  377 -467 l 1,66,67
  524 -562 524 -562 524 -723 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ograve
@@ -11594,6 +11830,7 @@ SplineSet
  125 -547 125 -547 163 -512 c 0,76,77
  205 -473 205 -473 205 -410 c 0,64,65
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" bracketleft currency
 EndChar
 
@@ -11665,6 +11902,7 @@ SplineSet
  -115 -381 -115 -381 -84 -381 c 0,101,102
  16 -381 16 -381 16 -311 c 0,92,93
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: ocircumflex
@@ -11719,6 +11957,7 @@ SplineSet
  -582 -324 -582 -324 -506 -324 c 0,77,78
  -426 -324 -426 -324 -426 -254 c 0,69,70
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: otilde
@@ -11758,6 +11997,7 @@ SplineSet
  -340 -262 -340 -262 -340 -316 c 1,47,-1
  -217 -316 l 2,38,39
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" bracketleft threesuperior
 EndChar
 
@@ -11806,6 +12046,7 @@ SplineSet
  -340 -262 -340 -262 -340 -316 c 1,63,-1
  -217 -316 l 2,54,55
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" e threesuperior
 EndChar
 
@@ -11862,6 +12103,7 @@ SplineSet
  -208 -438 -208 -438 -162 -438 c 1,74,75
  -49 -420 -49 -420 -49 -315 c 0,64,65
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: oslash
@@ -11908,6 +12150,7 @@ SplineSet
  -28 -329 -28 -329 35 -385 c 1,60,-1
  100 -385 l 2,48,49
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ugrave
@@ -11953,6 +12196,7 @@ SplineSet
  333 -184 333 -184 362 -286 c 0,61,62
  381 -352 381 -352 381 -438 c 0,41,42
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: uacute
@@ -12029,6 +12273,7 @@ SplineSet
  137 -403 137 -403 183 -371 c 0,115,116
  224 -342 224 -342 223 -307 c 0,105,106
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" e onequarter
 EndChar
 
@@ -12106,6 +12351,7 @@ SplineSet
  137 -403 137 -403 183 -371 c 0,113,114
  224 -342 224 -342 223 -307 c 0,103,104
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: udieresis
@@ -12159,6 +12405,7 @@ SplineSet
  87 -350 87 -350 168 -350 c 0,71,72
  272 -350 272 -350 272 -277 c 0,61,62
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" e threequarters
 EndChar
 
@@ -12237,6 +12484,7 @@ SplineSet
  633 176 633 176 698 228 c 0,110,111
  772 286 772 286 772 391 c 0,97,98
 EndSplineSet
+Validated: 33
 Ligature2: "'akhn' Akhand in Kannada lookup 11 subtable" three c S
 EndChar
 
@@ -12349,6 +12597,7 @@ SplineSet
  880 -524 880 -524 940 -483 c 0,186,187
  987 -450 987 -450 987 -438 c 256,176,177
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: ydieresis
@@ -12421,6 +12670,7 @@ SplineSet
  633 176 633 176 698 228 c 0,100,101
  772 286 772 286 772 391 c 0,87,88
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Amacron
@@ -12535,6 +12785,7 @@ SplineSet
  880 -524 880 -524 940 -483 c 0,188,189
  987 -450 987 -450 987 -438 c 256,178,179
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: amacron
@@ -12599,6 +12850,7 @@ SplineSet
  -74 -395 -74 -395 -39 -366 c 1,86,87
  0 -332 0 -332 0 -274 c 0,74,75
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Abreve
@@ -12721,6 +12973,7 @@ SplineSet
  633 176 633 176 698 228 c 0,190,191
  772 286 772 286 772 391 c 0,177,178
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: abreve
@@ -12838,6 +13091,7 @@ SplineSet
  633 176 633 176 698 228 c 0,180,181
  772 286 772 286 772 391 c 0,167,168
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Aogonek
@@ -12889,6 +13143,7 @@ SplineSet
  665 176 665 176 730 228 c 0,63,64
  803 286 803 286 803 391 c 0,50,51
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" three W
 EndChar
 
@@ -12962,6 +13217,7 @@ SplineSet
  437 188 437 188 573 242 c 0,111,112
  692 289 692 289 684 297 c 0,99,100
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" four W
 EndChar
 
@@ -12996,6 +13252,7 @@ SplineSet
  465 975 465 975 606 975 c 0,35,36
  827 975 827 975 934 764 c 1,23,24
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" five W
 EndChar
 
@@ -13094,6 +13351,7 @@ SplineSet
  598 -246 598 -246 709 -4 c 1,152,153
  823 -242 823 -242 823 -295 c 0,142,143
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Ccircumflex
@@ -13178,6 +13436,7 @@ SplineSet
  541 954 541 954 649 954 c 0,131,132
  767 954 767 954 811 1096 c 1,124,125
 EndSplineSet
+Validated: 41
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" six W
 EndChar
 
@@ -13268,6 +13527,7 @@ SplineSet
  598 -246 598 -246 709 -4 c 1,136,137
  823 -242 823 -242 823 -295 c 0,126,127
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Cdot
@@ -13389,6 +13649,7 @@ SplineSet
  1265 -389 1265 -389 1298 -389 c 0,195,196
  1403 -389 1403 -389 1403 -315 c 0,186,187
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: cdot
@@ -13459,6 +13720,7 @@ SplineSet
  942 973 942 973 1061 973 c 0,103,104
  1162 973 1162 973 1171 1077 c 1,94,95
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" eight W
 EndChar
 
@@ -13525,6 +13787,7 @@ SplineSet
  472 715 472 715 511 751 c 1,97,98
  544 783 544 783 543 827 c 0,87,88
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" nine W
 EndChar
 
@@ -13601,6 +13864,7 @@ SplineSet
  987 1019 987 1019 1020 1047 c 0,115,116
  1057 1078 1057 1078 1057 1133 c 0,104,105
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" colon W
 EndChar
 
@@ -13679,6 +13943,7 @@ SplineSet
  774 176 774 176 882.5 282 c 128,-1,112
  991 388 991 388 991 553 c 0,101,102
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" semicolon W
 EndChar
 
@@ -13759,6 +14024,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,117
  991 385 991 385 991 539 c 0,106,107
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph139 bracketright
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" semicolon bracketright
 EndChar
@@ -13872,6 +14138,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,175
  991 385 991 385 991 539 c 0,164,165
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph139 underscore
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" semicolon underscore
 EndChar
@@ -13952,6 +14219,7 @@ SplineSet
  457 516 457 516 492 548 c 0,121,122
  524 577 524 577 524 618 c 0,109,110
 EndSplineSet
+Validated: 5
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" equal W
 EndChar
 
@@ -14006,6 +14274,7 @@ SplineSet
  662 678 662 678 697.5 644 c 128,-1,64
  733 610 733 610 733 563 c 256,53,54
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" greater W
 EndChar
 
@@ -14077,6 +14346,7 @@ SplineSet
  1165 188 1165 188 1235 255 c 0,107,108
  1298 314 1298 314 1294 403 c 0,67,68
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" question W
 EndChar
 
@@ -14155,6 +14425,7 @@ SplineSet
  1295 308 1295 308 1295 395 c 0,118,119
  1295 480 1295 480 1237 549 c 1,78,79
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" at W
 EndChar
 
@@ -14226,6 +14497,7 @@ SplineSet
  1112 1212 1112 1212 1212 1212 c 0,105,106
  1307 1212 1307 1212 1319 1288 c 1,98,99
 EndSplineSet
+Validated: 5
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" A W
 EndChar
 
@@ -14289,6 +14561,7 @@ SplineSet
  575 520 575 520 625 520 c 0,92,93
  796 520 796 520 889 664 c 1,82,83
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" B W
 EndChar
 
@@ -14356,6 +14629,7 @@ SplineSet
  778 729 778 729 812 695.5 c 128,-1,95
  846 662 846 662 846 614 c 256,84,85
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" C W
 EndChar
 
@@ -14407,6 +14681,7 @@ SplineSet
  1114 186 1114 186 1181 260 c 0,70,71
  1245 330 1245 330 1245 438 c 0,46,47
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" D W
 EndChar
 
@@ -14465,6 +14740,7 @@ SplineSet
  1114 186 1114 186 1181 260 c 0,82,83
  1245 330 1245 330 1245 438 c 0,58,59
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" E W
 EndChar
 
@@ -14515,6 +14791,7 @@ SplineSet
  340 969 340 969 378 997.5 c 128,-1,68
  416 1026 416 1026 416 1069 c 0,60,61
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" F W
 EndChar
 
@@ -14584,6 +14861,7 @@ SplineSet
  541 954 541 954 649 954 c 0,103,104
  767 954 767 954 811 1096 c 1,96,97
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" G W
 EndChar
 
@@ -14660,6 +14938,7 @@ SplineSet
  541 954 541 954 649 954 c 0,114,115
  767 954 767 954 811 1096 c 1,107,108
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" H W
 EndChar
 
@@ -14744,6 +15023,7 @@ SplineSet
  623 -240 623 -240 733 0 c 1,120,121
  848 -238 848 -238 848 -293 c 0,111,112
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Gbreve
@@ -14855,6 +15135,7 @@ SplineSet
  623 -240 623 -240 733 0 c 1,172,173
  848 -238 848 -238 848 -293 c 0,163,164
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: gbreve
@@ -14978,6 +15259,7 @@ SplineSet
  623 -240 623 -240 733 0 c 1,196,197
  848 -238 848 -238 848 -293 c 0,187,188
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph152 bracketright Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" H bracketright Z
 EndChar
@@ -15038,6 +15320,7 @@ SplineSet
  931 920 931 920 972 953 c 0,86,87
  1018 990 1018 990 1018 1049 c 0,74,75
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" I W
 EndChar
 
@@ -15104,6 +15387,7 @@ SplineSet
  931 920 931 920 972 953 c 0,98,99
  1018 990 1018 990 1018 1049 c 0,86,87
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" J W
 EndChar
 
@@ -15175,6 +15459,7 @@ SplineSet
  893 919 893 919 934 952 c 0,110,111
  979 989 979 989 979 1049 c 0,100,101
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" K W
 EndChar
 
@@ -15253,6 +15538,7 @@ SplineSet
  1712 1090 1712 1090 1870 913 c 0,122,123
  2040 722 2040 722 2040 487 c 0,0,1
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph155 bracketright
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" K bracketright
 EndChar
@@ -15364,6 +15650,7 @@ SplineSet
  2003 -389 2003 -389 2036 -389 c 0,180,181
  2140 -389 2140 -389 2140 -315 c 0,170,171
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph155 underscore
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" K underscore
 EndChar
@@ -15435,6 +15722,7 @@ SplineSet
  691 193 691 193 783 303 c 0,107,108
  856 390 856 390 856 518 c 0,93,94
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" L W
 EndChar
 
@@ -15511,6 +15799,7 @@ SplineSet
  691 193 691 193 783 303 c 0,116,117
  856 390 856 390 856 518 c 0,102,103
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph156 bracketright
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" L bracketright
 EndChar
@@ -15620,6 +15909,7 @@ SplineSet
  691 193 691 193 783 303 c 0,174,175
  856 390 856 390 856 518 c 0,160,161
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph156 underscore
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" L underscore
 EndChar
@@ -15666,6 +15956,7 @@ SplineSet
  771 176 771 176 881 286.5 c 128,-1,50
  991 397 991 397 991 553 c 0,39,40
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" M W
 EndChar
 
@@ -15721,6 +16012,7 @@ SplineSet
  571 705 571 705 619 734 c 0,76,77
  672 767 672 767 672 819 c 0,65,66
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" O W
 EndChar
 
@@ -15797,6 +16089,7 @@ SplineSet
  737 102 737 102 776 135 c 0,118,119
  819 172 819 172 819 231 c 0,108,109
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" P W
 EndChar
 
@@ -15856,6 +16149,7 @@ SplineSet
  893 919 893 919 934 952 c 0,87,88
  979 989 979 989 979 1049 c 0,77,78
 EndSplineSet
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" Q W
 EndChar
 
@@ -15922,6 +16216,7 @@ SplineSet
  793 158 793 158 904 233 c 0,96,97
  1030 318 1030 318 1030 545 c 0,81,82
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" R W
 EndChar
 
@@ -16001,6 +16296,7 @@ SplineSet
  541 954 541 954 649 954 c 0,119,120
  767 954 767 954 811 1096 c 1,112,113
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" S W
 EndChar
 
@@ -16056,6 +16352,7 @@ SplineSet
  336 954 336 954 444 954 c 0,77,78
  564 954 564 954 606 1096 c 1,70,71
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" T W
 EndChar
 
@@ -16120,6 +16417,7 @@ SplineSet
  587 164 587 164 680 269 c 0,89,90
  748 345 748 345 748 377 c 1,77,78
 EndSplineSet
+Validated: 1
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" U W
 EndChar
 
@@ -16201,6 +16499,7 @@ SplineSet
  665 176 665 176 730 228 c 0,116,117
  803 286 803 286 803 391 c 0,103,104
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: dotlessi
@@ -16327,6 +16626,7 @@ SplineSet
  880 -524 880 -524 940 -483 c 0,211,212
  987 -450 987 -450 987 -438 c 256,201,202
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: IJ
@@ -16450,6 +16750,7 @@ SplineSet
  665 176 665 176 730 228 c 0,196,197
  803 286 803 286 803 391 c 0,183,184
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ij
@@ -16516,6 +16817,7 @@ SplineSet
  633 176 633 176 698 228 c 0,91,92
  772 286 772 286 772 391 c 0,78,79
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" three c
 EndChar
 
@@ -16597,6 +16899,7 @@ SplineSet
  271 188 271 188 336 188 c 0,123,124
  556 188 556 188 702 297 c 1,115,116
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" four c
 EndChar
 
@@ -16646,6 +16949,7 @@ SplineSet
  1279 885 1279 885 1279 866 c 0,62,63
  1279 651 1279 651 1446 651 c 0,50,51
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" five c
 EndChar
 
@@ -16742,6 +17046,7 @@ SplineSet
  1764 883 1764 883 1764 863 c 0,147,148
  1764 651 1764 651 1929 651 c 0,135,136
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" six c
 EndChar
 
@@ -16835,6 +17140,7 @@ SplineSet
  1581 883 1581 883 1581 863 c 0,144,145
  1581 651 1581 651 1747 651 c 0,132,133
 EndSplineSet
+Validated: 37
 Ligature2: "Ligature Substitution lookup 16 subtable" seven c
 EndChar
 
@@ -16921,6 +17227,7 @@ SplineSet
  1630 883 1630 883 1630 863 c 0,130,131
  1630 651 1630 651 1796 651 c 0,118,119
 EndSplineSet
+Validated: 37
 Ligature2: "Ligature Substitution lookup 16 subtable" eight c
 EndChar
 
@@ -17003,6 +17310,7 @@ SplineSet
  475 717 475 717 514 752 c 0,125,126
  549 783 549 783 549 827 c 0,115,116
 EndSplineSet
+Validated: 37
 Ligature2: "Ligature Substitution lookup 16 subtable" nine c
 EndChar
 
@@ -17090,6 +17398,7 @@ SplineSet
  1530 883 1530 883 1530 863 c 0,134,135
  1530 651 1530 651 1696 651 c 0,123,124
 EndSplineSet
+Validated: 37
 Ligature2: "Ligature Substitution lookup 16 subtable" colon c
 EndChar
 
@@ -17182,6 +17491,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,136
  991 385 991 385 991 539 c 0,125,126
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" semicolon c
 EndChar
 
@@ -17283,6 +17593,7 @@ SplineSet
  911 393 911 393 1024 393 c 0,161,162
  1130 393 1130 393 1212 477 c 1,154,155
 EndSplineSet
+Validated: 37
 Ligature2: "Ligature Substitution lookup 16 subtable" less c
 EndChar
 
@@ -17379,6 +17690,7 @@ SplineSet
  433 518 433 518 468 549 c 1,149,150
  500 576 500 576 500 616 c 0,138,139
 EndSplineSet
+Validated: 37
 Ligature2: "Ligature Substitution lookup 16 subtable" equal c
 EndChar
 
@@ -17443,6 +17755,7 @@ SplineSet
  662 678 662 678 697.5 644 c 128,-1,80
  733 610 733 610 733 563 c 256,69,70
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" greater c
 EndChar
 
@@ -17520,6 +17833,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,112,113
  1278 188 1278 188 1278 389 c 0,81,82
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" question c
 EndChar
 
@@ -17605,6 +17919,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,126,127
  1278 188 1278 188 1278 389 c 0,95,96
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" at c
 EndChar
 
@@ -17689,6 +18004,7 @@ SplineSet
  1567 883 1567 883 1567 863 c 0,128,129
  1567 651 1567 651 1733 651 c 0,117,118
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" A c
 EndChar
 
@@ -17764,6 +18080,7 @@ SplineSet
  741 520 741 520 819 591 c 0,112,113
  883 649 883 649 874 666 c 1,98,99
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" B c
 EndChar
 
@@ -17841,6 +18158,7 @@ SplineSet
  778 729 778 729 812 695.5 c 128,-1,110
  846 662 846 662 846 614 c 256,99,100
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" C c
 EndChar
 
@@ -17902,6 +18220,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,85,86
  1245 324 1245 324 1245 430 c 0,67,68
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" D c
 EndChar
 
@@ -17970,6 +18289,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,97,98
  1245 324 1245 324 1245 430 c 0,79,80
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" E c
 EndChar
 
@@ -18032,6 +18352,7 @@ SplineSet
  1276 885 1276 885 1276 866 c 0,88,89
  1276 651 1276 651 1442 651 c 0,77,78
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" F c
 EndChar
 
@@ -18114,6 +18435,7 @@ SplineSet
  1526 885 1526 885 1526 866 c 0,120,121
  1526 651 1526 651 1694 651 c 0,109,110
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" G c
 EndChar
 
@@ -18203,6 +18525,7 @@ SplineSet
  1526 885 1526 885 1526 866 c 0,131,132
  1526 651 1526 651 1694 651 c 0,120,121
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" H c
 EndChar
 
@@ -18278,6 +18601,7 @@ SplineSet
  1571 885 1571 885 1571 866 c 0,113,114
  1571 651 1571 651 1737 651 c 0,102,103
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" I c
 EndChar
 
@@ -18360,6 +18684,7 @@ SplineSet
  1571 885 1571 885 1571 866 c 0,125,126
  1571 651 1571 651 1737 651 c 0,114,115
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" J c
 EndChar
 
@@ -18449,6 +18774,7 @@ SplineSet
  2210 885 2210 885 2210 866 c 0,139,140
  2210 651 2210 651 2376 651 c 0,128,129
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" K c
 EndChar
 
@@ -18536,6 +18862,7 @@ SplineSet
  691 193 691 193 783 303 c 0,133,134
  856 390 856 390 856 518 c 0,119,120
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" L c
 EndChar
 
@@ -18591,6 +18918,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,68
  991 385 991 385 991 539 c 0,57,58
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" M c
 EndChar
 
@@ -18670,6 +18998,7 @@ SplineSet
  1162 188 1162 188 1242 289 c 0,113,114
  1311 376 1311 376 1311 516 c 0,96,97
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" N c
 EndChar
 
@@ -18739,6 +19068,7 @@ SplineSet
  567 705 567 705 615 734 c 0,102,103
  668 767 668 767 668 819 c 0,90,91
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" O c
 EndChar
 
@@ -18829,6 +19159,7 @@ SplineSet
  737 102 737 102 776 135 c 0,140,141
  819 172 819 172 819 231 c 0,130,131
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" P c
 EndChar
 
@@ -18901,6 +19232,7 @@ SplineSet
  1458 883 1458 883 1458 863 c 0,109,110
  1458 651 1458 651 1624 651 c 0,98,99
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" Q c
 EndChar
 
@@ -18979,6 +19311,7 @@ SplineSet
  793 158 793 158 904 233 c 0,116,117
  1030 318 1030 318 1030 545 c 0,97,98
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" R c
 EndChar
 
@@ -19070,6 +19403,7 @@ SplineSet
  1530 883 1530 883 1530 863 c 0,134,135
  1530 651 1530 651 1696 651 c 0,123,124
 EndSplineSet
+Validated: 33
 Ligature2: "Ligature Substitution lookup 16 subtable" S c
 EndChar
 
@@ -19138,6 +19472,7 @@ SplineSet
  1262 883 1262 883 1262 863 c 0,94,95
  1262 651 1262 651 1427 651 c 0,83,84
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" T c
 EndChar
 
@@ -19212,6 +19547,7 @@ SplineSet
  587 164 587 164 680 269 c 0,109,110
  748 345 748 345 748 377 c 1,97,98
 EndSplineSet
+Validated: 1
 Ligature2: "Ligature Substitution lookup 16 subtable" U c
 EndChar
 
@@ -19291,6 +19627,7 @@ SplineSet
  449 723 449 723 485 756 c 0,121,122
  516 784 516 784 516 825 c 0,113,114
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: rcedilla
@@ -19385,6 +19722,7 @@ SplineSet
  633 176 633 176 698 228 c 0,142,143
  772 286 772 286 772 391 c 0,129,130
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Rcaron
@@ -19522,6 +19860,7 @@ SplineSet
  880 -524 880 -524 940 -483 c 0,230,231
  987 -450 987 -450 987 -438 c 256,220,221
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: rcaron
@@ -19661,6 +20000,7 @@ SplineSet
  633 176 633 176 698 228 c 0,222,223
  772 286 772 286 772 391 c 0,209,210
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Sacute
@@ -19777,6 +20117,7 @@ SplineSet
  1251 844 1251 844 1304.5 721.5 c 128,-1,186
  1358 599 1358 599 1360 440 c 0,123,124
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph151 bracketright Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" G bracketright Z
 EndChar
@@ -19882,6 +20223,7 @@ SplineSet
  2458 1126 2458 1126 2603 955 c 0,170,171
  2755 775 2755 775 2755 483 c 0,0,1
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 14 subtable" gcedilla Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph155 bracketright Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" K bracketright Z
@@ -19991,6 +20333,7 @@ SplineSet
  1151 818 1151 818 1258 650 c 0,174,175
  1354 499 1354 499 1354 324 c 0,75,76
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph161 bracketright Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" Q bracketright Z
 EndChar
@@ -20064,6 +20407,7 @@ SplineSet
  137 -403 137 -403 183 -371 c 0,106,107
  224 -342 224 -342 223 -307 c 0,96,97
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" bracketleft onequarter
 EndChar
 
@@ -20130,6 +20474,7 @@ SplineSet
  137 -403 137 -403 183 -371 c 0,94,95
  224 -342 224 -342 223 -307 c 0,84,85
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: scedilla
@@ -20197,6 +20542,7 @@ SplineSet
  631 -260 631 -260 652.5 -281.5 c 128,-1,96
  674 -303 674 -303 674 -334 c 0,87,88
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Scaron
@@ -20291,6 +20637,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,145
  991 385 991 385 991 539 c 0,134,135
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: scaron
@@ -20397,6 +20744,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,169
  991 385 991 385 991 539 c 0,158,159
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 14 subtable" dcaron Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" semicolon bracketright Z
 EndChar
@@ -20503,6 +20851,7 @@ SplineSet
  3137 1126 3137 1126 3282 955 c 1,172,173
  3432 776 3432 776 3432 483 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: tcedilla
@@ -20604,6 +20953,7 @@ SplineSet
  691 193 691 193 783 303 c 0,165,166
  856 390 856 390 856 518 c 0,151,152
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Tcaron
@@ -20704,6 +21054,7 @@ SplineSet
  691 193 691 193 783 303 c 0,163,164
  856 390 856 390 856 518 c 0,149,150
 EndSplineSet
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 14 subtable" Hbar Z
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" L bracketright Z
 EndChar
@@ -20727,6 +21078,7 @@ SplineSet
  69 -481 69 -481 168 -616 c 1,14,15
  256 -738 256 -738 258 -911 c 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Tbar
@@ -20783,6 +21135,7 @@ SplineSet
  328 -678 328 -678 367 -718 c 0,83,84
  403 -754 403 -754 403 -809 c 1,8,9
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: tbar
@@ -20822,6 +21175,7 @@ SplineSet
  -2 -826 -2 -826 47 -711 c 1,48,49
  113 -834 113 -834 113 -844 c 0,42,43
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Utilde
@@ -20872,6 +21226,7 @@ SplineSet
  328 -668 328 -668 358 -708 c 0,66,67
  381 -739 381 -739 381 -778 c 0,0,1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: utilde
@@ -20928,6 +21283,7 @@ SplineSet
  -253 -666 -253 -666 -216 -639 c 0,80,81
  -174 -608 -174 -608 -174 -555 c 0,70,71
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Umacron
@@ -20987,6 +21343,7 @@ SplineSet
  145 -807 145 -807 193 -778 c 0,87,88
  231 -754 231 -754 231 -745 c 0,77,78
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: umacron
@@ -21025,6 +21382,7 @@ SplineSet
  4 -580 4 -580 22.5 -599 c 128,-1,35
  41 -618 41 -618 41 -641 c 256,24,25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ubreve
@@ -21070,6 +21428,7 @@ SplineSet
  398 -662 398 -662 430 -620 c 0,58,59
  457 -584 457 -584 457 -532 c 0,33,34
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: ubreve
@@ -21120,6 +21479,7 @@ SplineSet
  398 -662 398 -662 430 -620 c 0,66,67
  457 -584 457 -584 457 -532 c 0,41,42
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: Uring
@@ -21173,6 +21533,7 @@ SplineSet
  310 -408 310 -408 373 -490 c 0,74,75
  428 -562 428 -562 428 -666 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uring
@@ -21218,6 +21579,7 @@ SplineSet
  100 -385 100 -385 162 -385 c 0,54,55
  229 -385 229 -385 229 -451 c 0,46,47
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Udblacute
@@ -21250,6 +21612,7 @@ SplineSet
  403 -664 403 -664 430 -631 c 0,35,36
  455 -601 455 -601 455 -557 c 0,19,20
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: udblacute
@@ -21288,6 +21651,7 @@ SplineSet
  403 -664 403 -664 430 -631 c 0,44,45
  455 -601 455 -601 455 -557 c 0,28,29
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Uogonek
@@ -21338,6 +21702,7 @@ SplineSet
  -120 -647 -120 -647 -86 -647 c 0,65,66
  -47 -647 -47 -647 -47 -610 c 0,59,60
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uogonek
@@ -21371,6 +21736,7 @@ SplineSet
  309 -567 309 -567 358 -624 c 0,39,40
  401 -675 401 -675 401 -745 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Wcircumflex
@@ -21420,6 +21786,7 @@ SplineSet
  377 -467 l 1,66,67
  524 -562 524 -562 524 -723 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: wcircumflex
@@ -21459,6 +21826,7 @@ SplineSet
  310 -358 310 -358 348 -367 c 1,49,50
  530 -764 530 -764 530 -848 c 0,0,1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Ycircumflex
@@ -21500,6 +21868,7 @@ SplineSet
  -34 -815 -34 -815 5 -775 c 0,51,52
  41 -737 41 -737 41 -684 c 0,38,39
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ycircumflex
@@ -21551,6 +21920,7 @@ SplineSet
  -121 -653 -121 -653 -94 -653 c 0,68,69
  -53 -653 -53 -653 -53 -616 c 0,62,63
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ydieresis
@@ -21610,6 +21980,7 @@ SplineSet
  342 418 l 1,62,63
  400 315 400 315 506 254 c 1,58,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Zacute
@@ -21637,6 +22008,7 @@ SplineSet
  401 1845 l 1,14,-1
  606 1642 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zacute
@@ -21653,6 +22025,7 @@ SplineSet
  242 1901 l 1,3,-1
  242 -330 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Zdot
@@ -21669,6 +22042,7 @@ SplineSet
  518 1157 l 1,3,-1
  518 -111 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zdot
@@ -21690,6 +22064,7 @@ SplineSet
  518 1157 l 1,7,-1
  518 -111 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Zcaron
@@ -21734,6 +22109,7 @@ SplineSet
  535 711 535 711 575 750 c 0,53,54
  612 787 612 787 612 836 c 0,45,46
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zcaron
@@ -21785,6 +22161,7 @@ SplineSet
  53 -711 53 -711 100 -711 c 0,67,68
  205 -711 205 -711 205 -625 c 0,56,57
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: longs
@@ -21847,6 +22224,7 @@ SplineSet
  267 -514 267 -514 267 -479 c 0,86,87
  267 -401 267 -401 174 -401 c 0,78,79
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: glyph387
@@ -21951,6 +22329,7 @@ SplineSet
  1897 711 1897 711 1937 750 c 0,162,163
  1974 787 1974 787 1974 836 c 0,154,155
 EndSplineSet
+Validated: 2097185
 EndChar
 
 StartChar: u0C08
@@ -24817,6 +25196,7 @@ SplineSet
  342 418 l 1,62,63
  400 315 400 315 506 254 c 1,58,-1
 EndSplineSet
+Validated: 33
 EndChar
 EndChars
 EndSplineFont
