@@ -4,23 +4,22 @@ FullName: Gubbi
 FamilyName: Gubbi
 Weight: Normal
 Copyright: Gubbi - Kannada Unicode FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
-Version: 2
+Version: 2.1
 ItalicAngle: 0
 UnderlinePosition: -288
 UnderlineWidth: 64
 Ascent: 1638
 Descent: 410
-sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 469 1286364722 142053]
+NeedsXUIDChange: 1
 FSType: 8
-OS2Version: 1
+OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062074370
-ModificationTime: 1323459087
+ModificationTime: 1323493468
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +49,7 @@ OS2SupXOff: 0
 OS2SupYOff: 1360
 OS2StrikeYSize: 102
 OS2StrikeYPos: 400
-OS2Vendor: 'MS  '
+OS2Vendor: '    '
 OS2CodePages: 00000000.00000000
 OS2UnicodeRanges: 00400000.00000000.00000000.00000000
 Lookup: 4 0 0 "'rphf' Reph Form in Kannada lookup 0"  {"'rphf' Reph Form in Kannada lookup 0 subtable"  } ['rphf' ('knda' <'dflt' > ) ]
@@ -216,6 +215,7 @@ FitToEm: 1
 WinInfo: 24 8 2
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 332800 166400 110933 0 -1048576 110933 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 66168 740
 
 StartChar: .notdef
@@ -1338,7 +1338,7 @@ SplineSet
  455 760 455 760 491 798 c 0,65,66
  522 830 522 830 524 872 c 1,56,57
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: ampersand
@@ -6237,7 +6237,7 @@ SplineSet
  633 176 633 176 698 228 c 0,48,49
  772 286 772 286 772 391 c 0,35,36
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph132
@@ -6296,7 +6296,7 @@ SplineSet
  271 188 271 188 336 188 c 0,80,81
  556 188 556 188 702 297 c 1,72,73
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph133
@@ -6323,7 +6323,7 @@ SplineSet
  993 709 993 709 1049 559 c 0,19,20
  1116 381 1116 381 1116 0 c 1,0,-1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph134
@@ -6397,7 +6397,7 @@ SplineSet
  598 -246 598 -246 709 -4 c 1,104,105
  823 -242 823 -242 823 -295 c 0,94,95
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph135
@@ -6465,7 +6465,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,98,99
  1378 418 1378 418 1378 317 c 0,12,13
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph136
@@ -6528,7 +6528,7 @@ SplineSet
  1403 764 l 1,88,-1
  1403 592 l 1,0,-1
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph137
@@ -6588,7 +6588,7 @@ SplineSet
  475 717 475 717 514 752 c 0,83,84
  549 783 549 783 549 827 c 0,73,74
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph138
@@ -6652,7 +6652,7 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,92,93
  1378 418 1378 418 1378 317 c 0,0,1
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph139
@@ -6721,7 +6721,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,93
  991 385 991 385 991 539 c 0,82,83
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph140
@@ -6797,7 +6797,7 @@ SplineSet
  911 393 911 393 1024 393 c 0,116,117
  1130 393 1130 393 1212 477 c 1,109,110
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph141
@@ -6869,7 +6869,7 @@ SplineSet
  433 518 433 518 468 549 c 1,105,106
  500 576 500 576 500 616 c 0,94,95
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph142
@@ -6911,7 +6911,7 @@ SplineSet
  662 678 662 678 697.5 644 c 128,-1,38
  733 610 733 610 733 563 c 256,27,28
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph143
@@ -6966,7 +6966,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,70,71
  1278 188 1278 188 1278 389 c 0,39,40
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph144
@@ -7029,7 +7029,7 @@ SplineSet
  838 188 838 188 1024 188 c 0,84,85
  1278 188 1278 188 1278 389 c 0,53,54
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph145
@@ -7091,7 +7091,7 @@ SplineSet
  1243 819 1243 819 1345 682 c 0,86,87
  1436 561 1436 561 1436 383 c 0,4,5
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph146
@@ -7144,7 +7144,7 @@ SplineSet
  741 520 741 520 819 591 c 0,70,71
  883 649 883 649 874 666 c 1,56,57
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph147
@@ -7199,7 +7199,7 @@ SplineSet
  778 729 778 729 812 695.5 c 128,-1,68
  846 662 846 662 846 614 c 256,57,58
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph148
@@ -7238,7 +7238,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,43,44
  1245 324 1245 324 1245 430 c 0,25,26
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph149
@@ -7284,7 +7284,7 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,55,56
  1245 324 1245 324 1245 430 c 0,37,38
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph150
@@ -7324,7 +7324,7 @@ SplineSet
  811 899 l 1,46,47
  1155 700 1155 700 1155 348 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph151
@@ -7384,7 +7384,7 @@ SplineSet
  1251 844 1251 844 1304.5 721.5 c 128,-1,79
  1358 599 1358 599 1360 440 c 0,16,17
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph152
@@ -7451,7 +7451,7 @@ SplineSet
  623 -240 623 -240 733 0 c 1,89,90
  848 -238 848 -238 848 -293 c 0,80,81
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph153
@@ -7503,7 +7503,7 @@ SplineSet
  1302 847 1302 847 1356 705 c 1,70,71
  1403 577 1403 577 1403 442 c 0,0,1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph154
@@ -7562,7 +7562,7 @@ SplineSet
  641 -246 641 -246 752 -4 c 1,82,83
  868 -246 868 -246 868 -297 c 0,72,73
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph155
@@ -7628,7 +7628,7 @@ SplineSet
  1835 899 l 1,96,97
  2040 725 2040 725 2040 487 c 0,0,1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph156
@@ -7692,7 +7692,7 @@ SplineSet
  691 193 691 193 783 303 c 0,90,91
  856 390 856 390 856 518 c 0,76,77
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph157
@@ -7725,7 +7725,7 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,26
  991 385 991 385 991 539 c 0,15,16
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph158
@@ -7779,7 +7779,7 @@ SplineSet
  1162 188 1162 188 1242 289 c 0,68,69
  1311 376 1311 376 1311 516 c 0,51,52
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph159
@@ -7826,7 +7826,7 @@ SplineSet
  567 705 567 705 615 734 c 0,60,61
  668 767 668 767 668 819 c 0,48,49
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph160
@@ -7893,7 +7893,7 @@ SplineSet
  737 102 737 102 776 135 c 0,98,99
  819 172 819 172 819 231 c 0,88,89
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph161
@@ -7943,7 +7943,7 @@ SplineSet
  1150 818 1150 818 1258 646 c 0,67,68
  1354 494 1354 494 1354 322 c 0,0,1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph162
@@ -7998,7 +7998,7 @@ SplineSet
  793 158 793 158 904 233 c 0,73,74
  1030 318 1030 318 1030 545 c 0,54,55
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph163
@@ -8067,7 +8067,7 @@ SplineSet
  1360 257 1360 257 1292 133 c 1,92,93
  1358 69 1358 69 1430 -2 c 0,16,17
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: exclamdown
@@ -22329,7 +22329,7 @@ SplineSet
  1897 711 1897 711 1937 750 c 0,162,163
  1974 787 1974 787 1974 836 c 0,154,155
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: u0C08
