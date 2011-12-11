@@ -21,8 +21,8 @@ import fontforge
     
 font = fontforge.open(sys.argv[1])
 
-flags  = ("opentype", "dummy-dsig", "round")
-font_name = sys.argv[1].replace(".sfd",".otf")
+flags  = ("opentype", "dummy-dsig", "round", "apple")
+font_name = sys.argv[1].replace(".sfd",".ttf")
 font.generate(font_name, flags=flags)
 font.close()
 print "[OK]", font_name, " generated"

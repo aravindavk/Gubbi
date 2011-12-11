@@ -1,7 +1,9 @@
 2011-12-09 Aravinda VK <hallimanearavind@gmail.com>
-	* Initial Release, Generated source sfd from ttf using Fontforge
+	* v 1.0 - Initial Release, Generated source sfd from ttf using Fontforge
 	* Added glyph U+25CC. Closes: #429298 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=429298
 	* Modified wrong glyph U+0C85 similar to https://bugzilla.redhat.com/show_bug.cgi?id=694705
+	* Added U+20B9. Indian Rupee symbol, Hyphen minus
+	* Fixed the issues related to rendering issues in LibreOffice(ಕಕೋ ಕಣೊ etc)
 
 
 Copyright 2011 Aravinda VK <hallimanearavind@gmail.com>

@@ -1,5 +1,5 @@
 default:
-	mkdir -p OTFFile
-	./generate.pe Navilu.sfd
+	mkdir -p TTFFiles
+	./generate.pe Gubbi.sfd
 clean:
-	rm -rf OTFFile
+	rm -rf TTFFiles
