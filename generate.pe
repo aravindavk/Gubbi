@@ -2,7 +2,6 @@
 
 # script file for FontForge for TTF generation
 # usage:
-#   mkdir TTFFiles
 #   chmod +x generate.pe
 #   ./generate.pe *.sfd
 
@@ -14,6 +13,6 @@ while ( i < $argc )
   Open($argv[i], 1)
   #Use gen_flags=Defualt fmflags value as -1
   gen_flags = -1
-  Generate("TTFFiles/" + $fontname + ".ttf", "", gen_flags)
+  Generate($fontname + ".ttf", "", gen_flags)
   i++
 endloop
