@@ -1,0 +1,21 @@
+#!/bin/sh
+
+if [ $# -ne 1 ]
+then
+  echo "Usage: $0 <version>"
+  exit $E_BADARGS
+fi
+
+rm -rf /tmp/gubbi-kannada-ttf-$1
+mkdir /tmp/gubbi-kannada-ttf-$1
+cp ../ChangeLog ../COPYING ../Gubbi.ttf ../README /tmp/gubbi-kannada-ttf-$1/
+
+rm -rf /tmp/gubbi-kannada-$1
+mkdir /tmp/gubbi-kannada-$1
+cp ../ChangeLog ../COPYING ../Gubbi.sfd ../generate.pe ../Makefile ../README /tmp/gubbi-kannada-$1/
+
+cd /tmp/
+tar -cvzf gubbi-kannada-ttf-$1.tar.gz gubbi-kannada-ttf-$1/
+tar -cvzf gubbi-kannada-$1.tar.gz gubbi-kannada-$1/
+rm -rf gubbi-kannada-ttf-$1
+rm -rf gubbi-kannada-$1
