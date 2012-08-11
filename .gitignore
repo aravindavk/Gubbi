@@ -1,2 +1,4 @@
 *.sfd~
 OTFFiles/
+tests/*
+!tests/tests.tex
