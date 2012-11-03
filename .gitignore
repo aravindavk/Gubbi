@@ -1,4 +1,7 @@
 *.sfd~
+*.pyc
+*~
 OTFFiles/
 tests/*
 !tests/tests.tex
+!tests/tests.pdf

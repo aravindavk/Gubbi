@@ -3,8 +3,8 @@ FontName: Gubbi
 FullName: Gubbi
 FamilyName: Gubbi
 Weight: Normal
-Copyright: Gubbi - Kannada Unicode FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011-2012 Aravinda VK, http://aravindavk.in <hallimanearavind@gmail.com>\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see <http://www.gnu.org/licenses/>.\n\nAs a special exception, if you create a document which uses this font,\nand embed this font or unaltered portions of this font into the document,\nthis font does not by itself cause the resulting document to be covered\nby the GNU General Public License. This exception does not however\ninvalidate any other reasons why the document might be covered by the\nGNU General Public License. If you modify this font, you may extend this\nexception to your version of the font, but you are not obligated to do so.\nIf you do not wish to do so, delete this exception statement from your version. 
-Version: 1.2
+Copyright: Gubbi - Kannada Unicode FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011-2012 Aravinda VK <hallimanearavind@gmail.com>\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
+Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -288
 UnderlineWidth: 64
@@ -18,7 +18,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062074370
-ModificationTime: 1351961619
+ModificationTime: 1344622049
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -51,87 +51,86 @@ OS2StrikeYPos: 400
 OS2Vendor: '    '
 OS2CodePages: 00000000.00000000
 OS2UnicodeRanges: 00400000.00000000.00000000.00000000
-Lookup: 4 0 0 "rphfRephForminKannadalookup0"  {"rphfRephForminKannadalookup0 subtable"  } ['rphf' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "blwsBelowBaseSubstitutionsinKan"  {"blwsBelowBaseSubstitutionsinKan subtable"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 2"  {"Single Substitution lookup 2 subtable"  } []
-Lookup: 4 0 0 "LigatureSubstitutionlookup16"  {"LigatureSubstitutionlookup16 subtable"  } []
-Lookup: 6 0 0 "pstsPostBaseSubstitutionsinKann"  {"pstsPostBaseSubstitutionsinKann contextual 0"  "pstsPostBaseSubstitutionsinKann contextual 1"  } ['psts' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "blwfBelowBaseFormsinKannadalook"  {"blwfBelowBaseFormsinKannadalook subtable"  } ['blwf' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "sub_chain_pstsknda_0"  {"sub_chain_pstsknda_0 subtable"  } ['psts' ('knda' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 7"  {"Single Substitution lookup 7 subtable"  } []
-Lookup: 4 0 0 "sub_ligature_blwfknda_0"  {"sub_ligature_blwfknda_0 subtable"  } ['blwf' ('knda' <'dflt' > ) ]
-Lookup: 1 0 0 "SingleSubstitutionlookup18"  {"SingleSubstitutionlookup18 subtable"  } []
-Lookup: 6 0 0 "sub_chain_blwsknda_0"  {"sub_chain_blwsknda_0 contextual 0"  "sub_chain_blwsknda_0 contextual 1"  "sub_chain_blwsknda_0 contextual 2"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "abvsAboveBaseSubstitutionsinKan"  {"abvsAboveBaseSubstitutionsinKan subtable"  } ['abvs' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "sub_ligature_abvsknda_0"  {"sub_ligature_abvsknda_0 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "sub_ligature_abvsknda_2"  {"sub_ligature_abvsknda_2 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "sub_chain_pstsknda_2"  {"sub_chain_pstsknda_2 subtable"  } ['psts' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'rphf' Reph Form in Kannada lookup 0"  {"'rphf' Reph Form in Kannada lookup 0 subtable"  } ['rphf' ('knda' <'dflt' > ) ]
+Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 1"  {"'blws' Below Base Substitutions in Kannada lookup 1 subtable"  } ['blws' ('knda' <'dflt' > ) ]
+Lookup: 6 0 0 "'psts' Post Base Substitutions in Kannada lookup 2"  {"'psts' Post Base Substitutions in Kannada lookup 2 contextual 0"  "'psts' Post Base Substitutions in Kannada lookup 2 contextual 1"  } ['psts' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Kannada lookup 3"  {"'blwf' Below Base Forms in Kannada lookup 3 subtable"  } ['blwf' ('knda' <'dflt' > ) ]
+Lookup: 6 0 0 "'psts' Post Base Substitutions in Kannada lookup 4"  {"'psts' Post Base Substitutions in Kannada lookup 4 subtable"  } ['psts' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Kannada lookup 5"  {"'blwf' Below Base Forms in Kannada lookup 5 subtable"  } ['blwf' ('knda' <'dflt' > ) ]
+Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 6"  {"'blws' Below Base Substitutions in Kannada lookup 6 contextual 0"  "'blws' Below Base Substitutions in Kannada lookup 6 contextual 1"  "'blws' Below Base Substitutions in Kannada lookup 6 contextual 2"  } ['blws' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 7"  {"'abvs' Above Base Substitutions in Kannada lookup 7 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 8"  {"'abvs' Above Base Substitutions in Kannada lookup 8 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 9"  {"'abvs' Above Base Substitutions in Kannada lookup 9 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
+Lookup: 6 0 0 "'psts' Post Base Substitutions in Kannada lookup 10"  {"'psts' Post Base Substitutions in Kannada lookup 10 subtable"  } ['psts' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand in Kannada lookup 11"  {"'akhn' Akhand in Kannada lookup 11 subtable"  } ['akhn' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 12"  {"'abvs' Above Base Substitutions in Kannada lookup 12 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 13"  {"'abvs' Above Base Substitutions in Kannada lookup 13 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 14"  {"'abvs' Above Base Substitutions in Kannada lookup 14 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 15"  {"Single Substitution lookup 15 subtable"  } []
-Lookup: 4 0 0 "sub_ligature_abvsknda_4"  {"sub_ligature_abvsknda_4 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "sub_ligature_abvsknda_6"  {"sub_ligature_abvsknda_6 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "sub_ligature_abvsknda_8"  {"sub_ligature_abvsknda_8 subtable"  } ['abvs' ('knda' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 16"  {"Ligature Substitution lookup 16 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 18"  {"Single Substitution lookup 18 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "sub_chain_pstsknda_2 subtable"  0 0 0 1
+ChainSub2: coverage "'psts' Post Base Substitutions in Kannada lookup 10 subtable"  0 0 0 1
  1 1 0
-  Coverage: 11 U0CC2 U0CC1
-  BCoverage: 17 U0CAA U0CAB U0CB5
+  Coverage: 3 Z v
+  BCoverage: 5 G H Q
+ 1
+  SeqLookup: 0 "Single Substitution lookup 19" 
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 6 contextual 2"  0 0 0 1
+ 1 1 0
+  Coverage: 335 currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot less_c.blwf registered overscore degree plusminus twosuperior threesuperior acute mu1 paragraph middot cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE
+  BCoverage: 288 Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis multiply Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex
+ 1
+  SeqLookup: 0 "Single Substitution lookup 18" 
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 6 contextual 1"  0 0 0 1
+ 1 1 0
+  Coverage: 335 currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot less_c.blwf registered overscore degree plusminus twosuperior threesuperior acute mu1 paragraph middot cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE
+  BCoverage: 335 currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot less_c.blwf registered overscore degree plusminus twosuperior threesuperior acute mu1 paragraph middot cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE
+ 1
+  SeqLookup: 0 "Single Substitution lookup 18" 
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 6 contextual 0"  0 0 0 1
+ 1 1 1
+  Coverage: 335 currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot less_c.blwf registered overscore degree plusminus twosuperior threesuperior acute mu1 paragraph middot cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE
+  BCoverage: 335 currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot less_c.blwf registered overscore degree plusminus twosuperior threesuperior acute mu1 paragraph middot cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE
+  FCoverage: 85 space V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c
+ 1
+  SeqLookup: 0 "Single Substitution lookup 18" 
+EndFPST
+ChainSub2: coverage "'psts' Post Base Substitutions in Kannada lookup 4 subtable"  0 0 0 1
+ 1 0 1
+  Coverage: 125 three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U
+  FCoverage: 49 V bracketright asciicircum underscore grave a b c
+ 1
+  SeqLookup: 0 "Single Substitution lookup 17" 
+EndFPST
+ChainSub2: coverage "'psts' Post Base Substitutions in Kannada lookup 2 contextual 1"  0 0 0 1
+ 2 1 0
+  Coverage: 125 three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U
+  Coverage: 1 c
+  BCoverage: 288 Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis multiply Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 16" 
+EndFPST
+ChainSub2: coverage "'psts' Post Base Substitutions in Kannada lookup 2 contextual 0"  0 0 0 1
+ 2 1 0
+  Coverage: 125 three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U
+  Coverage: 1 c
+  BCoverage: 335 currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot less_c.blwf registered overscore degree plusminus twosuperior threesuperior acute mu1 paragraph middot cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 16" 
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 1 subtable"  0 0 0 1
+ 1 1 0
+  Coverage: 8 M_c.rphf
+  BCoverage: 1 M
  1
   SeqLookup: 0 "Single Substitution lookup 15" 
-EndFPST
-ChainSub2: coverage "sub_chain_blwsknda_0 contextual 2"  0 0 0 1
- 1 1 0
-  Coverage: 334 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_pa vattu_pha vattu_ba vattu_bha vattu_ma vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_La vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha
-  BCoverage: 543 saNNa_vattu_ka saNNa_vattu_kha saNNa_vattu_ga saNNa_vattu_gha saNNa_vattu_jna saNNa_vattu_cha saNNa_vattu_Cha saNNa_vattu_ja saNNa_vattu_jha saNNa_vattu_nya saNNa_vattu_ta saNNa_vattu_Ta saNNa_vattu_da saNNa_vattu_Da saNNa_vattu_Na saNNa_vattu_tha saNNa_vattu_Tha saNNa_vattu_da saNNa_vattu_Dha saNNa_vattu_na saNNa_vattu_pa saNNa_vattu_pha saNNa_vattu_ba saNNa_vattu_bha saNNa_vattu_ma saNNa_vattu_ya saNNa_vattu_ra saNNa_vattu_hale_ra saNNa_vattu_la saNNa_vattu_La saNNa_vattu_va saNNa_vattu_sha saNNa_vattu_Sha saNNa_vattu_sa saNNa_vattu_ha
- 1
-  SeqLookup: 0 "SingleSubstitutionlookup18" 
-EndFPST
-ChainSub2: coverage "sub_chain_blwsknda_0 contextual 1"  0 0 0 1
- 1 1 0
-  Coverage: 334 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_pa vattu_pha vattu_ba vattu_bha vattu_ma vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_La vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha
-  BCoverage: 334 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_pa vattu_pha vattu_ba vattu_bha vattu_ma vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_La vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha
- 1
-  SeqLookup: 0 "SingleSubstitutionlookup18" 
-EndFPST
-ChainSub2: coverage "sub_chain_blwsknda_0 contextual 0"  0 0 0 1
- 1 1 1
-  Coverage: 334 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_pa vattu_pha vattu_ba vattu_bha vattu_ma vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_La vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha
-  BCoverage: 334 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_pa vattu_pha vattu_ba vattu_bha vattu_ma vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_La vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha
-  FCoverage: 91 U0020 U0CBE U0CBF U0CC0 extra_8 U0CC2 U0CC3 U0CC4 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC U0CCD
- 1
-  SeqLookup: 0 "SingleSubstitutionlookup18" 
-EndFPST
-ChainSub2: coverage "sub_chain_pstsknda_0 subtable"  0 0 0 1
- 1 0 1
-  Coverage: 209 U0C95 U0C96 U0C97 U0C98 U0C99 U0C9A U0C9B U0C9C U0C9D U0C9E U0C9F U0CA0 U0CA1 U0CA2 U0CA3 U0CA4 U0CA5 U0CA6 U0CA7 U0CA8 U0CAA U0CAB U0CAC U0CAD U0CAE U0CAF U0CB0 U0CB1 U0CB2 U0CB3 U0CB5 U0CB6 U0CB7 U0CB8 U0CB9
-  FCoverage: 47 U0CBE U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC U0CCD
- 1
-  SeqLookup: 0 "Single Substitution lookup 7" 
-EndFPST
-ChainSub2: coverage "pstsPostBaseSubstitutionsinKann contextual 1"  0 0 0 1
- 2 1 0
-  Coverage: 209 U0C95 U0C96 U0C97 U0C98 U0C99 U0C9A U0C9B U0C9C U0C9D U0C9E U0C9F U0CA0 U0CA1 U0CA2 U0CA3 U0CA4 U0CA5 U0CA6 U0CA7 U0CA8 U0CAA U0CAB U0CAC U0CAD U0CAE U0CAF U0CB0 U0CB1 U0CB2 U0CB3 U0CB5 U0CB6 U0CB7 U0CB8 U0CB9
-  Coverage: 5 U0CCD
-  BCoverage: 543 saNNa_vattu_ka saNNa_vattu_kha saNNa_vattu_ga saNNa_vattu_gha saNNa_vattu_jna saNNa_vattu_cha saNNa_vattu_Cha saNNa_vattu_ja saNNa_vattu_jha saNNa_vattu_nya saNNa_vattu_ta saNNa_vattu_Ta saNNa_vattu_da saNNa_vattu_Da saNNa_vattu_Na saNNa_vattu_tha saNNa_vattu_Tha saNNa_vattu_da saNNa_vattu_Dha saNNa_vattu_na saNNa_vattu_pa saNNa_vattu_pha saNNa_vattu_ba saNNa_vattu_bha saNNa_vattu_ma saNNa_vattu_ya saNNa_vattu_ra saNNa_vattu_hale_ra saNNa_vattu_la saNNa_vattu_La saNNa_vattu_va saNNa_vattu_sha saNNa_vattu_Sha saNNa_vattu_sa saNNa_vattu_ha
- 2
-  SeqLookup: 0 "LigatureSubstitutionlookup16" 
-  SeqLookup: 1 "LigatureSubstitutionlookup16" 
-EndFPST
-ChainSub2: coverage "pstsPostBaseSubstitutionsinKann contextual 0"  0 0 0 1
- 2 1 0
-  Coverage: 209 U0C95 U0C96 U0C97 U0C98 U0C99 U0C9A U0C9B U0C9C U0C9D U0C9E U0C9F U0CA0 U0CA1 U0CA2 U0CA3 U0CA4 U0CA5 U0CA6 U0CA7 U0CA8 U0CAA U0CAB U0CAC U0CAD U0CAE U0CAF U0CB0 U0CB1 U0CB2 U0CB3 U0CB5 U0CB6 U0CB7 U0CB8 U0CB9
-  Coverage: 5 U0CCD
-  BCoverage: 334 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_pa vattu_pha vattu_ba vattu_bha vattu_ma vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_La vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha
- 2
-  SeqLookup: 0 "LigatureSubstitutionlookup16" 
-  SeqLookup: 1 "LigatureSubstitutionlookup16" 
-EndFPST
-ChainSub2: coverage "blwsBelowBaseSubstitutionsinKan subtable"  0 0 0 1
- 1 1 0
-  Coverage: 15 glyph_arkavattu
-  BCoverage: 5 U0CB0
- 1
-  SeqLookup: 0 "Single Substitution lookup 2" 
 EndFPST
 TtTable: fpgm
 NPUSHB
@@ -204,22 +203,21 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "+AKkA 2011-2012, Aravinda VK <hallimanearavind@gmail.com> http://aravindavk.in+AAoAqQAA 2005, Indian Institute of Science,Bangalore.+AAoA" "" "" "" "" "Version 1.2" "" "" "Aravinda" "" "" "http://aravindavk.in" "" "Copyright (C) 2005-2010, Indian Institute of Science,Bangalore,+AAoA-Copyright (C) 2011-2012, Aravinda VK, http://aravindavk.in <hallimanearavind@gmail.com>,+AAoA-with Reserved Font Name Gubbi.+AAoACgAA-This program is free software: you can redistribute it and/or modify+AAoA-it under the terms of the GNU General Public License as published by+AAoA-the Free Software Foundation, either version 3 of the License, or+AAoA(at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful,+AAoA-but WITHOUT ANY WARRANTY; without even the implied warranty of+AAoA-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the+AAoA-GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License+AAoA-along with this program.  If not, see <http://www.gnu.org/licenses/>.+AAoACgAA-As a special exception, if you create a document which uses this font,+AAoA-and embed this font or unaltered portions of this font into the document,+AAoA-this font does not by itself cause the resulting document to be covered+AAoA-by the GNU General Public License. This exception does not however+AAoA-invalidate any other reasons why the document might be covered by the+AAoA-GNU General Public License. If you modify this font, you may extend this+AAoA-exception to your version of the font, but you are not obligated to do so.+AAoA-If you do not wish to do so, delete this exception statement from your version. " "http://www.gnu.org/licenses/gpl.html" 
-Encoding: UnicodeBmp
-Compacted: 1
+LangName: 1033 "+AKkA 2011-2012, Aravinda VK <hallimanearavind@gmail.com> http://aravindavk.in+AAoAqQAA 2005, Indian Institute of Science,Bangalore.+AAoA" "" "" "" "" "Version 1.1" "" "" "Aravinda" "" "" "http://aravindavk.in" "" "Copyright (C) 2005-2010, Indian Institute of Science,Bangalore,+AAoA-Copyright (C) 2011-2012, Aravinda VK <hallimanearavind@gmail.com>,+AAoA-with Reserved Font Name Gubbi.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 13 5
+WinInfo: 221 13 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 332800 166400 110933 0 -1048576 110933 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65848 423
+BeginChars: 421 421
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 108 -1 0
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -241,7 +239,7 @@ Validated: 1
 EndChar
 
 StartChar: .null
-Encoding: 65537 -1 1
+Encoding: 109 -1 1
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -249,15 +247,15 @@ LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 65538 -1 2
+Encoding: 110 -1 2
 Width: 650
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: U0020
-Encoding: 32 32 3
+StartChar: space
+Encoding: 0 32 3
 Width: 650
 GlyphClass: 2
 Flags: W
@@ -265,7 +263,7 @@ LayerCount: 2
 EndChar
 
 StartChar: U0021
-Encoding: 33 33 4
+Encoding: 1 33 4
 Width: 709
 GlyphClass: 2
 Flags: W
@@ -293,7 +291,7 @@ Validated: 33
 EndChar
 
 StartChar: U0022
-Encoding: 34 34 5
+Encoding: 2 34 5
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -315,7 +313,7 @@ Validated: 1
 EndChar
 
 StartChar: U0024
-Encoding: 36 36 6
+Encoding: 3 36 6
 Width: 2048
 GlyphClass: 2
 Flags: W
@@ -323,7 +321,7 @@ LayerCount: 2
 EndChar
 
 StartChar: U0025
-Encoding: 37 37 7
+Encoding: 4 37 7
 Width: 1636
 GlyphClass: 2
 Flags: W
@@ -378,7 +376,7 @@ Validated: 1
 EndChar
 
 StartChar: U0027
-Encoding: 39 39 8
+Encoding: 5 39 8
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -400,7 +398,7 @@ Validated: 1
 EndChar
 
 StartChar: U0028
-Encoding: 40 40 9
+Encoding: 6 40 9
 Width: 778
 GlyphClass: 2
 Flags: W
@@ -421,7 +419,7 @@ Validated: 1
 EndChar
 
 StartChar: U0029
-Encoding: 41 41 10
+Encoding: 7 41 10
 Width: 778
 GlyphClass: 2
 Flags: W
@@ -442,7 +440,7 @@ Validated: 1
 EndChar
 
 StartChar: U002A
-Encoding: 42 42 11
+Encoding: 8 42 11
 Width: 983
 GlyphClass: 2
 Flags: W
@@ -501,7 +499,7 @@ Validated: 1
 EndChar
 
 StartChar: U002B
-Encoding: 43 43 12
+Encoding: 9 43 12
 Width: 1108
 GlyphClass: 2
 Flags: W
@@ -526,7 +524,7 @@ Validated: 1
 EndChar
 
 StartChar: U002C
-Encoding: 44 44 13
+Encoding: 10 44 13
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -549,7 +547,7 @@ Validated: 1
 EndChar
 
 StartChar: U002D
-Encoding: 45 45 14
+Encoding: 11 45 14
 Width: 860
 GlyphClass: 2
 Flags: W
@@ -567,7 +565,7 @@ EndSplineSet
 EndChar
 
 StartChar: U002E
-Encoding: 46 46 15
+Encoding: 12 46 15
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -587,7 +585,7 @@ Validated: 1
 EndChar
 
 StartChar: U002F
-Encoding: 47 47 16
+Encoding: 13 47 16
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -604,7 +602,7 @@ Validated: 1
 EndChar
 
 StartChar: U0030
-Encoding: 48 48 17
+Encoding: 14 48 17
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -630,7 +628,7 @@ Validated: 1
 EndChar
 
 StartChar: U0031
-Encoding: 49 49 18
+Encoding: 15 49 18
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -657,7 +655,7 @@ Validated: 1
 EndChar
 
 StartChar: U0032
-Encoding: 50 50 19
+Encoding: 16 50 19
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -690,7 +688,7 @@ Validated: 1
 EndChar
 
 StartChar: U0033
-Encoding: 51 51 20
+Encoding: 17 51 20
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -727,7 +725,7 @@ Validated: 33
 EndChar
 
 StartChar: U0034
-Encoding: 52 52 21
+Encoding: 18 52 21
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -756,7 +754,7 @@ Validated: 1
 EndChar
 
 StartChar: U0035
-Encoding: 53 53 22
+Encoding: 19 53 22
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -793,7 +791,7 @@ Validated: 1
 EndChar
 
 StartChar: U0036
-Encoding: 54 54 23
+Encoding: 20 54 23
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -827,7 +825,7 @@ Validated: 1
 EndChar
 
 StartChar: U0037
-Encoding: 55 55 24
+Encoding: 21 55 24
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -851,7 +849,7 @@ Validated: 1
 EndChar
 
 StartChar: U0038
-Encoding: 56 56 25
+Encoding: 22 56 25
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -897,7 +895,7 @@ Validated: 1
 EndChar
 
 StartChar: U0039
-Encoding: 57 57 26
+Encoding: 23 57 26
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -931,7 +929,7 @@ Validated: 1
 EndChar
 
 StartChar: U003A
-Encoding: 58 58 27
+Encoding: 24 58 27
 Width: 545
 GlyphClass: 2
 Flags: W
@@ -961,7 +959,7 @@ Validated: 1
 EndChar
 
 StartChar: U003B
-Encoding: 59 59 28
+Encoding: 25 59 28
 Width: 545
 GlyphClass: 2
 Flags: W
@@ -993,8 +991,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U003D
-Encoding: 61 61 29
+StartChar: glyph29
+Encoding: 26 61 29
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -1015,8 +1013,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U003E
-Encoding: 62 62 30
+StartChar: glyph30
+Encoding: 27 62 30
 Width: 737
 GlyphClass: 2
 Flags: W
@@ -1032,8 +1030,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U003F
-Encoding: 63 63 31
+StartChar: glyph31
+Encoding: 28 63 31
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -1078,8 +1076,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: extra_1
-Encoding: 65539 -1 32
+StartChar: glyph32
+Encoding: 111 -1 32
 Width: 1782
 GlyphClass: 2
 Flags: W
@@ -1117,8 +1115,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_2
-Encoding: 65540 -1 33
+StartChar: glyph33
+Encoding: 112 -1 33
 Width: 1548
 GlyphClass: 2
 Flags: W
@@ -1134,8 +1132,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_3
-Encoding: 65541 -1 34
+StartChar: glyph34
+Encoding: 113 -1 34
 Width: 3101
 GlyphClass: 2
 Flags: W
@@ -1151,8 +1149,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_4
-Encoding: 65542 -1 35
+StartChar: glyph35
+Encoding: 114 -1 35
 Width: 1108
 GlyphClass: 2
 Flags: W
@@ -1185,8 +1183,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_5
-Encoding: 65543 -1 36
+StartChar: exclam
+Encoding: 115 -1 36
 Width: 860
 GlyphClass: 2
 Flags: W
@@ -1202,8 +1200,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_6
-Encoding: 65544 -1 37
+StartChar: quotedbl
+Encoding: 116 -1 37
 Width: 1108
 GlyphClass: 2
 Flags: W
@@ -1227,8 +1225,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0C82
-Encoding: 3202 3202 38
+StartChar: numbersign
+Encoding: 29 3202 38
 Width: 1042
 GlyphClass: 2
 Flags: W
@@ -1255,8 +1253,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0C83
-Encoding: 3203 3203 39
+StartChar: dollar
+Encoding: 30 3203 39
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -1301,8 +1299,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C85
-Encoding: 3205 3205 40
+StartChar: percent
+Encoding: 31 3205 40
 Width: 1511
 GlyphClass: 2
 Flags: W
@@ -1351,8 +1349,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C86
-Encoding: 3206 3206 41
+StartChar: ampersand
+Encoding: 32 3206 41
 Width: 1511
 GlyphClass: 2
 Flags: W
@@ -1405,8 +1403,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C87
-Encoding: 3207 3207 42
+StartChar: quotesingle
+Encoding: 33 3207 42
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -1468,8 +1466,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C88
-Encoding: 3208 3208 43
+StartChar: parenleft
+Encoding: 34 3208 43
 Width: 1942
 GlyphClass: 2
 Flags: W
@@ -1537,8 +1535,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C89
-Encoding: 3209 3209 44
+StartChar: parenright
+Encoding: 35 3209 44
 Width: 2089
 GlyphClass: 2
 Flags: W
@@ -1602,8 +1600,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0C8A
-Encoding: 3210 3210 45
+StartChar: asterisk
+Encoding: 36 3210 45
 Width: 2677
 GlyphClass: 2
 Flags: W
@@ -1690,8 +1688,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C8B
-Encoding: 3211 3211 46
+StartChar: plus
+Encoding: 37 3211 46
 Width: 2482
 GlyphClass: 2
 Flags: W
@@ -1781,16 +1779,16 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: extra_7
-Encoding: 65545 -1 47
+StartChar: comma
+Encoding: 117 -1 47
 Width: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: U0C8E
-Encoding: 3214 3214 48
+StartChar: hyphen
+Encoding: 38 3214 48
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -1839,8 +1837,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0C8F
-Encoding: 3215 3215 49
+StartChar: period
+Encoding: 39 3215 49
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -1892,8 +1890,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0C90
-Encoding: 3216 3216 50
+StartChar: slash
+Encoding: 40 3216 50
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -1948,8 +1946,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0C92
-Encoding: 3218 3218 51
+StartChar: zero
+Encoding: 41 3218 51
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -1999,8 +1997,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C93
-Encoding: 3219 3219 52
+StartChar: one
+Encoding: 42 3219 52
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -2055,8 +2053,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C94
-Encoding: 3220 3220 53
+StartChar: two
+Encoding: 43 3220 53
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -2141,8 +2139,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C95
-Encoding: 3221 3221 54
+StartChar: three
+Encoding: 44 3221 54
 Width: 995
 GlyphClass: 2
 Flags: W
@@ -2188,11 +2186,11 @@ SplineSet
  613 176 613 176 678 228 c 0,58,59
  752 286 752 286 752 391 c 0,45,46
 EndSplineSet
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ka
+Substitution2: "Single Substitution lookup 17 subtable" glyph131
 EndChar
 
-StartChar: U0C96
-Encoding: 3222 3222 55
+StartChar: four
+Encoding: 45 3222 55
 Width: 1659
 GlyphClass: 2
 Flags: W
@@ -2248,11 +2246,11 @@ SplineSet
  556 188 556 188 702 297 c 1,77,78
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_kha
+Substitution2: "Single Substitution lookup 17 subtable" glyph132
 EndChar
 
-StartChar: U0C97
-Encoding: 3223 3223 56
+StartChar: five
+Encoding: 46 3223 56
 Width: 1212
 GlyphClass: 2
 Flags: W
@@ -2279,11 +2277,11 @@ SplineSet
  1116 381 1116 381 1116 0 c 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ga
+Substitution2: "Single Substitution lookup 17 subtable" glyph133
 EndChar
 
-StartChar: U0C98
-Encoding: 3224 3224 57
+StartChar: six
+Encoding: 47 3224 57
 Width: 1741
 GlyphClass: 2
 Flags: W
@@ -2359,11 +2357,11 @@ SplineSet
  823 -242 823 -242 823 -295 c 0,104,105
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_gha
+Substitution2: "Single Substitution lookup 17 subtable" glyph134
 EndChar
 
-StartChar: U0C99
-Encoding: 3225 3225 58
+StartChar: seven
+Encoding: 48 3225 58
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -2428,11 +2426,11 @@ SplineSet
  1378 418 1378 418 1378 317 c 0,12,13
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_jna
+Substitution2: "Single Substitution lookup 17 subtable" glyph135
 EndChar
 
-StartChar: U0C9A
-Encoding: 3226 3226 59
+StartChar: eight
+Encoding: 49 3226 59
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -2496,11 +2494,11 @@ SplineSet
  1403 592 l 1,0,-1
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_cha
+Substitution2: "Single Substitution lookup 17 subtable" glyph136
 EndChar
 
-StartChar: U0C9B
-Encoding: 3227 3227 60
+StartChar: nine
+Encoding: 50 3227 60
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -2561,11 +2559,11 @@ SplineSet
  549 783 549 783 549 827 c 0,81,82
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Cha
+Substitution2: "Single Substitution lookup 17 subtable" glyph137
 EndChar
 
-StartChar: U0C9C
-Encoding: 3228 3228 61
+StartChar: colon
+Encoding: 51 3228 61
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -2623,11 +2621,11 @@ SplineSet
  1378 418 1378 418 1378 317 c 0,0,1
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ja
+Substitution2: "Single Substitution lookup 17 subtable" glyph138
 EndChar
 
-StartChar: U0C9D
-Encoding: 3229 3229 62
+StartChar: semicolon
+Encoding: 52 3229 62
 Width: 2570
 GlyphClass: 2
 Flags: W
@@ -2693,11 +2691,11 @@ SplineSet
  991 385 991 385 991 539 c 0,84,85
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_jha
+Substitution2: "Single Substitution lookup 17 subtable" glyph139
 EndChar
 
-StartChar: U0C9E
-Encoding: 3230 3230 63
+StartChar: less
+Encoding: 53 3230 63
 Width: 2060
 GlyphClass: 2
 Flags: W
@@ -2770,11 +2768,11 @@ SplineSet
  1130 393 1130 393 1212 477 c 1,109,110
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_nya
+Substitution2: "Single Substitution lookup 17 subtable" glyph140
 EndChar
 
-StartChar: U0C9F
-Encoding: 3231 3231 64
+StartChar: equal
+Encoding: 54 3231 64
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -2844,11 +2842,11 @@ SplineSet
  499 581 499 581 500 618 c 0,99,100
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ta
+Substitution2: "Single Substitution lookup 17 subtable" glyph141
 EndChar
 
-StartChar: U0CA0
-Encoding: 3232 3232 65
+StartChar: greater
+Encoding: 55 3232 65
 Width: 1204
 GlyphClass: 2
 Flags: W
@@ -2890,11 +2888,11 @@ SplineSet
  733 610 733 610 733 563 c 256,34,35
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Ta
+Substitution2: "Single Substitution lookup 17 subtable" glyph142
 EndChar
 
-StartChar: U0CA1
-Encoding: 3233 3233 66
+StartChar: question
+Encoding: 56 3233 66
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -2949,11 +2947,11 @@ SplineSet
  1278 188 1278 188 1278 389 c 0,46,47
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_da
+Substitution2: "Single Substitution lookup 17 subtable" glyph143
 EndChar
 
-StartChar: U0CA2
-Encoding: 3234 3234 67
+StartChar: at
+Encoding: 57 3234 67
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3016,11 +3014,11 @@ SplineSet
  1278 188 1278 188 1278 389 c 0,60,61
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Da
+Substitution2: "Single Substitution lookup 17 subtable" glyph144
 EndChar
 
-StartChar: U0CA3
-Encoding: 3235 3235 68
+StartChar: A
+Encoding: 58 3235 68
 Width: 1597
 GlyphClass: 2
 Flags: W
@@ -3075,11 +3073,11 @@ SplineSet
  1499 758 1499 758 1499 518 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Na
+Substitution2: "Single Substitution lookup 17 subtable" glyph145
 EndChar
 
-StartChar: U0CA4
-Encoding: 3236 3236 69
+StartChar: B
+Encoding: 59 3236 69
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -3132,11 +3130,11 @@ SplineSet
  883 649 883 649 874 666 c 1,63,64
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_tha
+Substitution2: "Single Substitution lookup 17 subtable" glyph146
 EndChar
 
-StartChar: U0CA5
-Encoding: 3237 3237 70
+StartChar: C
+Encoding: 60 3237 70
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3192,11 +3190,11 @@ SplineSet
  846 662 846 662 846 614 c 256,65,66
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Tha
+Substitution2: "Single Substitution lookup 17 subtable" glyph147
 EndChar
 
-StartChar: U0CA6
-Encoding: 3238 3238 71
+StartChar: D
+Encoding: 61 3238 71
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3236,11 +3234,11 @@ SplineSet
  1245 324 1245 324 1245 430 c 0,33,34
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_da
+Substitution2: "Single Substitution lookup 17 subtable" glyph148
 EndChar
 
-StartChar: U0CA7
-Encoding: 3239 3239 72
+StartChar: E
+Encoding: 62 3239 72
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3287,11 +3285,11 @@ SplineSet
  1245 324 1245 324 1245 430 c 0,45,46
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Dha
+Substitution2: "Single Substitution lookup 17 subtable" glyph149
 EndChar
 
-StartChar: U0CA8
-Encoding: 3240 3240 73
+StartChar: F
+Encoding: 63 3240 73
 Width: 1231
 GlyphClass: 2
 Flags: W
@@ -3332,11 +3330,11 @@ SplineSet
  1155 700 1155 700 1155 348 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_na
+Substitution2: "Single Substitution lookup 17 subtable" glyph150
 EndChar
 
-StartChar: U0CAA
-Encoding: 3242 3242 74
+StartChar: G
+Encoding: 64 3242 74
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3397,11 +3395,11 @@ SplineSet
  1358 599 1358 599 1360 440 c 0,24,25
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_pa
+Substitution2: "Single Substitution lookup 17 subtable" glyph151
 EndChar
 
-StartChar: U0CAB
-Encoding: 3243 3243 75
+StartChar: H
+Encoding: 65 3243 75
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3469,11 +3467,11 @@ SplineSet
  848 -238 848 -238 848 -293 c 0,88,89
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_pha
+Substitution2: "Single Substitution lookup 17 subtable" glyph152
 EndChar
 
-StartChar: U0CAC
-Encoding: 3244 3244 76
+StartChar: I
+Encoding: 66 3244 76
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3521,11 +3519,11 @@ SplineSet
  1389 711 1389 711 1389 432 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ba
+Substitution2: "Single Substitution lookup 17 subtable" glyph153
 EndChar
 
-StartChar: U0CAD
-Encoding: 3245 3245 77
+StartChar: J
+Encoding: 67 3245 77
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3585,11 +3583,11 @@ SplineSet
  868 -246 868 -246 868 -297 c 0,80,81
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_bha
+Substitution2: "Single Substitution lookup 17 subtable" glyph154
 EndChar
 
-StartChar: U0CAE
-Encoding: 3246 3246 78
+StartChar: K
+Encoding: 68 3246 78
 Width: 2138
 GlyphClass: 2
 Flags: W
@@ -3652,11 +3650,11 @@ SplineSet
  2040 722 2040 722 2040 487 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ma
+Substitution2: "Single Substitution lookup 17 subtable" glyph155
 EndChar
 
-StartChar: U0CAF
-Encoding: 3247 3247 79
+StartChar: L
+Encoding: 69 3247 79
 Width: 2400
 GlyphClass: 2
 Flags: W
@@ -3717,11 +3715,11 @@ SplineSet
  856 390 856 390 856 518 c 0,78,79
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ya
+Substitution2: "Single Substitution lookup 17 subtable" glyph156
 EndChar
 
-StartChar: U0CB0
-Encoding: 3248 3248 80
+StartChar: M
+Encoding: 70 3248 80
 Width: 1204
 GlyphClass: 2
 Flags: W
@@ -3754,11 +3752,11 @@ SplineSet
  991 385 991 385 991 539 c 0,22,23
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ra
+Substitution2: "Single Substitution lookup 17 subtable" glyph157
 EndChar
 
-StartChar: U0CB1
-Encoding: 3249 3249 81
+StartChar: N
+Encoding: 71 3249 81
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3809,11 +3807,11 @@ SplineSet
  1311 376 1311 376 1311 516 c 0,51,52
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_hale_ra
+Substitution2: "Single Substitution lookup 17 subtable" glyph158
 EndChar
 
-StartChar: U0CB2
-Encoding: 3250 3250 82
+StartChar: O
+Encoding: 72 3250 82
 Width: 1436
 GlyphClass: 2
 Flags: W
@@ -3856,11 +3854,11 @@ SplineSet
  668 767 668 767 668 819 c 0,49,50
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_la
+Substitution2: "Single Substitution lookup 17 subtable" glyph159
 EndChar
 
-StartChar: U0CB3
-Encoding: 3251 3251 83
+StartChar: P
+Encoding: 73 3251 83
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -3928,11 +3926,11 @@ SplineSet
  819 172 819 172 819 231 c 0,95,96
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_La
+Substitution2: "Single Substitution lookup 17 subtable" glyph160
 EndChar
 
-StartChar: U0CB5
-Encoding: 3253 3253 84
+StartChar: Q
+Encoding: 74 3253 84
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -3983,11 +3981,11 @@ SplineSet
  1354 498 1354 498 1354 322 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_va
+Substitution2: "Single Substitution lookup 17 subtable" glyph161
 EndChar
 
-StartChar: U0CB6
-Encoding: 3254 3254 85
+StartChar: R
+Encoding: 75 3254 85
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -4043,11 +4041,11 @@ SplineSet
  1030 318 1030 318 1030 545 c 0,62,63
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_sha
+Substitution2: "Single Substitution lookup 17 subtable" glyph162
 EndChar
 
-StartChar: U0CB7
-Encoding: 3255 3255 86
+StartChar: S
+Encoding: 76 3255 86
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -4117,11 +4115,11 @@ SplineSet
  1358 69 1358 69 1430 -2 c 0,24,25
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 7 subtable" ardha_Sha
+Substitution2: "Single Substitution lookup 17 subtable" glyph163
 EndChar
 
-StartChar: U0CB8
-Encoding: 3256 3256 87
+StartChar: T
+Encoding: 77 3256 87
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -4169,11 +4167,11 @@ SplineSet
  1118 501 1118 501 1118 379 c 0,24,25
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 7 subtable" ardha_sa
+Substitution2: "Single Substitution lookup 17 subtable" exclamdown
 EndChar
 
-StartChar: U0CB9
-Encoding: 3257 3257 88
+StartChar: U
+Encoding: 78 3257 88
 Width: 1526
 GlyphClass: 2
 Flags: W
@@ -4226,11 +4224,11 @@ SplineSet
  748 345 748 345 748 377 c 1,63,64
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 7 subtable" ardha_ha
+Substitution2: "Single Substitution lookup 17 subtable" cent
 EndChar
 
-StartChar: U0CBE
-Encoding: 3262 3262 89
+StartChar: V
+Encoding: 79 3262 89
 Width: 797
 GlyphClass: 4
 Flags: W
@@ -4270,8 +4268,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CBF
-Encoding: 3263 3263 90
+StartChar: W
+Encoding: 80 3263 90
 Width: 838
 GlyphClass: 4
 Flags: W
@@ -4306,8 +4304,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CC0
-Encoding: 3264 3264 91
+StartChar: X
+Encoding: 81 3264 91
 Width: 838
 GlyphClass: 4
 Flags: W
@@ -4364,8 +4362,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: extra_8
-Encoding: 65546 -1 92
+StartChar: Y
+Encoding: 118 -1 92
 Width: 324
 GlyphClass: 4
 Flags: W
@@ -4389,8 +4387,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0CC2
-Encoding: 3266 3266 93
+StartChar: Z
+Encoding: 83 3266 93
 Width: 1425
 GlyphClass: 4
 Flags: W
@@ -4438,11 +4436,11 @@ SplineSet
  1303 775 1303 775 1303 483 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 15 subtable" extra_13
+Substitution2: "Single Substitution lookup 19 subtable" w
 EndChar
 
-StartChar: U0CC3
-Encoding: 3267 3267 94
+StartChar: bracketleft
+Encoding: 84 3267 94
 Width: 406
 GlyphClass: 4
 Flags: W
@@ -4482,8 +4480,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0CC4
-Encoding: 3268 3268 95
+StartChar: backslash
+Encoding: 85 3268 95
 Width: 279
 GlyphClass: 4
 Flags: W
@@ -4534,8 +4532,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CC6
-Encoding: 3270 3270 96
+StartChar: bracketright
+Encoding: 86 3270 96
 Width: 20
 GlyphClass: 4
 Flags: W
@@ -4567,8 +4565,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CC7
-Encoding: 3271 3271 97
+StartChar: asciicircum
+Encoding: 87 3271 97
 Width: 838
 GlyphClass: 4
 Flags: W
@@ -4622,8 +4620,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CC8
-Encoding: 3272 3272 98
+StartChar: underscore
+Encoding: 88 3272 98
 Width: 377
 GlyphClass: 4
 Flags: W
@@ -4687,8 +4685,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0CCA
-Encoding: 3274 3274 99
+StartChar: grave
+Encoding: 89 3274 99
 Width: 1425
 GlyphClass: 4
 Flags: W
@@ -4759,8 +4757,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CCB
-Encoding: 3275 3275 100
+StartChar: a
+Encoding: 90 3275 100
 Width: 2200
 GlyphClass: 4
 Flags: W
@@ -4853,8 +4851,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CCC
-Encoding: 3276 3276 101
+StartChar: b
+Encoding: 91 3276 101
 Width: 1044
 GlyphClass: 4
 Flags: W
@@ -4901,8 +4899,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CCD
-Encoding: 3277 3277 102
+StartChar: c
+Encoding: 92 3277 102
 Width: 827
 GlyphClass: 4
 Flags: W
@@ -4940,8 +4938,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0CD5
-Encoding: 3285 3285 103
+StartChar: d
+Encoding: 93 3285 103
 Width: 838
 GlyphClass: 4
 Flags: W
@@ -4974,8 +4972,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0CD6
-Encoding: 3286 3286 104
+StartChar: e
+Encoding: 94 3286 104
 Width: 377
 GlyphClass: 4
 Flags: W
@@ -5018,8 +5016,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0CDE
-Encoding: 3294 3294 105
+StartChar: f
+Encoding: 95 3294 105
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -5072,8 +5070,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0CE0
-Encoding: 3296 3296 106
+StartChar: g
+Encoding: 96 3296 106
 Width: 3217
 GlyphClass: 2
 Flags: W
@@ -5189,8 +5187,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CE6
-Encoding: 3302 3302 107
+StartChar: h
+Encoding: 97 3302 107
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5219,8 +5217,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0CE7
-Encoding: 3303 3303 108
+StartChar: i
+Encoding: 98 3303 108
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5252,8 +5250,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CE8
-Encoding: 3304 3304 109
+StartChar: j
+Encoding: 99 3304 109
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5291,8 +5289,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CE9
-Encoding: 3305 3305 110
+StartChar: k
+Encoding: 100 3305 110
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5344,8 +5342,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CEA
-Encoding: 3306 3306 111
+StartChar: l
+Encoding: 101 3306 111
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5401,8 +5399,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CEB
-Encoding: 3307 3307 112
+StartChar: m
+Encoding: 102 3307 112
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5479,8 +5477,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0CEC
-Encoding: 3308 3308 113
+StartChar: n
+Encoding: 103 3308 113
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5526,8 +5524,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CED
-Encoding: 3309 3309 114
+StartChar: o
+Encoding: 104 3309 114
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5561,8 +5559,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CEE
-Encoding: 3310 3310 115
+StartChar: p
+Encoding: 105 3310 115
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5610,8 +5608,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0CEF
-Encoding: 3311 3311 116
+StartChar: q
+Encoding: 106 3311 116
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -5655,16 +5653,16 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_9
-Encoding: 65547 -1 117
+StartChar: r
+Encoding: 119 -1 117
 Width: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: extra_10
-Encoding: 65548 -1 118
+StartChar: s
+Encoding: 120 -1 118
 Width: 901
 GlyphClass: 2
 Flags: W
@@ -5691,8 +5689,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_11
-Encoding: 65549 -1 119
+StartChar: t
+Encoding: 121 -1 119
 Width: 324
 GlyphClass: 2
 Flags: W
@@ -5716,16 +5714,16 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_12
-Encoding: 65550 -1 120
+StartChar: u
+Encoding: 122 -1 120
 Width: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: U0CC1
-Encoding: 3265 3265 121
+StartChar: v
+Encoding: 82 3265 121
 Width: 750
 GlyphClass: 4
 Flags: W
@@ -5750,11 +5748,11 @@ SplineSet
  570 722 570 722 570 487 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 15 subtable" extra_8
+Substitution2: "Single Substitution lookup 19 subtable" Y
 EndChar
 
-StartChar: extra_13
-Encoding: 65551 -1 122
+StartChar: w
+Encoding: 123 -1 122
 Width: 1065
 GlyphClass: 4
 Flags: W
@@ -5806,8 +5804,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: extra_14
-Encoding: 65552 -1 123
+StartChar: x
+Encoding: 124 -1 123
 Width: 1622
 GlyphClass: 2
 Flags: W
@@ -5859,16 +5857,16 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: extra_15
-Encoding: 65553 -1 124
+StartChar: y
+Encoding: 125 -1 124
 Width: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: dep_vowel_ru
-Encoding: 65554 -1 125
+StartChar: z
+Encoding: 126 -1 125
 Width: 274
 GlyphClass: 2
 Flags: W
@@ -5908,8 +5906,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dep_vowel_rU
-Encoding: 65555 -1 126
+StartChar: braceleft
+Encoding: 127 -1 126
 Width: 279
 GlyphClass: 2
 Flags: W
@@ -5960,8 +5958,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dep_vowel_U0CD6_2
-Encoding: 65556 -1 127
+StartChar: bar
+Encoding: 128 -1 127
 Width: 260
 GlyphClass: 2
 Flags: W
@@ -6005,8 +6003,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dep_vowel_ai_2
-Encoding: 65557 -1 128
+StartChar: braceright
+Encoding: 129 -1 128
 Width: 377
 GlyphClass: 2
 Flags: W
@@ -6082,8 +6080,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: dep_vowel_U0CED_2
-Encoding: 65558 -1 129
+StartChar: asciitilde
+Encoding: 130 -1 129
 Width: 1425
 GlyphClass: 2
 Flags: W
@@ -6166,8 +6164,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_arkavattu
-Encoding: 65559 -1 130
+StartChar: M_c.rphf
+Encoding: 131 -1 130
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -6200,12 +6198,12 @@ SplineSet
  1128 899 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 2 subtable" vattu_ra
-Ligature2: "rphfRephForminKannadalookup0 subtable" U0CB0 U0CCD
+Substitution2: "Single Substitution lookup 15 subtable" threequarters
+Ligature2: "'rphf' Reph Form in Kannada lookup 0 subtable" M c
 EndChar
 
-StartChar: ardha_ka
-Encoding: 65560 -1 131
+StartChar: glyph131
+Encoding: 132 -1 131
 Width: 1008
 GlyphClass: 2
 Flags: W
@@ -6249,8 +6247,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_kha
-Encoding: 65561 -1 132
+StartChar: glyph132
+Encoding: 133 -1 132
 Width: 1683
 GlyphClass: 2
 Flags: W
@@ -6308,8 +6306,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_ga
-Encoding: 65562 -1 133
+StartChar: glyph133
+Encoding: 134 -1 133
 Width: 1237
 GlyphClass: 2
 Flags: W
@@ -6335,8 +6333,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_gha
-Encoding: 65563 -1 134
+StartChar: glyph134
+Encoding: 135 -1 134
 Width: 1765
 GlyphClass: 2
 Flags: W
@@ -6409,8 +6407,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_jna
-Encoding: 65564 -1 135
+StartChar: glyph135
+Encoding: 136 -1 135
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -6477,8 +6475,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_cha
-Encoding: 65565 -1 136
+StartChar: glyph136
+Encoding: 137 -1 136
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -6540,8 +6538,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_Cha
-Encoding: 65566 -1 137
+StartChar: glyph137
+Encoding: 138 -1 137
 Width: 1485
 GlyphClass: 2
 Flags: W
@@ -6600,8 +6598,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_ja
-Encoding: 65567 -1 138
+StartChar: glyph138
+Encoding: 139 -1 138
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -6664,8 +6662,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_jha
-Encoding: 65568 -1 139
+StartChar: glyph139
+Encoding: 140 -1 139
 Width: 2595
 GlyphClass: 2
 Flags: W
@@ -6733,8 +6731,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_nya
-Encoding: 65569 -1 140
+StartChar: glyph140
+Encoding: 141 -1 140
 Width: 2060
 GlyphClass: 2
 Flags: W
@@ -6809,8 +6807,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_ta
-Encoding: 65570 -1 141
+StartChar: glyph141
+Encoding: 142 -1 141
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -6881,8 +6879,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_Ta
-Encoding: 65571 -1 142
+StartChar: glyph142
+Encoding: 143 -1 142
 Width: 1253
 GlyphClass: 2
 Flags: W
@@ -6923,8 +6921,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_da
-Encoding: 65572 -1 143
+StartChar: glyph143
+Encoding: 144 -1 143
 Width: 1485
 GlyphClass: 2
 Flags: W
@@ -6978,8 +6976,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_Da
-Encoding: 65573 -1 144
+StartChar: glyph144
+Encoding: 145 -1 144
 Width: 1485
 GlyphClass: 2
 Flags: W
@@ -7041,8 +7039,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_Na
-Encoding: 65574 -1 145
+StartChar: glyph145
+Encoding: 146 -1 145
 Width: 1536
 GlyphClass: 2
 Flags: W
@@ -7103,8 +7101,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_tha
-Encoding: 65575 -1 146
+StartChar: glyph146
+Encoding: 147 -1 146
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -7156,8 +7154,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_Tha
-Encoding: 65576 -1 147
+StartChar: glyph147
+Encoding: 148 -1 147
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7211,8 +7209,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_da
-Encoding: 65577 -1 148
+StartChar: glyph148
+Encoding: 149 -1 148
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7250,8 +7248,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_Dha
-Encoding: 65578 -1 149
+StartChar: glyph149
+Encoding: 150 -1 149
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7296,8 +7294,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_na
-Encoding: 65579 -1 150
+StartChar: glyph150
+Encoding: 151 -1 150
 Width: 1231
 GlyphClass: 2
 Flags: W
@@ -7336,8 +7334,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_pa
-Encoding: 65580 -1 151
+StartChar: glyph151
+Encoding: 152 -1 151
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7396,8 +7394,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_pha
-Encoding: 65581 -1 152
+StartChar: glyph152
+Encoding: 153 -1 152
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7463,8 +7461,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_ba
-Encoding: 65582 -1 153
+StartChar: glyph153
+Encoding: 154 -1 153
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -7515,8 +7513,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_bha
-Encoding: 65583 -1 154
+StartChar: glyph154
+Encoding: 155 -1 154
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -7574,8 +7572,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_ma
-Encoding: 65584 -1 155
+StartChar: glyph155
+Encoding: 156 -1 155
 Width: 2163
 GlyphClass: 2
 Flags: W
@@ -7640,8 +7638,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_ya
-Encoding: 65585 -1 156
+StartChar: glyph156
+Encoding: 157 -1 156
 Width: 2400
 GlyphClass: 2
 Flags: W
@@ -7704,8 +7702,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_ra
-Encoding: 65586 -1 157
+StartChar: glyph157
+Encoding: 158 -1 157
 Width: 1253
 GlyphClass: 2
 Flags: W
@@ -7737,8 +7735,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_hale_ra
-Encoding: 65587 -1 158
+StartChar: glyph158
+Encoding: 159 -1 158
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7791,8 +7789,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_la
-Encoding: 65588 -1 159
+StartChar: glyph159
+Encoding: 160 -1 159
 Width: 1626
 GlyphClass: 2
 Flags: W
@@ -7838,8 +7836,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_La
-Encoding: 65589 -1 160
+StartChar: glyph160
+Encoding: 161 -1 160
 Width: 1253
 GlyphClass: 2
 Flags: W
@@ -7905,8 +7903,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_va
-Encoding: 65590 -1 161
+StartChar: glyph161
+Encoding: 162 -1 161
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -7955,8 +7953,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_sha
-Encoding: 65591 -1 162
+StartChar: glyph162
+Encoding: 163 -1 162
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -8010,8 +8008,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_Sha
-Encoding: 65592 -1 163
+StartChar: glyph163
+Encoding: 164 -1 163
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -8079,8 +8077,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_sa
-Encoding: 65593 -1 164
+StartChar: exclamdown
+Encoding: 165 -1 164
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -8125,8 +8123,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_ha
-Encoding: 65594 -1 165
+StartChar: cent
+Encoding: 166 -1 165
 Width: 1526
 GlyphClass: 2
 Flags: W
@@ -8177,8 +8175,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ardha_hale_La
-Encoding: 65595 -1 166
+StartChar: sterling
+Encoding: 167 -1 166
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -8231,8 +8229,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: vattu_ka
-Encoding: 65596 -1 167
+StartChar: currency
+Encoding: 168 -1 167
 Width: 422
 GlyphClass: 4
 Flags: W
@@ -8270,12 +8268,12 @@ SplineSet
  143 -522 143 -522 143 -445 c 0,31,32
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ka
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C95 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Egrave
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" three c
 EndChar
 
-StartChar: vattu_kha
-Encoding: 65597 -1 168
+StartChar: yen
+Encoding: 169 -1 168
 Width: 248
 GlyphClass: 4
 Flags: W
@@ -8324,12 +8322,12 @@ SplineSet
  -371 -544 -371 -544 -371 -531 c 1,62,63
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_kha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C96 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Eacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" four c
 EndChar
 
-StartChar: vattu_ga
-Encoding: 65598 -1 169
+StartChar: brokenbar
+Encoding: 170 -1 169
 Width: 190
 GlyphClass: 4
 Flags: W
@@ -8348,12 +8346,12 @@ SplineSet
  164 -519 164 -519 164 -732 c 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ga
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C97 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Ecircumflex
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" five c
 EndChar
 
-StartChar: vattu_gha
-Encoding: 65599 -1 170
+StartChar: section
+Encoding: 171 -1 170
 Width: 259
 GlyphClass: 4
 Flags: W
@@ -8408,12 +8406,12 @@ SplineSet
  -341 -685 -341 -685 -341 -696 c 0,76,77
 EndSplineSet
 Validated: 37
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_gha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C98 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Edieresis
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" six c
 EndChar
 
-StartChar: vattu_jna
-Encoding: 65600 -1 171
+StartChar: dieresis
+Encoding: 172 -1 171
 Width: 144
 GlyphClass: 4
 Flags: W
@@ -8470,12 +8468,12 @@ SplineSet
  68 -560 68 -560 71 -625 c 0,8,9
 EndSplineSet
 Validated: 37
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_jna
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C99 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Igrave
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" seven c
 EndChar
 
-StartChar: vattu_cha
-Encoding: 65601 -1 172
+StartChar: copyright
+Encoding: 173 -1 172
 Width: 289
 GlyphClass: 4
 Flags: W
@@ -8524,12 +8522,12 @@ SplineSet
  220 -511 220 -511 220 -617 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_cha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C9A U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Iacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" eight c
 EndChar
 
-StartChar: vattu_Cha
-Encoding: 65602 -1 173
+StartChar: ordfeminine
+Encoding: 174 -1 173
 Width: 250
 GlyphClass: 4
 Flags: W
@@ -8565,12 +8563,12 @@ SplineSet
  -172 -808 -172 -808 -172 -819 c 0,41,42
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Cha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C9B U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Icircumflex
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" nine c
 EndChar
 
-StartChar: vattu_ja
-Encoding: 65603 -1 174
+StartChar: guillemotleft
+Encoding: 175 -1 174
 Width: 128
 GlyphClass: 4
 Flags: W
@@ -8618,12 +8616,12 @@ SplineSet
  54 -543 54 -543 54 -588 c 0,0,1
 EndSplineSet
 Validated: 37
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ja
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C9C U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Idieresis
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" colon c
 EndChar
 
-StartChar: vattu_jha
-Encoding: 65604 -1 175
+StartChar: logicalnot
+Encoding: 176 -1 175
 Width: 447
 GlyphClass: 4
 Flags: W
@@ -8684,12 +8682,12 @@ SplineSet
  -494 -467 -494 -467 -494 -394 c 0,80,81
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_jha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C9D U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Eth
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" semicolon c
 EndChar
 
-StartChar: vattu_nya
-Encoding: 65605 -1 176
+StartChar: less_c.blwf
+Encoding: 177 -1 176
 Width: 382
 GlyphClass: 4
 Flags: W
@@ -8749,12 +8747,12 @@ SplineSet
  -138 -516 -138 -516 -138 -504 c 0,84,85
 EndSplineSet
 Validated: 37
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_nya
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C9E U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Ntilde
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" less c
 EndChar
 
-StartChar: vattu_ta
-Encoding: 65606 -1 177
+StartChar: registered
+Encoding: 178 -1 177
 Width: 244
 GlyphClass: 4
 Flags: W
@@ -8797,12 +8795,12 @@ SplineSet
  -484 -306 -484 -306 -484 -234 c 0,53,54
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ta
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0C9F U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Ograve
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" equal c
 EndChar
 
-StartChar: vattu_Ta
-Encoding: 65607 -1 178
+StartChar: overscore
+Encoding: 179 -1 178
 Width: 50
 GlyphClass: 4
 Flags: W
@@ -8838,12 +8836,12 @@ SplineSet
  -230 -372 -230 -372 -230 -399 c 0,24,25
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Ta
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA0 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Oacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" greater c
 EndChar
 
-StartChar: vattu_da
-Encoding: 65608 -1 179
+StartChar: degree
+Encoding: 180 -1 179
 Width: 300
 GlyphClass: 4
 Flags: W
@@ -8892,12 +8890,12 @@ SplineSet
  187 -529 187 -529 187 -456 c 0,37,38
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_da
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA1 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Ocircumflex
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" question c
 EndChar
 
-StartChar: vattu_Da
-Encoding: 65609 -1 180
+StartChar: plusminus
+Encoding: 181 -1 180
 Width: 300
 GlyphClass: 4
 Flags: W
@@ -8952,12 +8950,12 @@ SplineSet
  187 -529 187 -529 187 -456 c 0,46,47
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Da
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA2 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Otilde
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" at c
 EndChar
 
-StartChar: vattu_Na
-Encoding: 65610 -1 181
+StartChar: twosuperior
+Encoding: 182 -1 181
 Width: 162
 GlyphClass: 4
 Flags: W
@@ -9013,12 +9011,12 @@ SplineSet
  114 -364 114 -364 114 -497 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Na
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA3 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Odieresis
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" A c
 EndChar
 
-StartChar: vattu_tha
-Encoding: 65611 -1 182
+StartChar: threesuperior
+Encoding: 183 -1 182
 Width: 250
 GlyphClass: 4
 Flags: W
@@ -9046,12 +9044,12 @@ SplineSet
  186 -359 186 -359 186 -307 c 0,17,18
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_tha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA4 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" multiply
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" B c
 EndChar
 
-StartChar: vattu_Tha
-Encoding: 65612 -1 183
+StartChar: acute
+Encoding: 184 -1 183
 Width: 140
 GlyphClass: 4
 Flags: W
@@ -9095,12 +9093,12 @@ SplineSet
  -294 -315 -294 -315 -294 -346 c 0,47,48
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Tha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA5 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Oslash
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" C c
 EndChar
 
-StartChar: vattu_dha
-Encoding: 65613 -1 184
+StartChar: mu1
+Encoding: 185 -1 184
 Width: 140
 GlyphClass: 4
 Flags: W
@@ -9131,12 +9129,12 @@ SplineSet
  5 -534 5 -534 5 -473 c 0,20,21
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_da
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA6 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Ugrave
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" D c
 EndChar
 
-StartChar: vattu_Dha
-Encoding: 65614 -1 185
+StartChar: paragraph
+Encoding: 186 -1 185
 Width: 140
 GlyphClass: 4
 Flags: W
@@ -9173,12 +9171,12 @@ SplineSet
  5 -534 5 -534 5 -473 c 0,29,30
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Dha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA7 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Uacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" E c
 EndChar
 
-StartChar: vattu_na
-Encoding: 65615 -1 186
+StartChar: middot
+Encoding: 187 -1 186
 Width: 250
 GlyphClass: 4
 Flags: W
@@ -9218,12 +9216,12 @@ SplineSet
  -148 -388 -148 -388 -49 -294 c 1,43,44
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_na
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CA8 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Ucircumflex
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" F c
 EndChar
 
-StartChar: vattu_pa
-Encoding: 65616 -1 187
+StartChar: cedilla
+Encoding: 188 -1 187
 Width: 246
 GlyphClass: 4
 Flags: W
@@ -9256,12 +9254,12 @@ SplineSet
  172 292 172 292 172 -111 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_pa
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CAA U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Udieresis
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" G c
 EndChar
 
-StartChar: vattu_pha
-Encoding: 65617 -1 188
+StartChar: onesuperior
+Encoding: 189 -1 188
 Width: 246
 GlyphClass: 4
 Flags: W
@@ -9300,12 +9298,12 @@ SplineSet
  -172 -644 -172 -644 -172 -659 c 0,45,46
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_pha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CAB U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Yacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" H c
 EndChar
 
-StartChar: vattu_ba
-Encoding: 65618 -1 189
+StartChar: ordmasculine
+Encoding: 190 -1 189
 Width: 326
 GlyphClass: 4
 Flags: W
@@ -9345,12 +9343,12 @@ SplineSet
  253 -135 253 -135 253 -357 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ba
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CAC U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" Thorn
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" I c
 EndChar
 
-StartChar: vattu_bha
-Encoding: 65619 -1 190
+StartChar: guillemotright
+Encoding: 191 -1 190
 Width: 326
 GlyphClass: 4
 Flags: W
@@ -9395,12 +9393,12 @@ SplineSet
  -130 -791 -130 -791 -130 -804 c 0,58,59
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_bha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CAD U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" germandbls
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" J c
 EndChar
 
-StartChar: vattu_ma
-Encoding: 65620 -1 191
+StartChar: onequarter
+Encoding: 192 -1 191
 Width: 328
 GlyphClass: 4
 Flags: W
@@ -9441,12 +9439,12 @@ SplineSet
  224 -342 224 -342 223 -307 c 0,45,46
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ma
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CAE U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" agrave
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" K c
 EndChar
 
-StartChar: vattu_ya
-Encoding: 65621 -1 192
+StartChar: onehalf
+Encoding: 193 -1 192
 Width: 381
 GlyphClass: 4
 Flags: W
@@ -9495,12 +9493,12 @@ SplineSet
  330 -477 330 -477 330 -582 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ya
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CAF U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" aacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" L c
 EndChar
 
-StartChar: vattu_ra
-Encoding: 65622 -1 193
+StartChar: threequarters
+Encoding: 194 -1 193
 Width: 242
 GlyphClass: 4
 Flags: W
@@ -9519,13 +9517,13 @@ SplineSet
  -36 -251 -36 -251 47 -96 c 1,15,-1
  97 -96 l 1,0,1
 EndSplineSet
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ra
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB0 U0CCD
 LCarets2: 1 0 
+Substitution2: "Single Substitution lookup 18 subtable" acircumflex
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" M c
 EndChar
 
-StartChar: vattu_hale_ra
-Encoding: 65623 -1 194
+StartChar: questiondown
+Encoding: 195 -1 194
 Width: 74
 GlyphClass: 4
 Flags: W
@@ -9574,12 +9572,12 @@ SplineSet
  -618 -268 -618 -268 -618 -193 c 0,61,62
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_hale_ra
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB1 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" atilde
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" N c
 EndChar
 
-StartChar: vattu_la
-Encoding: 65624 -1 195
+StartChar: Agrave
+Encoding: 196 -1 195
 Width: 320
 GlyphClass: 4
 Flags: W
@@ -9617,12 +9615,12 @@ SplineSet
  265 -386 265 -386 265 -488 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_la
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB2 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" adieresis
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" O c
 EndChar
 
-StartChar: vattu_La
-Encoding: 65625 -1 196
+StartChar: Aacute
+Encoding: 197 -1 196
 Width: 214
 GlyphClass: 4
 Flags: W
@@ -9673,12 +9671,12 @@ SplineSet
  -189 -676 -189 -676 -189 -604 c 0,66,67
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_La
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB3 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" aring
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" P c
 EndChar
 
-StartChar: vattu_va
-Encoding: 65626 -1 197
+StartChar: Acircumflex
+Encoding: 198 -1 197
 Width: 469
 GlyphClass: 4
 Flags: W
@@ -9726,12 +9724,12 @@ SplineSet
  397 -365 397 -365 397 -481 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_va
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB5 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" ae
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" Q c
 EndChar
 
-StartChar: vattu_sha
-Encoding: 65627 -1 198
+StartChar: Atilde
+Encoding: 199 -1 198
 Width: 285
 GlyphClass: 4
 Flags: W
@@ -9771,12 +9769,12 @@ SplineSet
  197 -498 197 -498 197 -394 c 0,39,40
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_sha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB6 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" ccedilla
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" R c
 EndChar
 
-StartChar: vattu_Sha
-Encoding: 65628 -1 199
+StartChar: Adieresis
+Encoding: 200 -1 199
 Width: 250
 GlyphClass: 4
 Flags: W
@@ -9813,12 +9811,12 @@ SplineSet
  233 -327 233 -327 233 -455 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_Sha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB7 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" egrave
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" S c
 EndChar
 
-StartChar: vattu_sa
-Encoding: 65629 -1 200
+StartChar: Aring
+Encoding: 201 -1 200
 Width: 263
 GlyphClass: 4
 Flags: W
@@ -9848,12 +9846,12 @@ SplineSet
  190 -39 190 -39 190 -227 c 0,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_sa
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB8 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" eacute
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" T c
 EndChar
 
-StartChar: vattu_ha
-Encoding: 65630 -1 201
+StartChar: AE
+Encoding: 202 -1 201
 Width: 366
 GlyphClass: 4
 Flags: W
@@ -9896,12 +9894,12 @@ SplineSet
  -271 -583 -271 -583 -271 -492 c 0,46,47
 EndSplineSet
 Validated: 33
-Substitution2: "SingleSubstitutionlookup18 subtable" saNNa_vattu_ha
-Ligature2: "blwfBelowBaseFormsinKannadalook subtable" U0CB9 U0CCD
+Substitution2: "Single Substitution lookup 18 subtable" ecircumflex
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 3 subtable" U c
 EndChar
 
-StartChar: vattu_hale_La
-Encoding: 65631 -1 202
+StartChar: Ccedilla
+Encoding: 203 -1 202
 Width: 98
 GlyphClass: 2
 Flags: W
@@ -9950,8 +9948,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_ka
-Encoding: 65632 -1 203
+StartChar: Egrave
+Encoding: 204 -1 203
 Width: 418
 GlyphClass: 4
 Flags: W
@@ -9988,11 +9986,11 @@ SplineSet
  270 -774 270 -774 270 -717 c 0,29,30
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ka U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" currency c
 EndChar
 
-StartChar: saNNa_vattu_kha
-Encoding: 65633 -1 204
+StartChar: Eacute
+Encoding: 205 -1 204
 Width: 444
 GlyphClass: 4
 Flags: W
@@ -10039,11 +10037,11 @@ SplineSet
  -154 -831 -154 -831 -82 -776 c 1,59,60
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_kha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" yen c
 EndChar
 
-StartChar: saNNa_vattu_ga
-Encoding: 65634 -1 205
+StartChar: Ecircumflex
+Encoding: 206 -1 205
 Width: 285
 GlyphClass: 4
 Flags: W
@@ -10062,11 +10060,11 @@ SplineSet
  256 -738 256 -738 258 -911 c 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ga U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" brokenbar c
 EndChar
 
-StartChar: saNNa_vattu_gha
-Encoding: 65635 -1 206
+StartChar: Edieresis
+Encoding: 207 -1 206
 Width: 551
 GlyphClass: 4
 Flags: W
@@ -10118,11 +10116,11 @@ SplineSet
  74 -834 74 -834 74 -844 c 0,72,73
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_gha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" section c
 EndChar
 
-StartChar: saNNa_vattu_jna
-Encoding: 65636 -1 207
+StartChar: Igrave
+Encoding: 208 -1 207
 Width: 463
 GlyphClass: 4
 Flags: W
@@ -10176,11 +10174,11 @@ SplineSet
  403 -754 403 -754 403 -809 c 1,8,9
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_jna U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" dieresis c
 EndChar
 
-StartChar: saNNa_vattu_cha
-Encoding: 65637 -1 208
+StartChar: Iacute
+Encoding: 209 -1 208
 Width: 569
 GlyphClass: 4
 Flags: W
@@ -10228,11 +10226,11 @@ SplineSet
  512 -700 512 -700 512 -770 c 0,0,1
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_cha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" copyright c
 EndChar
 
-StartChar: saNNa_vattu_Cha
-Encoding: 65638 -1 209
+StartChar: Icircumflex
+Encoding: 210 -1 209
 Width: 446
 GlyphClass: 4
 Flags: W
@@ -10269,11 +10267,11 @@ SplineSet
  113 -834 113 -834 113 -844 c 0,42,43
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Cha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" ordfeminine c
 EndChar
 
-StartChar: saNNa_vattu_ja
-Encoding: 65639 -1 210
+StartChar: Idieresis
+Encoding: 211 -1 210
 Width: 440
 GlyphClass: 4
 Flags: W
@@ -10321,11 +10319,11 @@ SplineSet
  381 -739 381 -739 381 -778 c 0,0,1
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ja U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" guillemotleft c
 EndChar
 
-StartChar: saNNa_vattu_jha
-Encoding: 65640 -1 211
+StartChar: Eth
+Encoding: 212 -1 211
 Width: 580
 GlyphClass: 4
 Flags: W
@@ -10379,11 +10377,11 @@ SplineSet
  -174 -608 -174 -608 -174 -555 c 0,70,71
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_jha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" logicalnot c
 EndChar
 
-StartChar: saNNa_vattu_nya
-Encoding: 65641 -1 212
+StartChar: Ntilde
+Encoding: 213 -1 212
 Width: 649
 GlyphClass: 4
 Flags: W
@@ -10440,11 +10438,11 @@ SplineSet
  231 -754 231 -754 231 -745 c 0,77,78
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_nya U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" less_c.blwf c
 EndChar
 
-StartChar: saNNa_vattu_ta
-Encoding: 65642 -1 213
+StartChar: Ograve
+Encoding: 214 -1 213
 Width: 524
 GlyphClass: 4
 Flags: W
@@ -10485,11 +10483,11 @@ SplineSet
  -51 -631 -51 -631 -51 -580 c 0,50,51
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ta U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" registered c
 EndChar
 
-StartChar: saNNa_vattu_Ta
-Encoding: 65643 -1 214
+StartChar: Oacute
+Encoding: 215 -1 214
 Width: 283
 GlyphClass: 4
 Flags: W
@@ -10525,11 +10523,11 @@ SplineSet
  41 -618 41 -618 41 -641 c 256,24,25
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Ta U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" overscore c
 EndChar
 
-StartChar: saNNa_vattu_da
-Encoding: 65644 -1 215
+StartChar: Ocircumflex
+Encoding: 216 -1 215
 Width: 442
 GlyphClass: 4
 Flags: W
@@ -10572,12 +10570,11 @@ SplineSet
  334 -739 334 -739 334 -688 c 0,33,34
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_dha U0CCD
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_da U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" degree c
 EndChar
 
-StartChar: saNNa_vattu_Da
-Encoding: 65645 -1 216
+StartChar: Otilde
+Encoding: 217 -1 216
 Width: 565
 GlyphClass: 4
 Flags: W
@@ -10625,11 +10622,11 @@ SplineSet
  457 -584 457 -584 457 -532 c 0,41,42
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Da U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" plusminus c
 EndChar
 
-StartChar: saNNa_vattu_Na
-Encoding: 65646 -1 217
+StartChar: Odieresis
+Encoding: 218 -1 217
 Width: 467
 GlyphClass: 4
 Flags: W
@@ -10680,11 +10677,11 @@ SplineSet
  428 -562 428 -562 428 -666 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Na U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" twosuperior c
 EndChar
 
-StartChar: saNNa_vattu_tha
-Encoding: 65647 -1 218
+StartChar: multiply
+Encoding: 219 -1 218
 Width: 299
 GlyphClass: 4
 Flags: W
@@ -10711,11 +10708,11 @@ SplineSet
  236 -760 236 -760 236 -666 c 0,17,18
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_tha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" threesuperior c
 EndChar
 
-StartChar: saNNa_vattu_Tha
-Encoding: 65648 -1 219
+StartChar: Oslash
+Encoding: 220 -1 219
 Width: 573
 GlyphClass: 4
 Flags: W
@@ -10758,11 +10755,11 @@ SplineSet
  229 -385 229 -385 229 -451 c 0,46,47
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Tha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" acute c
 EndChar
 
-StartChar: saNNa_vattu_da
-Encoding: 65649 -1 220
+StartChar: Ugrave
+Encoding: 221 -1 220
 Width: 573
 GlyphClass: 4
 Flags: W
@@ -10792,10 +10789,11 @@ SplineSet
  455 -748 455 -748 455 -705 c 0,19,20
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" mu1 c
 EndChar
 
-StartChar: saNNa_vattu_Dha
-Encoding: 65650 -1 221
+StartChar: Uacute
+Encoding: 222 -1 221
 Width: 573
 GlyphClass: 4
 Flags: W
@@ -10831,11 +10829,11 @@ SplineSet
  455 -601 455 -601 455 -557 c 0,28,29
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Dha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" paragraph c
 EndChar
 
-StartChar: saNNa_vattu_na
-Encoding: 65651 -1 222
+StartChar: Ucircumflex
+Encoding: 223 -1 222
 Width: 201
 GlyphClass: 4
 Flags: W
@@ -10875,11 +10873,11 @@ SplineSet
  -66 -640 -66 -640 -53 -625 c 1,42,43
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_na U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" middot c
 EndChar
 
-StartChar: saNNa_vattu_pa
-Encoding: 65652 -1 223
+StartChar: Udieresis
+Encoding: 224 -1 223
 Width: 446
 GlyphClass: 4
 Flags: W
@@ -10911,11 +10909,11 @@ SplineSet
  383 -246 383 -246 383 -567 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_pa U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" cedilla c
 EndChar
 
-StartChar: saNNa_vattu_pha
-Encoding: 65653 -1 224
+StartChar: Yacute
+Encoding: 225 -1 224
 Width: 446
 GlyphClass: 4
 Flags: W
@@ -10952,11 +10950,11 @@ SplineSet
  113 -834 113 -834 113 -844 c 0,42,43
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_pha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" onesuperior c
 EndChar
 
-StartChar: saNNa_vattu_ba
-Encoding: 65654 -1 225
+StartChar: Thorn
+Encoding: 226 -1 225
 Width: 606
 GlyphClass: 4
 Flags: W
@@ -10995,11 +10993,11 @@ SplineSet
  549 -476 549 -476 549 -649 c 0,0,1
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ba U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" ordmasculine c
 EndChar
 
-StartChar: saNNa_vattu_bha
-Encoding: 65655 -1 226
+StartChar: germandbls
+Encoding: 227 -1 226
 Width: 606
 GlyphClass: 4
 Flags: W
@@ -11044,11 +11042,11 @@ SplineSet
  246 -824 246 -824 246 -836 c 0,54,55
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_bha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" guillemotright c
 EndChar
 
-StartChar: saNNa_vattu_ma
-Encoding: 65656 -1 227
+StartChar: agrave
+Encoding: 228 -1 227
 Width: 555
 GlyphClass: 4
 Flags: W
@@ -11088,11 +11086,11 @@ SplineSet
  463 -571 463 -571 463 -545 c 1,46,47
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ma U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" onequarter c
 EndChar
 
-StartChar: saNNa_vattu_ya
-Encoding: 65657 -1 228
+StartChar: aacute
+Encoding: 229 -1 228
 Width: 537
 GlyphClass: 4
 Flags: W
@@ -11134,11 +11132,11 @@ SplineSet
  526 -614 526 -614 526 -705 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ya U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" onehalf c
 EndChar
 
-StartChar: saNNa_vattu_ra
-Encoding: 65658 -1 229
+StartChar: acircumflex
+Encoding: 230 -1 229
 Width: 242
 GlyphClass: 4
 Flags: W
@@ -11157,12 +11155,12 @@ SplineSet
  -110 -598 -110 -598 -27 -443 c 1,15,-1
  23 -443 l 1,0,1
 EndSplineSet
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ra U0CCD
 LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" threequarters c
 EndChar
 
-StartChar: saNNa_vattu_hale_ra
-Encoding: 65659 -1 230
+StartChar: atilde
+Encoding: 231 -1 230
 Width: 434
 GlyphClass: 4
 Flags: W
@@ -11210,11 +11208,11 @@ SplineSet
  -47 -647 -47 -647 -47 -610 c 0,59,60
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_hale_ra U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" questiondown c
 EndChar
 
-StartChar: saNNa_vattu_la
-Encoding: 65660 -1 231
+StartChar: adieresis
+Encoding: 232 -1 231
 Width: 410
 GlyphClass: 4
 Flags: W
@@ -11245,11 +11243,11 @@ SplineSet
  401 -675 401 -675 401 -745 c 0,0,1
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_la U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Agrave c
 EndChar
 
-StartChar: saNNa_vattu_La
-Encoding: 65661 -1 232
+StartChar: aring
+Encoding: 233 -1 232
 Width: 442
 GlyphClass: 4
 Flags: W
@@ -11294,11 +11292,11 @@ SplineSet
  195 -848 195 -848 195 -811 c 0,55,56
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_La U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Aacute c
 EndChar
 
-StartChar: saNNa_vattu_va
-Encoding: 65662 -1 233
+StartChar: ae
+Encoding: 234 -1 233
 Width: 575
 GlyphClass: 4
 Flags: W
@@ -11345,11 +11343,11 @@ SplineSet
  524 -562 524 -562 524 -723 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_va U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Acircumflex c
 EndChar
 
-StartChar: saNNa_vattu_sha
-Encoding: 65663 -1 234
+StartChar: ccedilla
+Encoding: 235 -1 234
 Width: 444
 GlyphClass: 4
 Flags: W
@@ -11386,11 +11384,11 @@ SplineSet
  360 -736 360 -736 360 -672 c 0,38,39
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_sha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Atilde c
 EndChar
 
-StartChar: saNNa_vattu_Sha
-Encoding: 65664 -1 235
+StartChar: egrave
+Encoding: 236 -1 235
 Width: 543
 GlyphClass: 4
 Flags: W
@@ -11427,11 +11425,11 @@ SplineSet
  530 -764 530 -764 530 -848 c 0,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_Sha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Adieresis c
 EndChar
 
-StartChar: saNNa_vattu_sa
-Encoding: 65665 -1 236
+StartChar: eacute
+Encoding: 237 -1 236
 Width: 506
 GlyphClass: 4
 Flags: W
@@ -11460,11 +11458,11 @@ SplineSet
  479 -495 479 -495 479 -627 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_sa U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" Aring c
 EndChar
 
-StartChar: saNNa_vattu_ha
-Encoding: 65666 -1 237
+StartChar: ecircumflex
+Encoding: 238 -1 237
 Width: 475
 GlyphClass: 4
 Flags: W
@@ -11503,11 +11501,11 @@ SplineSet
  41 -737 41 -737 41 -684 c 0,38,39
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_blwfknda_0 subtable" vattu_ha U0CCD
+Ligature2: "'blwf' Below Base Forms in Kannada lookup 5 subtable" AE c
 EndChar
 
-StartChar: saNNa_vattu_hale_La
-Encoding: 65667 -1 238
+StartChar: edieresis
+Encoding: 239 -1 238
 Width: 414
 GlyphClass: 2
 Flags: W
@@ -11558,8 +11556,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_ta_2
-Encoding: 65668 -1 239
+StartChar: igrave
+Encoding: 240 -1 239
 Width: 545
 GlyphClass: 2
 Flags: W
@@ -11588,8 +11586,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: saNNa_vattu_na_2
-Encoding: 65669 -1 240
+StartChar: iacute
+Encoding: 241 -1 240
 Width: 446
 GlyphClass: 2
 Flags: W
@@ -11631,8 +11629,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_ya_2
-Encoding: 65670 -1 241
+StartChar: icircumflex
+Encoding: 242 -1 241
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -11676,8 +11674,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_ra_2
-Encoding: 65671 -1 242
+StartChar: idieresis
+Encoding: 243 -1 242
 Width: 242
 GlyphClass: 2
 Flags: W
@@ -11699,8 +11697,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_la_2
-Encoding: 65672 -1 243
+StartChar: eth
+Encoding: 244 -1 243
 Width: 410
 GlyphClass: 2
 Flags: W
@@ -11733,8 +11731,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: saNNa_vattu_va_2
-Encoding: 65673 -1 244
+StartChar: ntilde
+Encoding: 245 -1 244
 Width: 575
 GlyphClass: 2
 Flags: W
@@ -11783,8 +11781,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: vattu_ka_ru
-Encoding: 65674 -1 245
+StartChar: ograve
+Encoding: 246 -1 245
 Width: 840
 GlyphClass: 2
 Flags: W
@@ -11840,11 +11838,11 @@ SplineSet
  205 -473 205 -473 205 -410 c 0,64,65
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CC3 vattu_ka
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" bracketleft currency
 EndChar
 
-StartChar: vattu_o_ai
-Encoding: 65675 -1 246
+StartChar: oacute
+Encoding: 247 -1 246
 Width: 377
 GlyphClass: 2
 Flags: W
@@ -11914,8 +11912,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: vattu_ta_ra
-Encoding: 65676 -1 247
+StartChar: ocircumflex
+Encoding: 248 -1 247
 Width: 481
 GlyphClass: 2
 Flags: W
@@ -11969,8 +11967,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: vattu_tha_ru
-Encoding: 65677 -1 248
+StartChar: otilde
+Encoding: 249 -1 248
 Width: 270
 GlyphClass: 2
 Flags: W
@@ -12007,11 +12005,11 @@ SplineSet
  -217 -316 l 2,38,39
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CC3 vattu_tha
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" bracketleft threesuperior
 EndChar
 
-StartChar: vattu_tha_ai
-Encoding: 65678 -1 249
+StartChar: odieresis
+Encoding: 250 -1 249
 Width: 270
 GlyphClass: 2
 Flags: W
@@ -12056,11 +12054,11 @@ SplineSet
  -217 -316 l 2,54,55
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CD6 vattu_tha
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" e threesuperior
 EndChar
 
-StartChar: vattu_tha_ya
-Encoding: 65679 -1 250
+StartChar: divide
+Encoding: 251 -1 250
 Width: 430
 GlyphClass: 2
 Flags: W
@@ -12115,8 +12113,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_tha_ra
-Encoding: 65680 -1 251
+StartChar: oslash
+Encoding: 252 -1 251
 Width: 440
 GlyphClass: 2
 Flags: W
@@ -12162,8 +12160,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_pa_ra
-Encoding: 65681 -1 252
+StartChar: ugrave
+Encoding: 253 -1 252
 Width: 406
 GlyphClass: 2
 Flags: W
@@ -12208,8 +12206,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_ma_ai
-Encoding: 65682 -1 253
+StartChar: uacute
+Encoding: 254 -1 253
 Width: 1090
 GlyphClass: 2
 Flags: W
@@ -12283,11 +12281,11 @@ SplineSet
  224 -342 224 -342 223 -307 c 0,105,106
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CD6 vattu_ma
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" e onequarter
 EndChar
 
-StartChar: vattu_ma_ya
-Encoding: 65683 -1 254
+StartChar: ucircumflex
+Encoding: 255 -1 254
 Width: 1042
 GlyphClass: 2
 Flags: W
@@ -12363,8 +12361,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_ra_ai
-Encoding: 65684 -1 255
+StartChar: udieresis
+Encoding: 256 -1 255
 Width: 570
 GlyphClass: 2
 Flags: W
@@ -12415,11 +12413,11 @@ SplineSet
  272 -350 272 -350 272 -277 c 0,61,62
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CD6 vattu_ra
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" e threequarters
 EndChar
 
-StartChar: glyph_kSha
-Encoding: 65685 -1 256
+StartChar: yacute
+Encoding: 257 -1 256
 Width: 1180
 GlyphClass: 2
 Flags: W
@@ -12494,10 +12492,11 @@ SplineSet
  772 286 772 286 772 391 c 0,97,98
 EndSplineSet
 Validated: 33
+Ligature2: "'akhn' Akhand in Kannada lookup 11 subtable" U0C95 c S
 EndChar
 
-StartChar: glyph_jna
-Encoding: 65686 -1 257
+StartChar: thorn
+Encoding: 258 -1 257
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -12608,8 +12607,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: ardha_kSha
-Encoding: 65687 -1 258
+StartChar: ydieresis
+Encoding: 259 -1 258
 Width: 1008
 GlyphClass: 2
 Flags: W
@@ -12681,8 +12680,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_jna
-Encoding: 65688 -1 259
+StartChar: Amacron
+Encoding: 260 -1 259
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -12796,8 +12795,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: vattu_kSha
-Encoding: 65689 -1 260
+StartChar: amacron
+Encoding: 261 -1 260
 Width: 283
 GlyphClass: 2
 Flags: W
@@ -12861,8 +12860,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_kSha_Na
-Encoding: 65690 -1 261
+StartChar: Abreve
+Encoding: 262 -1 261
 Width: 1180
 GlyphClass: 2
 Flags: W
@@ -12984,8 +12983,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: ardha_vattu_kSha_Na
-Encoding: 65691 -1 262
+StartChar: abreve
+Encoding: 263 -1 262
 Width: 1008
 GlyphClass: 2
 Flags: W
@@ -13102,8 +13101,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_ki
-Encoding: 65692 -1 263
+StartChar: Aogonek
+Encoding: 264 -1 263
 Width: 1065
 GlyphClass: 2
 Flags: W
@@ -13152,11 +13151,11 @@ SplineSet
  803 286 803 286 803 391 c 0,50,51
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C95 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" three W
 EndChar
 
-StartChar: glyph_khi
-Encoding: 65693 -1 264
+StartChar: aogonek
+Encoding: 265 -1 264
 Width: 1681
 GlyphClass: 2
 Flags: W
@@ -13226,11 +13225,11 @@ SplineSet
  692 289 692 289 684 297 c 0,99,100
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C96 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" four W
 EndChar
 
-StartChar: glyph_gi
-Encoding: 65694 -1 265
+StartChar: Cacute
+Encoding: 266 -1 265
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -13261,11 +13260,11 @@ SplineSet
  827 975 827 975 934 764 c 1,23,24
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C97 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" five W
 EndChar
 
-StartChar: glyph_gha
-Encoding: 65695 -1 266
+StartChar: cacute
+Encoding: 267 -1 266
 Width: 2507
 GlyphClass: 2
 Flags: W
@@ -13362,8 +13361,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_ghi
-Encoding: 65696 -1 267
+StartChar: Ccircumflex
+Encoding: 268 -1 267
 Width: 1679
 GlyphClass: 2
 Flags: W
@@ -13445,11 +13444,11 @@ SplineSet
  767 954 767 954 811 1096 c 1,124,125
 EndSplineSet
 Validated: 41
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C98 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" six W
 EndChar
 
-StartChar: glyph_ghe
-Encoding: 65697 -1 268
+StartChar: ccircumflex
+Encoding: 269 -1 268
 Width: 1686
 GlyphClass: 2
 Flags: W
@@ -13538,8 +13537,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_ghai
-Encoding: 65698 -1 269
+StartChar: Cdot
+Encoding: 270 -1 269
 Width: 1686
 GlyphClass: 2
 Flags: W
@@ -13660,8 +13659,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: glyph_chi
-Encoding: 65699 -1 270
+StartChar: cdot
+Encoding: 271 -1 270
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -13729,11 +13728,11 @@ SplineSet
  1162 973 1162 973 1171 1077 c 1,94,95
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C9A U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" eight W
 EndChar
 
-StartChar: glyph_Chi
-Encoding: 65700 -1 271
+StartChar: Ccaron
+Encoding: 272 -1 271
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -13796,11 +13795,11 @@ SplineSet
  544 783 544 783 543 827 c 0,87,88
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C9B U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" nine W
 EndChar
 
-StartChar: glyph_ji
-Encoding: 65701 -1 272
+StartChar: ccaron
+Encoding: 273 -1 272
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -13873,11 +13872,11 @@ SplineSet
  1057 1078 1057 1078 1057 1133 c 0,104,105
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C9C U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" colon W
 EndChar
 
-StartChar: glyph_jhi
-Encoding: 65702 -1 273
+StartChar: Dcaron
+Encoding: 274 -1 273
 Width: 2595
 GlyphClass: 2
 Flags: W
@@ -13952,11 +13951,11 @@ SplineSet
  991 388 991 388 991 553 c 0,101,102
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C9D U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" semicolon W
 EndChar
 
-StartChar: glyph_jhe
-Encoding: 65703 -1 274
+StartChar: dcaron
+Encoding: 275 -1 274
 Width: 2570
 GlyphClass: 2
 Flags: W
@@ -14033,12 +14032,12 @@ SplineSet
  991 385 991 385 991 539 c 0,106,107
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_4 subtable" ardha_jha U0CC6
-Ligature2: "sub_ligature_abvsknda_2 subtable" U0C9D U0CC6
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph139 bracketright
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" semicolon bracketright
 EndChar
 
-StartChar: glyph_jhai
-Encoding: 65704 -1 275
+StartChar: Dslash
+Encoding: 276 -1 275
 Width: 2859
 GlyphClass: 2
 Flags: W
@@ -14147,12 +14146,12 @@ SplineSet
  991 385 991 385 991 539 c 0,164,165
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_4 subtable" ardha_jha U0CC8
-Ligature2: "sub_ligature_abvsknda_2 subtable" U0C9D U0CC8
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph139 underscore
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" semicolon underscore
 EndChar
 
-StartChar: glyph_ti
-Encoding: 65705 -1 276
+StartChar: dcroat
+Encoding: 277 -1 276
 Width: 1497
 GlyphClass: 2
 Flags: W
@@ -14228,11 +14227,11 @@ SplineSet
  524 577 524 577 524 618 c 0,109,110
 EndSplineSet
 Validated: 5
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0C9F U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" equal W
 EndChar
 
-StartChar: glyph_Ti
-Encoding: 65706 -1 277
+StartChar: Emacron
+Encoding: 278 -1 277
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -14283,11 +14282,11 @@ SplineSet
  733 610 733 610 733 563 c 256,53,54
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA0 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" greater W
 EndChar
 
-StartChar: glyph_di
-Encoding: 65707 -1 278
+StartChar: emacron
+Encoding: 279 -1 278
 Width: 1475
 GlyphClass: 2
 Flags: W
@@ -14355,11 +14354,11 @@ SplineSet
  1298 314 1298 314 1294 403 c 0,67,68
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA1 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" question W
 EndChar
 
-StartChar: glyph_Di
-Encoding: 65708 -1 279
+StartChar: Ebreve
+Encoding: 280 -1 279
 Width: 1475
 GlyphClass: 2
 Flags: W
@@ -14434,11 +14433,11 @@ SplineSet
  1295 480 1295 480 1237 549 c 1,78,79
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA2 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" at W
 EndChar
 
-StartChar: glyph_Ni
-Encoding: 65709 -1 280
+StartChar: ebreve
+Encoding: 281 -1 280
 Width: 1581
 GlyphClass: 2
 Flags: W
@@ -14506,11 +14505,11 @@ SplineSet
  1307 1212 1307 1212 1319 1288 c 1,98,99
 EndSplineSet
 Validated: 5
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA3 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" A W
 EndChar
 
-StartChar: glyph_thi
-Encoding: 65710 -1 281
+StartChar: Edot
+Encoding: 282 -1 281
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -14570,11 +14569,11 @@ SplineSet
  796 520 796 520 889 664 c 1,82,83
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA4 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" B W
 EndChar
 
-StartChar: glyph_Thi
-Encoding: 65711 -1 282
+StartChar: edot
+Encoding: 283 -1 282
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -14638,11 +14637,11 @@ SplineSet
  846 662 846 662 846 614 c 256,84,85
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA5 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" C W
 EndChar
 
-StartChar: glyph_dhi
-Encoding: 65712 -1 283
+StartChar: Eogonek
+Encoding: 284 -1 283
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -14690,11 +14689,11 @@ SplineSet
  1245 330 1245 330 1245 438 c 0,46,47
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA6 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" D W
 EndChar
 
-StartChar: glyph_Dhi
-Encoding: 65713 -1 284
+StartChar: eogonek
+Encoding: 285 -1 284
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -14749,11 +14748,11 @@ SplineSet
  1245 330 1245 330 1245 438 c 0,58,59
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA7 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" E W
 EndChar
 
-StartChar: glyph_ni
-Encoding: 65714 -1 285
+StartChar: Ecaron
+Encoding: 286 -1 285
 Width: 1278
 GlyphClass: 2
 Flags: W
@@ -14800,11 +14799,11 @@ SplineSet
  416 1026 416 1026 416 1069 c 0,60,61
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CA8 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" F W
 EndChar
 
-StartChar: glyph_pi
-Encoding: 65715 -1 286
+StartChar: ecaron
+Encoding: 287 -1 286
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -14870,11 +14869,11 @@ SplineSet
  767 954 767 954 811 1096 c 1,96,97
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CAA U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" G W
 EndChar
 
-StartChar: glyph_phi
-Encoding: 65716 -1 287
+StartChar: Gcircumflex
+Encoding: 288 -1 287
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -14947,11 +14946,11 @@ SplineSet
  767 954 767 954 811 1096 c 1,107,108
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CAB U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" H W
 EndChar
 
-StartChar: glyph_phu
-Encoding: 65717 -1 288
+StartChar: gcircumflex
+Encoding: 289 -1 288
 Width: 1774
 GlyphClass: 2
 Flags: W
@@ -15034,8 +15033,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_phU
-Encoding: 65718 -1 289
+StartChar: Gbreve
+Encoding: 290 -1 289
 Width: 2515
 GlyphClass: 2
 Flags: W
@@ -15146,8 +15145,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_pho
-Encoding: 65719 -1 290
+StartChar: gbreve
+Encoding: 291 -1 290
 Width: 2515
 GlyphClass: 3
 Flags: W
@@ -15268,12 +15267,12 @@ SplineSet
  848 -238 848 -238 848 -293 c 0,187,188
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_6 subtable" ardha_pha U0CC6 U0CC2
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CAB U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph152 bracketright Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" H bracketright Z
 EndChar
 
-StartChar: glyph_bi
-Encoding: 65720 -1 291
+StartChar: Gdot
+Encoding: 292 -1 291
 Width: 1501
 GlyphClass: 2
 Flags: W
@@ -15329,11 +15328,11 @@ SplineSet
  1018 990 1018 990 1018 1049 c 0,74,75
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CAC U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" I W
 EndChar
 
-StartChar: glyph_bhi
-Encoding: 65721 -1 292
+StartChar: gdot
+Encoding: 293 -1 292
 Width: 1501
 GlyphClass: 2
 Flags: W
@@ -15396,11 +15395,11 @@ SplineSet
  1018 990 1018 990 1018 1049 c 0,86,87
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CAD U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" J W
 EndChar
 
-StartChar: glyph_mi
-Encoding: 65722 -1 293
+StartChar: Gcedilla
+Encoding: 294 -1 293
 Width: 2152
 GlyphClass: 2
 Flags: W
@@ -15468,11 +15467,11 @@ SplineSet
  979 989 979 989 979 1049 c 0,100,101
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CAE U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" K W
 EndChar
 
-StartChar: glyph_me
-Encoding: 65723 -1 294
+StartChar: gcedilla
+Encoding: 295 -1 294
 Width: 2138
 GlyphClass: 2
 Flags: W
@@ -15547,12 +15546,12 @@ SplineSet
  2040 722 2040 722 2040 487 c 0,0,1
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_4 subtable" ardha_ma U0CC6
-Ligature2: "sub_ligature_abvsknda_2 subtable" U0CAE U0CC6
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph155 bracketright
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" K bracketright
 EndChar
 
-StartChar: glyph_mai
-Encoding: 65724 -1 295
+StartChar: Hcircumflex
+Encoding: 296 -1 295
 Width: 2458
 GlyphClass: 2
 Flags: W
@@ -15659,12 +15658,12 @@ SplineSet
  2140 -389 2140 -389 2140 -315 c 0,170,171
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_4 subtable" ardha_ma U0CC8
-Ligature2: "sub_ligature_abvsknda_2 subtable" U0CAE U0CC8
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph155 underscore
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" K underscore
 EndChar
 
-StartChar: glyph_yi
-Encoding: 65725 -1 296
+StartChar: hcircumflex
+Encoding: 297 -1 296
 Width: 2429
 GlyphClass: 2
 Flags: W
@@ -15731,11 +15730,11 @@ SplineSet
  856 390 856 390 856 518 c 0,93,94
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CAF U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" L W
 EndChar
 
-StartChar: glyph_ye
-Encoding: 65726 -1 297
+StartChar: Hbar
+Encoding: 298 -1 297
 Width: 2400
 GlyphClass: 2
 Flags: W
@@ -15808,12 +15807,12 @@ SplineSet
  856 390 856 390 856 518 c 0,102,103
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_4 subtable" ardha_ya U0CC6
-Ligature2: "sub_ligature_abvsknda_2 subtable" U0CAF U0CC6
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph156 bracketright
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" L bracketright
 EndChar
 
-StartChar: glyph_yai
-Encoding: 65727 -1 298
+StartChar: hbar
+Encoding: 299 -1 298
 Width: 2703
 GlyphClass: 2
 Flags: W
@@ -15918,12 +15917,12 @@ SplineSet
  856 390 856 390 856 518 c 0,160,161
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_4 subtable" ardha_ya U0CC8
-Ligature2: "sub_ligature_abvsknda_2 subtable" U0CAF U0CC8
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph156 underscore
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" L underscore
 EndChar
 
-StartChar: glyph_ri
-Encoding: 65728 -1 299
+StartChar: Itilde
+Encoding: 300 -1 299
 Width: 1229
 GlyphClass: 2
 Flags: W
@@ -15965,11 +15964,11 @@ SplineSet
  991 397 991 397 991 553 c 0,39,40
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB0 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" M W
 EndChar
 
-StartChar: glyph_li
-Encoding: 65729 -1 300
+StartChar: itilde
+Encoding: 301 -1 300
 Width: 1470
 GlyphClass: 2
 Flags: W
@@ -16021,11 +16020,11 @@ SplineSet
  672 767 672 767 672 819 c 0,65,66
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB2 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" O W
 EndChar
 
-StartChar: glyph_Li
-Encoding: 65730 -1 301
+StartChar: Imacron
+Encoding: 302 -1 301
 Width: 1245
 GlyphClass: 2
 Flags: W
@@ -16098,11 +16097,11 @@ SplineSet
  819 172 819 172 819 231 c 0,108,109
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB3 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" P W
 EndChar
 
-StartChar: glyph_vi
-Encoding: 65731 -1 302
+StartChar: imacron
+Encoding: 303 -1 302
 Width: 1489
 GlyphClass: 2
 Flags: W
@@ -16158,11 +16157,11 @@ SplineSet
  979 989 979 989 979 1049 c 0,77,78
 EndSplineSet
 Validated: 37
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB5 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" Q W
 EndChar
 
-StartChar: glyph_shi
-Encoding: 65732 -1 303
+StartChar: Ibreve
+Encoding: 304 -1 303
 Width: 1262
 GlyphClass: 2
 Flags: W
@@ -16225,11 +16224,11 @@ SplineSet
  1030 318 1030 318 1030 545 c 0,81,82
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB6 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" R W
 EndChar
 
-StartChar: glyph_Shi
-Encoding: 65733 -1 304
+StartChar: ibreve
+Encoding: 305 -1 304
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -16305,11 +16304,11 @@ SplineSet
  767 954 767 954 811 1096 c 1,112,113
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB7 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" S W
 EndChar
 
-StartChar: glyph_si
-Encoding: 65734 -1 305
+StartChar: Iogonek
+Encoding: 306 -1 305
 Width: 1241
 GlyphClass: 2
 Flags: W
@@ -16361,11 +16360,11 @@ SplineSet
  564 954 564 954 606 1096 c 1,70,71
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB8 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" T W
 EndChar
 
-StartChar: glyph_hi
-Encoding: 65735 -1 306
+StartChar: iogonek
+Encoding: 307 -1 306
 Width: 1544
 GlyphClass: 2
 Flags: W
@@ -16426,11 +16425,11 @@ SplineSet
  748 345 748 345 748 377 c 1,77,78
 EndSplineSet
 Validated: 1
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CB9 U0CBF
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" U W
 EndChar
 
-StartChar: glyph_kShi
-Encoding: 65736 -1 307
+StartChar: Idotaccent
+Encoding: 308 -1 307
 Width: 1182
 GlyphClass: 2
 Flags: W
@@ -16510,8 +16509,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_jni
-Encoding: 65737 -1 308
+StartChar: dotlessi
+Encoding: 309 -1 308
 Width: 1460
 GlyphClass: 2
 Flags: W
@@ -16637,8 +16636,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: glyph_kShi_vattu_Na
-Encoding: 65738 -1 309
+StartChar: IJ
+Encoding: 310 -1 309
 Width: 1182
 GlyphClass: 2
 Flags: W
@@ -16761,8 +16760,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: halant_ka
-Encoding: 65739 -1 310
+StartChar: ij
+Encoding: 311 -1 310
 Width: 1845
 GlyphClass: 2
 Flags: W
@@ -16826,11 +16825,11 @@ SplineSet
  772 286 772 286 772 391 c 0,78,79
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C95 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" three c
 EndChar
 
-StartChar: halant_kha
-Encoding: 65740 -1 311
+StartChar: Jcircumflex
+Encoding: 312 -1 311
 Width: 2443
 GlyphClass: 2
 Flags: W
@@ -16908,11 +16907,11 @@ SplineSet
  556 188 556 188 702 297 c 1,115,116
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C96 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" four c
 EndChar
 
-StartChar: halant_ga
-Encoding: 65741 -1 312
+StartChar: jcircumflex
+Encoding: 313 -1 312
 Width: 1921
 GlyphClass: 2
 Flags: W
@@ -16958,11 +16957,11 @@ SplineSet
  1279 651 1279 651 1446 651 c 0,50,51
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C97 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" five c
 EndChar
 
-StartChar: halant_gha
-Encoding: 65742 -1 313
+StartChar: Kcedilla
+Encoding: 314 -1 313
 Width: 2406
 GlyphClass: 2
 Flags: W
@@ -17055,11 +17054,11 @@ SplineSet
  1764 651 1764 651 1929 651 c 0,135,136
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C98 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" six c
 EndChar
 
-StartChar: halant_jna
-Encoding: 65743 -1 314
+StartChar: kcedilla
+Encoding: 315 -1 314
 Width: 2224
 GlyphClass: 2
 Flags: W
@@ -17149,11 +17148,11 @@ SplineSet
  1581 651 1581 651 1747 651 c 0,132,133
 EndSplineSet
 Validated: 37
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C99 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" seven c
 EndChar
 
-StartChar: halant_cha
-Encoding: 65744 -1 315
+StartChar: kgreenlandic
+Encoding: 316 -1 315
 Width: 2273
 GlyphClass: 2
 Flags: W
@@ -17236,11 +17235,11 @@ SplineSet
  1630 651 1630 651 1796 651 c 0,118,119
 EndSplineSet
 Validated: 37
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C9A U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" eight c
 EndChar
 
-StartChar: halant_Cha
-Encoding: 65745 -1 316
+StartChar: Lacute
+Encoding: 317 -1 316
 Width: 2152
 GlyphClass: 2
 Flags: W
@@ -17319,11 +17318,11 @@ SplineSet
  549 783 549 783 549 827 c 0,115,116
 EndSplineSet
 Validated: 37
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C9B U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" nine c
 EndChar
 
-StartChar: halant_ja
-Encoding: 65746 -1 317
+StartChar: lacute
+Encoding: 318 -1 317
 Width: 2173
 GlyphClass: 2
 Flags: W
@@ -17407,11 +17406,11 @@ SplineSet
  1530 651 1530 651 1696 651 c 0,123,124
 EndSplineSet
 Validated: 37
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C9C U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" colon c
 EndChar
 
-StartChar: halant_jha
-Encoding: 65747 -1 318
+StartChar: Lcedilla
+Encoding: 319 -1 318
 Width: 3314
 GlyphClass: 2
 Flags: W
@@ -17500,11 +17499,11 @@ SplineSet
  991 385 991 385 991 539 c 0,125,126
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C9D U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" semicolon c
 EndChar
 
-StartChar: halant_nya
-Encoding: 65748 -1 319
+StartChar: lcedilla
+Encoding: 320 -1 319
 Width: 2836
 GlyphClass: 2
 Flags: W
@@ -17602,11 +17601,11 @@ SplineSet
  1130 393 1130 393 1212 477 c 1,154,155
 EndSplineSet
 Validated: 37
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C9E U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" less c
 EndChar
 
-StartChar: halant_ta
-Encoding: 65749 -1 320
+StartChar: Lcaron
+Encoding: 321 -1 320
 Width: 2165
 GlyphClass: 2
 Flags: W
@@ -17699,11 +17698,11 @@ SplineSet
  500 576 500 576 500 616 c 0,138,139
 EndSplineSet
 Validated: 37
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0C9F U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" equal c
 EndChar
 
-StartChar: halant_Ta
-Encoding: 65750 -1 321
+StartChar: lcaron
+Encoding: 322 -1 321
 Width: 1927
 GlyphClass: 2
 Flags: W
@@ -17764,11 +17763,11 @@ SplineSet
  733 610 733 610 733 563 c 256,69,70
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA0 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" greater c
 EndChar
 
-StartChar: halant_da
-Encoding: 65751 -1 322
+StartChar: Ldot
+Encoding: 323 -1 322
 Width: 2097
 GlyphClass: 2
 Flags: W
@@ -17842,11 +17841,11 @@ SplineSet
  1278 188 1278 188 1278 389 c 0,81,82
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA1 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" question c
 EndChar
 
-StartChar: halant_Da
-Encoding: 65752 -1 323
+StartChar: ldot
+Encoding: 324 -1 323
 Width: 2097
 GlyphClass: 2
 Flags: W
@@ -17928,11 +17927,11 @@ SplineSet
  1278 188 1278 188 1278 389 c 0,95,96
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA2 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" at c
 EndChar
 
-StartChar: halant_Na
-Encoding: 65753 -1 324
+StartChar: Lslash
+Encoding: 325 -1 324
 Width: 2210
 GlyphClass: 2
 Flags: W
@@ -18013,11 +18012,11 @@ SplineSet
  1567 651 1567 651 1733 651 c 0,117,118
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA3 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" A c
 EndChar
 
-StartChar: halant_tha
-Encoding: 65754 -1 325
+StartChar: lslash
+Encoding: 326 -1 325
 Width: 1907
 GlyphClass: 2
 Flags: W
@@ -18089,11 +18088,11 @@ SplineSet
  883 649 883 649 874 666 c 1,98,99
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA4 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" B c
 EndChar
 
-StartChar: halant_Tha
-Encoding: 65755 -1 326
+StartChar: Nacute
+Encoding: 327 -1 326
 Width: 2114
 GlyphClass: 2
 Flags: W
@@ -18167,11 +18166,11 @@ SplineSet
  846 662 846 662 846 614 c 256,99,100
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA5 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" C c
 EndChar
 
-StartChar: halant_dha
-Encoding: 65756 -1 327
+StartChar: nacute
+Encoding: 328 -1 327
 Width: 2114
 GlyphClass: 2
 Flags: W
@@ -18229,11 +18228,11 @@ SplineSet
  1245 324 1245 324 1245 430 c 0,67,68
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA6 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" D c
 EndChar
 
-StartChar: halant_Dha
-Encoding: 65757 -1 328
+StartChar: Ncedilla
+Encoding: 329 -1 328
 Width: 2114
 GlyphClass: 2
 Flags: W
@@ -18298,11 +18297,11 @@ SplineSet
  1245 324 1245 324 1245 430 c 0,79,80
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA7 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" E c
 EndChar
 
-StartChar: halant_na
-Encoding: 65758 -1 329
+StartChar: ncedilla
+Encoding: 330 -1 329
 Width: 1919
 GlyphClass: 2
 Flags: W
@@ -18361,11 +18360,11 @@ SplineSet
  1276 651 1276 651 1442 651 c 0,77,78
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CA8 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" F c
 EndChar
 
-StartChar: halant_pa
-Encoding: 65759 -1 330
+StartChar: Ncaron
+Encoding: 331 -1 330
 Width: 2171
 GlyphClass: 2
 Flags: W
@@ -18444,11 +18443,11 @@ SplineSet
  1526 651 1526 651 1694 651 c 0,109,110
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CAA U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" G c
 EndChar
 
-StartChar: halant_pha
-Encoding: 65760 -1 331
+StartChar: ncaron
+Encoding: 332 -1 331
 Width: 2171
 GlyphClass: 2
 Flags: W
@@ -18534,11 +18533,11 @@ SplineSet
  1526 651 1526 651 1694 651 c 0,120,121
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CAB U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" H c
 EndChar
 
-StartChar: halant_ba
-Encoding: 65761 -1 332
+StartChar: napostrophe
+Encoding: 333 -1 332
 Width: 2214
 GlyphClass: 2
 Flags: W
@@ -18610,11 +18609,11 @@ SplineSet
  1571 651 1571 651 1737 651 c 0,102,103
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CAC U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" I c
 EndChar
 
-StartChar: halant_bha
-Encoding: 65762 -1 333
+StartChar: Eng
+Encoding: 334 -1 333
 Width: 2214
 GlyphClass: 2
 Flags: W
@@ -18693,11 +18692,11 @@ SplineSet
  1571 651 1571 651 1737 651 c 0,114,115
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CAD U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" J c
 EndChar
 
-StartChar: halant_ma
-Encoding: 65763 -1 334
+StartChar: eng
+Encoding: 335 -1 334
 Width: 2853
 GlyphClass: 2
 Flags: W
@@ -18783,11 +18782,11 @@ SplineSet
  2210 651 2210 651 2376 651 c 0,128,129
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CAE U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" K c
 EndChar
 
-StartChar: halant_ya
-Encoding: 65764 -1 335
+StartChar: Omacron
+Encoding: 336 -1 335
 Width: 3119
 GlyphClass: 2
 Flags: W
@@ -18871,11 +18870,11 @@ SplineSet
  856 390 856 390 856 518 c 0,119,120
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CAF U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" L c
 EndChar
 
-StartChar: halant_ra
-Encoding: 65765 -1 336
+StartChar: omacron
+Encoding: 337 -1 336
 Width: 1927
 GlyphClass: 2
 Flags: W
@@ -18927,11 +18926,11 @@ SplineSet
  991 385 991 385 991 539 c 0,57,58
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB0 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" M c
 EndChar
 
-StartChar: halant_hale_ra
-Encoding: 65766 -1 337
+StartChar: Obreve
+Encoding: 338 -1 337
 Width: 2212
 GlyphClass: 2
 Flags: W
@@ -19007,11 +19006,11 @@ SplineSet
  1311 376 1311 376 1311 516 c 0,96,97
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB1 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" N c
 EndChar
 
-StartChar: halant_la
-Encoding: 65767 -1 338
+StartChar: obreve
+Encoding: 339 -1 338
 Width: 2208
 GlyphClass: 2
 Flags: W
@@ -19077,11 +19076,11 @@ SplineSet
  668 767 668 767 668 819 c 0,90,91
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB2 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" O c
 EndChar
 
-StartChar: halant_La
-Encoding: 65768 -1 339
+StartChar: Odblacute
+Encoding: 340 -1 339
 Width: 1999
 GlyphClass: 2
 Flags: W
@@ -19168,11 +19167,11 @@ SplineSet
  819 172 819 172 819 231 c 0,130,131
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB3 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" P c
 EndChar
 
-StartChar: halant_va
-Encoding: 65769 -1 340
+StartChar: odblacute
+Encoding: 341 -1 340
 Width: 2101
 GlyphClass: 2
 Flags: W
@@ -19241,11 +19240,11 @@ SplineSet
  1458 651 1458 651 1624 651 c 0,98,99
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB5 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" Q c
 EndChar
 
-StartChar: halant_sha
-Encoding: 65770 -1 341
+StartChar: OE
+Encoding: 342 -1 341
 Width: 1939
 GlyphClass: 2
 Flags: W
@@ -19320,11 +19319,11 @@ SplineSet
  1030 318 1030 318 1030 545 c 0,97,98
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB6 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" R c
 EndChar
 
-StartChar: halant_Sha
-Encoding: 65771 -1 342
+StartChar: oe
+Encoding: 343 -1 342
 Width: 2173
 GlyphClass: 2
 Flags: W
@@ -19412,11 +19411,11 @@ SplineSet
  1530 651 1530 651 1696 651 c 0,123,124
 EndSplineSet
 Validated: 33
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB7 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" S c
 EndChar
 
-StartChar: halant_sa
-Encoding: 65772 -1 343
+StartChar: Racute
+Encoding: 344 -1 343
 Width: 1905
 GlyphClass: 2
 Flags: W
@@ -19481,11 +19480,11 @@ SplineSet
  1262 651 1262 651 1427 651 c 0,83,84
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB8 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" T c
 EndChar
 
-StartChar: halant_ha
-Encoding: 65773 -1 344
+StartChar: racute
+Encoding: 345 -1 344
 Width: 2179
 GlyphClass: 2
 Flags: W
@@ -19556,11 +19555,11 @@ SplineSet
  748 345 748 345 748 377 c 1,97,98
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup16 subtable" U0CB9 U0CCD
+Ligature2: "Ligature Substitution lookup 16 subtable" U c
 EndChar
 
-StartChar: halant_hale_La
-Encoding: 65774 -1 345
+StartChar: Rcedilla
+Encoding: 346 -1 345
 Width: 2228
 GlyphClass: 2
 Flags: W
@@ -19638,8 +19637,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: halant_kSha
-Encoding: 65775 -1 346
+StartChar: rcedilla
+Encoding: 347 -1 346
 Width: 1802
 GlyphClass: 2
 Flags: W
@@ -19733,8 +19732,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: halant_jna
-Encoding: 65776 -1 347
+StartChar: Rcaron
+Encoding: 348 -1 347
 Width: 2175
 GlyphClass: 2
 Flags: W
@@ -19871,8 +19870,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: halant_kSha_vattu_Na
-Encoding: 65777 -1 348
+StartChar: rcaron
+Encoding: 349 -1 348
 Width: 1802
 GlyphClass: 2
 Flags: W
@@ -20011,8 +20010,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_po
-Encoding: 65778 -1 349
+StartChar: Sacute
+Encoding: 350 -1 349
 Width: 2515
 GlyphClass: 2
 Flags: W
@@ -20126,12 +20125,12 @@ SplineSet
  1358 599 1358 599 1360 440 c 0,123,124
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_6 subtable" ardha_pa U0CC6 U0CC2
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CAA U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph151 bracketright Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" G bracketright Z
 EndChar
 
-StartChar: glyph_mo
-Encoding: 65779 -1 350
+StartChar: sacute
+Encoding: 351 -1 350
 Width: 2877
 GlyphClass: 2
 Flags: W
@@ -20232,13 +20231,13 @@ SplineSet
  2755 775 2755 775 2755 483 c 0,0,1
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_8 subtable" glyph_me U0CC2
-Ligature2: "sub_ligature_abvsknda_6 subtable" ardha_ma U0CC6 U0CC2
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CAE U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 14 subtable" gcedilla Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph155 bracketright Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" K bracketright Z
 EndChar
 
-StartChar: glyph_vo
-Encoding: 65780 -1 351
+StartChar: Scircumflex
+Encoding: 352 -1 351
 Width: 2515
 GlyphClass: 2
 Flags: W
@@ -20342,12 +20341,12 @@ SplineSet
  1354 499 1354 499 1354 324 c 0,75,76
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_6 subtable" ardha_va U0CC6 U0CC2
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB5 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph161 bracketright Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" Q bracketright Z
 EndChar
 
-StartChar: vattu_ma_ru
-Encoding: 65781 -1 352
+StartChar: scircumflex
+Encoding: 353 -1 352
 Width: 1167
 GlyphClass: 2
 Flags: W
@@ -20416,11 +20415,11 @@ SplineSet
  224 -342 224 -342 223 -307 c 0,96,97
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_0 subtable" U0CC3 vattu_ma
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" bracketleft onequarter
 EndChar
 
-StartChar: vattu_deergha_ma
-Encoding: 65782 -1 353
+StartChar: Scedilla
+Encoding: 354 -1 353
 Width: 838
 GlyphClass: 2
 Flags: W
@@ -20485,8 +20484,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_sa_tha
-Encoding: 65783 -1 354
+StartChar: scedilla
+Encoding: 355 -1 354
 Width: 1083
 GlyphClass: 2
 Flags: W
@@ -20553,8 +20552,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: glyph_jhU
-Encoding: 65784 -1 355
+StartChar: Scaron
+Encoding: 356 -1 355
 Width: 3305
 GlyphClass: 2
 Flags: W
@@ -20648,8 +20647,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_jho
-Encoding: 65785 -1 356
+StartChar: scaron
+Encoding: 357 -1 356
 Width: 3305
 GlyphClass: 2
 Flags: W
@@ -20753,12 +20752,12 @@ SplineSet
  991 385 991 385 991 539 c 0,158,159
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_8 subtable" glyph_jhe U0CC2
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C9D U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 14 subtable" dcaron Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" semicolon bracketright Z
 EndChar
 
-StartChar: glyph_mU
-Encoding: 65786 -1 357
+StartChar: Tcedilla
+Encoding: 358 -1 357
 Width: 3555
 GlyphClass: 2
 Flags: W
@@ -20862,8 +20861,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_yU
-Encoding: 65787 -1 358
+StartChar: tcedilla
+Encoding: 359 -1 358
 Width: 3820
 GlyphClass: 2
 Flags: W
@@ -20964,8 +20963,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_yo
-Encoding: 65788 -1 359
+StartChar: Tcaron
+Encoding: 360 -1 359
 Width: 3144
 GlyphClass: 2
 Flags: W
@@ -21063,13 +21062,13 @@ SplineSet
  856 390 856 390 856 518 c 0,149,150
 EndSplineSet
 Validated: 33
-Ligature2: "sub_ligature_abvsknda_8 subtable" glyph_ye U0CC2
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CAF U0CC6 U0CC2
 LCarets2: 2 0 0 
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 14 subtable" Hbar Z
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" L bracketright Z
 EndChar
 
-StartChar: saNNa_vattu_ga_2
-Encoding: 65789 -1 360
+StartChar: tcaron
+Encoding: 361 -1 360
 Width: 285
 GlyphClass: 2
 Flags: W
@@ -21090,8 +21089,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_jna_2
-Encoding: 65790 -1 361
+StartChar: Tbar
+Encoding: 362 -1 361
 Width: 463
 GlyphClass: 2
 Flags: W
@@ -21147,8 +21146,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: saNNa_vattu_Cha_2
-Encoding: 65791 -1 362
+StartChar: tbar
+Encoding: 363 -1 362
 Width: 446
 GlyphClass: 2
 Flags: W
@@ -21187,8 +21186,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_ja_2
-Encoding: 65792 -1 363
+StartChar: Utilde
+Encoding: 364 -1 363
 Width: 440
 GlyphClass: 2
 Flags: W
@@ -21238,8 +21237,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: saNNa_vattu_jha_2
-Encoding: 65793 -1 364
+StartChar: utilde
+Encoding: 365 -1 364
 Width: 580
 GlyphClass: 2
 Flags: W
@@ -21295,8 +21294,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: saNNa_vattu_nya_2
-Encoding: 65794 -1 365
+StartChar: Umacron
+Encoding: 366 -1 365
 Width: 649
 GlyphClass: 2
 Flags: W
@@ -21355,8 +21354,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: saNNa_vattu_Ta_2
-Encoding: 65795 -1 366
+StartChar: umacron
+Encoding: 367 -1 366
 Width: 283
 GlyphClass: 2
 Flags: W
@@ -21394,8 +21393,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_Da_2
-Encoding: 65796 -1 367
+StartChar: Ubreve
+Encoding: 368 -1 367
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -21440,8 +21439,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: saNNa_vattu_Dha_2
-Encoding: 65797 -1 368
+StartChar: ubreve
+Encoding: 369 -1 368
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -21491,8 +21490,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: saNNa_vattu_Na_2
-Encoding: 65798 -1 369
+StartChar: Uring
+Encoding: 370 -1 369
 Width: 467
 GlyphClass: 2
 Flags: W
@@ -21545,8 +21544,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_Tha_2
-Encoding: 65799 -1 370
+StartChar: uring
+Encoding: 371 -1 370
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -21591,8 +21590,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_dha_2
-Encoding: 65800 -1 371
+StartChar: Udblacute
+Encoding: 372 -1 371
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -21624,8 +21623,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_Dha_2
-Encoding: 65801 -1 372
+StartChar: udblacute
+Encoding: 373 -1 372
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -21663,8 +21662,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_hale_ra_2
-Encoding: 65802 -1 373
+StartChar: Uogonek
+Encoding: 374 -1 373
 Width: 434
 GlyphClass: 2
 Flags: W
@@ -21714,8 +21713,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_la_2
-Encoding: 65803 -1 374
+StartChar: uogonek
+Encoding: 375 -1 374
 Width: 410
 GlyphClass: 2
 Flags: W
@@ -21748,8 +21747,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: saNNa_vattu_va_2
-Encoding: 65804 -1 375
+StartChar: Wcircumflex
+Encoding: 376 -1 375
 Width: 575
 GlyphClass: 2
 Flags: W
@@ -21798,8 +21797,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: saNNa_vattu_Sha_2
-Encoding: 65805 -1 376
+StartChar: wcircumflex
+Encoding: 377 -1 376
 Width: 543
 GlyphClass: 2
 Flags: W
@@ -21838,8 +21837,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: saNNa_vattu_ha_2
-Encoding: 65806 -1 377
+StartChar: Ycircumflex
+Encoding: 378 -1 377
 Width: 475
 GlyphClass: 2
 Flags: W
@@ -21880,8 +21879,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: saNNa_vattu_hale_La_2
-Encoding: 65807 -1 378
+StartChar: ycircumflex
+Encoding: 379 -1 378
 Width: 414
 GlyphClass: 2
 Flags: W
@@ -21932,8 +21931,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_16
-Encoding: 65808 -1 379
+StartChar: Ydieresis
+Encoding: 380 -1 379
 Width: 1550
 GlyphClass: 2
 Flags: W
@@ -21992,8 +21991,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: extra_17
-Encoding: 65809 -1 380
+StartChar: Zacute
+Encoding: 381 -1 380
 Width: 680
 GlyphClass: 2
 Flags: W
@@ -22020,8 +22019,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_18
-Encoding: 65810 -1 381
+StartChar: zacute
+Encoding: 382 -1 381
 Width: 389
 GlyphClass: 2
 Flags: W
@@ -22037,8 +22036,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_19
-Encoding: 65811 -1 382
+StartChar: Zdot
+Encoding: 383 -1 382
 Width: 737
 GlyphClass: 2
 Flags: W
@@ -22054,8 +22053,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: extra_20
-Encoding: 65812 -1 383
+StartChar: zdot
+Encoding: 384 -1 383
 Width: 1208
 GlyphClass: 2
 Flags: W
@@ -22076,8 +22075,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: vattu_ra_vowel_deergha
-Encoding: 65813 -1 384
+StartChar: Zcaron
+Encoding: 385 -1 384
 Width: 838
 GlyphClass: 2
 Flags: W
@@ -22121,8 +22120,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: vattu_ra_vowel_ru
-Encoding: 65814 -1 385
+StartChar: zcaron
+Encoding: 386 -1 385
 Width: 602
 GlyphClass: 2
 Flags: W
@@ -22173,8 +22172,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: vattu_ra_vowel_ai
-Encoding: 65815 -1 386
+StartChar: longs
+Encoding: 387 -1 386
 Width: 602
 GlyphClass: 2
 Flags: W
@@ -22236,8 +22235,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: vattu_ra_vowel_O
-Encoding: 65816 -1 387
+StartChar: glyph387
+Encoding: 388 -1 387
 Width: 2200
 GlyphClass: 2
 Flags: W
@@ -22341,8 +22340,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: glyph_no
-Encoding: 65817 -1 388
+StartChar: no
+Encoding: 389 -1 388
 Width: 2647
 GlyphClass: 2
 Flags: W
@@ -22438,12 +22437,12 @@ SplineSet
  811 899 l 1,155,156
  1155 700 1155 700 1155 348 c 0,109,110
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA8 U0CC6 U0CC2
 LCarets2: 2 0 0 
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" F bracketright Z
 EndChar
 
-StartChar: glyph_ko
-Encoding: 65818 -1 389
+StartChar: ko
+Encoding: 390 -1 389
 Width: 2377
 GlyphClass: 2
 Flags: W
@@ -22544,11 +22543,11 @@ SplineSet
  633 176 633 176 698 228 c 0,157,158
  772 286 772 286 772 391 c 0,144,145
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C95 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" three bracketright Z
 EndChar
 
-StartChar: glyph_kho
-Encoding: 65819 -1 390
+StartChar: Kho
+Encoding: 391 -1 390
 Width: 3063
 GlyphClass: 2
 Flags: W
@@ -22663,11 +22662,11 @@ SplineSet
  271 188 271 188 336 188 c 0,189,190
  556 188 556 188 702 297 c 1,181,182
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C96 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" four bracketright Z
 EndChar
 
-StartChar: glyph_go
-Encoding: 65820 -1 391
+StartChar: go
+Encoding: 392 -1 391
 Width: 2628
 GlyphClass: 2
 Flags: W
@@ -22750,11 +22749,11 @@ SplineSet
  993 709 993 709 1049 559 c 0,128,129
  1116 381 1116 381 1116 0 c 1,109,-1
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C97 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" five bracketright Z
 EndChar
 
-StartChar: glyph_gho
-Encoding: 65821 -1 392
+StartChar: Go
+Encoding: 393 -1 392
 Width: 2825
 GlyphClass: 2
 Flags: W
@@ -22884,11 +22883,11 @@ SplineSet
  598 -246 598 -246 709 -4 c 1,213,214
  823 -242 823 -242 823 -295 c 0,203,204
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C98 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" six bracketright Z
 EndChar
 
-StartChar: glyph_jno
-Encoding: 65822 -1 393
+StartChar: jno
+Encoding: 394 -1 393
 Width: 2895
 GlyphClass: 2
 Flags: W
@@ -23012,11 +23011,11 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,207,208
  1378 418 1378 418 1378 317 c 0,121,122
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C99 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" seven bracketright Z
 EndChar
 
-StartChar: glyph_cho
-Encoding: 65823 -1 394
+StartChar: cho
+Encoding: 395 -1 394
 Width: 2873
 GlyphClass: 2
 Flags: W
@@ -23135,11 +23134,11 @@ SplineSet
  1403 764 l 1,197,-1
  1403 592 l 1,109,-1
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C9A U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" eight bracketright Z
 EndChar
 
-StartChar: glyph_Cho
-Encoding: 65824 -1 395
+StartChar: Cho
+Encoding: 396 -1 395
 Width: 2885
 GlyphClass: 2
 Flags: W
@@ -23255,11 +23254,11 @@ SplineSet
  475 717 475 717 514 752 c 0,192,193
  549 783 549 783 549 827 c 0,182,183
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C9B U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" nine bracketright Z
 EndChar
 
-StartChar: glyph_jo
-Encoding: 65825 -1 396
+StartChar: jo
+Encoding: 397 -1 396
 Width: 2895
 GlyphClass: 2
 Flags: W
@@ -23379,11 +23378,11 @@ SplineSet
  1269 565 1269 565 1327 487 c 0,201,202
  1378 418 1378 418 1378 317 c 0,109,110
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C9C U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" colon bracketright Z
 EndChar
 
-StartChar: glyph_to
-Encoding: 65826 -1 397
+StartChar: to
+Encoding: 398 -1 397
 Width: 2897
 GlyphClass: 2
 Flags: W
@@ -23511,11 +23510,11 @@ SplineSet
  433 518 433 518 468 549 c 1,214,215
  500 576 500 576 500 616 c 0,203,204
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0C9F U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" equal bracketright Z
 EndChar
 
-StartChar: glyph_To
-Encoding: 65827 -1 398
+StartChar: To
+Encoding: 399 -1 398
 Width: 2605
 GlyphClass: 2
 Flags: W
@@ -23613,11 +23612,11 @@ SplineSet
  662 678 662 678 697.5 644 c 128,-1,147
  733 610 733 610 733 563 c 256,136,137
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA0 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" greater bracketright Z
 EndChar
 
-StartChar: glyph_do
-Encoding: 65828 -1 399
+StartChar: do
+Encoding: 400 -1 399
 Width: 2890
 GlyphClass: 2
 Flags: W
@@ -23728,11 +23727,11 @@ SplineSet
  838 188 838 188 1024 188 c 0,179,180
  1278 188 1278 188 1278 389 c 0,148,149
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA1 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" question bracketright Z
 EndChar
 
-StartChar: glyph_Do
-Encoding: 65829 -1 400
+StartChar: Do
+Encoding: 401 -1 400
 Width: 2868
 GlyphClass: 2
 Flags: W
@@ -23851,11 +23850,11 @@ SplineSet
  838 188 838 188 1024 188 c 0,193,194
  1278 188 1278 188 1278 389 c 0,162,163
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA2 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" at bracketright Z
 EndChar
 
-StartChar: glyph_No
-Encoding: 65830 -1 401
+StartChar: No
+Encoding: 402 -1 401
 Width: 2962
 GlyphClass: 2
 Flags: W
@@ -23973,11 +23972,11 @@ SplineSet
  1243 819 1243 819 1345 682 c 0,195,196
  1436 561 1436 561 1436 383 c 0,113,114
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA3 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" A bracketright Z
 EndChar
 
-StartChar: glyph_tho
-Encoding: 65831 -1 402
+StartChar: tho
+Encoding: 403 -1 402
 Width: 2649
 GlyphClass: 2
 Flags: W
@@ -24086,11 +24085,11 @@ SplineSet
  741 520 741 520 819 591 c 0,179,180
  883 649 883 649 874 666 c 1,165,166
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA4 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" B bracketright Z
 EndChar
 
-StartChar: glyph_Tho
-Encoding: 65832 -1 403
+StartChar: Tho
+Encoding: 404 -1 403
 Width: 2867
 GlyphClass: 2
 Flags: W
@@ -24201,11 +24200,11 @@ SplineSet
  778 729 778 729 812 695.5 c 128,-1,177
  846 662 846 662 846 614 c 256,166,167
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA5 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" C bracketright Z
 EndChar
 
-StartChar: glyph_dho
-Encoding: 65833 -1 404
+StartChar: dho
+Encoding: 405 -1 404
 Width: 2885
 GlyphClass: 2
 Flags: W
@@ -24300,11 +24299,11 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,152,153
  1245 324 1245 324 1245 430 c 0,134,135
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA6 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" D bracketright Z
 EndChar
 
-StartChar: glyph_Dho
-Encoding: 65834 -1 405
+StartChar: Dho
+Encoding: 406 -1 405
 Width: 2882
 GlyphClass: 2
 Flags: W
@@ -24406,11 +24405,11 @@ SplineSet
  1114 186 1114 186 1181 257 c 0,164,165
  1245 324 1245 324 1245 430 c 0,146,147
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CA7 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" E bracketright Z
 EndChar
 
-StartChar: glyph_bo
-Encoding: 65835 -1 406
+StartChar: bo
+Encoding: 407 -1 406
 Width: 2932
 GlyphClass: 2
 Flags: W
@@ -24518,11 +24517,11 @@ SplineSet
  1302 847 1302 847 1356 705 c 1,179,180
  1403 577 1403 577 1403 442 c 0,109,110
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CAC U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" I bracketright Z
 EndChar
 
-StartChar: glyph_Bo
-Encoding: 65836 -1 407
+StartChar: Bo
+Encoding: 408 -1 407
 Width: 2934
 GlyphClass: 2
 Flags: W
@@ -24637,11 +24636,11 @@ SplineSet
  641 -246 641 -246 752 -4 c 1,191,192
  868 -246 868 -246 868 -297 c 0,181,182
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CAD U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" J bracketright Z
 EndChar
 
-StartChar: glyph_ro
-Encoding: 65837 -1 408
+StartChar: ro
+Encoding: 409 -1 408
 Width: 2573
 GlyphClass: 2
 Flags: W
@@ -24730,11 +24729,11 @@ SplineSet
  772 176 772 176 881.5 280.5 c 128,-1,135
  991 385 991 385 991 539 c 0,124,125
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB0 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" M bracketright Z
 EndChar
 
-StartChar: glyph_hale_ro
-Encoding: 65838 -1 409
+StartChar: hale_ro
+Encoding: 410 -1 409
 Width: 2863
 GlyphClass: 2
 Flags: W
@@ -24844,11 +24843,11 @@ SplineSet
  1162 188 1162 188 1242 289 c 0,177,178
  1311 376 1311 376 1311 516 c 0,160,161
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB1 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" N bracketright Z
 EndChar
 
-StartChar: glyph_lo
-Encoding: 65839 -1 410
+StartChar: lo
+Encoding: 411 -1 410
 Width: 2844
 GlyphClass: 2
 Flags: W
@@ -24951,11 +24950,11 @@ SplineSet
  567 705 567 705 615 734 c 0,169,170
  668 767 668 767 668 819 c 0,157,158
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB2 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" O bracketright Z
 EndChar
 
-StartChar: glyph_Lo
-Encoding: 65840 -1 411
+StartChar: Lo
+Encoding: 412 -1 411
 Width: 2491
 GlyphClass: 2
 Flags: W
@@ -25078,11 +25077,11 @@ SplineSet
  737 102 737 102 776 135 c 0,207,208
  819 172 819 172 819 231 c 0,197,198
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB3 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" P bracketright Z
 EndChar
 
-StartChar: glyph_sho
-Encoding: 65841 -1 412
+StartChar: sho
+Encoding: 413 -1 412
 Width: 2636
 GlyphClass: 2
 Flags: W
@@ -25193,11 +25192,11 @@ SplineSet
  793 158 793 158 904 233 c 0,182,183
  1030 318 1030 318 1030 545 c 0,163,164
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB6 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" R bracketright Z
 EndChar
 
-StartChar: glyph_Sho
-Encoding: 65842 -1 413
+StartChar: Sho
+Encoding: 414 -1 413
 Width: 2881
 GlyphClass: 2
 Flags: W
@@ -25322,11 +25321,11 @@ SplineSet
  1360 257 1360 257 1292 133 c 1,201,202
  1358 69 1358 69 1430 -2 c 0,125,126
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB7 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" S bracketright Z
 EndChar
 
-StartChar: glyph_so
-Encoding: 65843 -1 414
+StartChar: so
+Encoding: 415 -1 414
 Width: 2624
 GlyphClass: 2
 Flags: W
@@ -25428,11 +25427,11 @@ SplineSet
  1019 776 1019 776 1072 627 c 1,161,162
  1118 501 1118 501 1118 379 c 0,125,126
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB8 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" T bracketright Z
 EndChar
 
-StartChar: glyph_ho
-Encoding: 65844 -1 415
+StartChar: ho
+Encoding: 416 -1 415
 Width: 2918
 GlyphClass: 2
 Flags: W
@@ -25540,11 +25539,11 @@ SplineSet
  587 164 587 164 680 269 c 0,176,177
  748 345 748 345 748 377 c 1,164,165
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CB9 U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" U bracketright Z
 EndChar
 
-StartChar: glyph_hale_Lo
-Encoding: 65845 -1 416
+StartChar: Fao
+Encoding: 417 -1 416
 Width: 2884
 GlyphClass: 2
 Flags: W
@@ -25654,13 +25653,12 @@ SplineSet
  449 723 449 723 485 756 c 0,185,186
  516 784 516 784 516 825 c 0,177,178
 EndSplineSet
-Ligature2: "abvsAboveBaseSubstitutionsinKan subtable" U0CDE U0CC6 U0CC2
+Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" f bracketright Z
 EndChar
 
 StartChar: U25CC
-Encoding: 9676 9676 417
+Encoding: 107 9676 417
 Width: 1550
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -25718,9 +25716,8 @@ Validated: 33
 EndChar
 
 StartChar: U20B9
-Encoding: 8377 8377 418
+Encoding: 418 8377 418
 Width: 1262
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -25751,10 +25748,9 @@ EndSplineSet
 EndChar
 
 StartChar: U0C8C
-Encoding: 3212 3212 419
+Encoding: 419 3212 419
 Width: 2163
 VWidth: 1755
-GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
@@ -25812,10 +25808,9 @@ EndSplineSet
 EndChar
 
 StartChar: U0CE1
-Encoding: 3297 3297 420
+Encoding: 420 3297 420
 Width: 2794
 VWidth: 0
-GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -25905,22 +25900,6 @@ SplineSet
  1715.42 903.903 1715.42 903.903 1839.04 1047.45 c 0,137,138
  1956.39 1183.65 1956.39 1183.65 2139.73 1183.64 c 0,0,1
 EndSplineSet
-EndChar
-
-StartChar: dep_vowel_e_2
-Encoding: 65846 -1 421
-Width: 2048
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: dep_vowel_o_2
-Encoding: 65847 -1 422
-Width: 2048
-VWidth: 0
-Flags: W
-LayerCount: 2
 EndChar
 EndChars
 EndSplineFont

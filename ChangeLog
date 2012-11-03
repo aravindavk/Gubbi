@@ -1,13 +1,25 @@
+2012-11-03 Aravinda VK <hallimanearavind@gmail.com>
+	* v1.2 Relicensed to GPL since OFL was not compatible with Kedage
+	font license(GPL)
+	* Fixed bad glyph names which was conflicting with Latin glyph
+	names. Because of this issue merge with other font was nightmare
+	* Added tools used to rename the glyphs
+	* Added tests (XeLaTeX based tests)
+
 2012-08-11 Aravinda VK <hallimanearavind@gmail.com>
-	* v1.1 Added missing halegannada glyphs due to which fc-scan failed to recognize the language.
+	* v1.1 Added missing halegannada glyphs due to which fc-scan
+	failed to recognize the language.
 	Closes: #842962 https://bugzilla.redhat.com/show_bug.cgi?id=842962
 
 2011-12-09 Aravinda VK <hallimanearavind@gmail.com>
 	* v1.0 - Initial Release, Generated source sfd from ttf using Fontforge
-	* Added glyph U+25CC. Closes: #429298 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=429298
-	* Modified wrong glyph U+0C85 similar to https://bugzilla.redhat.com/show_bug.cgi?id=694705
+	* Added glyph U+25CC. Closes: #429298
+	http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=429298
+	* Modified wrong glyph U+0C85 similar to
+	https://bugzilla.redhat.com/show_bug.cgi?id=694705
 	* Added U+20B9. Indian Rupee symbol, Hyphen minus
-	* Fixed the issues related to rendering issues in LibreOffice(ಕಕೋ ಕಣೊ etc)
+	* Fixed the issues related to rendering issues in
+	LibreOffice(ಕಕೋ ಕಣೊ etc)
 
 
 Copyright 2011-2012 Aravinda VK <hallimanearavind@gmail.com>
