@@ -1,23 +1,25 @@
 VERSION=1.1
+CURDIR = $(shell pwd)
+TMPDIR := $(shell mktemp -d gubbi.XXX)
+
+GUBBI_TTF = gubbi-ttf-${VERSION}
+GUBBI_SOURCE = gubbi-source-${VERSION}
+
 default:
 	./generate.pe Gubbi.sfd; echo "Gubbi.ttf file generated, copy to ~/.fonts/ and run fc-cache"
-fedora:
-	rm -rf /tmp/gubbi-ttf-${VERSION}
-	mkdir /tmp/gubbi-ttf-${VERSION}
-	cp ChangeLog COPYING Gubbi.ttf README /tmp/gubbi-ttf-${VERSION}/
+dist:
+	mkdir ${TMPDIR}/${GUBBI_TTF}
+	cp ChangeLog COPYING Gubbi.ttf README ${TMPDIR}/${GUBBI_TTF}
 
-	rm -rf /tmp/gubbi-${VERSION}
-	mkdir /tmp/gubbi-${VERSION}
-	cp ChangeLog COPYING Gubbi.sfd generate.pe README /tmp/gubbi-${VERSION}/
-	cp fedora_makefile /tmp/gubbi-${VERSION}/Makefile
+	mkdir ${TMPDIR}/${GUBBI_SOURCE}
+	cp Makefile ChangeLog COPYING Gubbi.sfd generate.pe README ${TMPDIR}/${GUBBI_SOURCE}
 
-	cd /tmp/; \
-	tar -cvzf gubbi-ttf-${VERSION}.tar.gz gubbi-ttf-${VERSION}/; \
-	tar -cvzf gubbi-${VERSION}.tar.gz gubbi-${VERSION}/; \
-	rm -rf gubbi-ttf-${VERSION}; \
-	rm -rf gubbi-${VERSION}; 
+	tar --owner root --group root --mode a+rX -C ${TMPDIR} -cvf - ${GUBBI_TTF} | xz -9 > ${CURDIR}/${GUBBI_TTF}.tar.xz
+	tar --owner root --group root --mode a+rX -C ${TMPDIR} -cvf - ${GUBBI_SOURCE} | xz -9 > ${CURDIR}/${GUBBI_SOURCE}.tar.xz
+	rm -rf ${TMPDIR}
 clean:
-	rm -rf /tmp/gubbi-ttf-${VERSION}
-	rm -rf /tmp/gubbi-${VERSION}
-	rm -rf /tmp/gubbi-ttf-${VERSION}.tar.gz
-	rm -rf /tmp/gubbi-${VERSION}.tar.gz
+	rm -rf *.ttf
+
+distclean:
+	rm -rf ${GUBBI_TTF}.tar.xz
+	rm -rf ${GUBBI_SOURCE}.tar.xz
