@@ -114,10 +114,8 @@ p : U0CEE
 q : U0CEF
 r : extra_9
 s : extra_10
-t : extra_11
 u : extra_12
 v : U0CC1
-w : extra_13
 x : extra_14
 y : extra_15
 z : dep_vowel_ru
@@ -142,7 +140,7 @@ glyph144 : ardha_Da
 glyph145 : ardha_Na
 glyph146 : ardha_tha
 glyph147 : ardha_Tha
-glyph148 : ardha_da
+glyph148 : ardha_dha
 glyph149 : ardha_Dha
 glyph150 : ardha_na
 glyph151 : ardha_pa
@@ -213,7 +211,7 @@ Otilde : saNNa_vattu_Da
 Odieresis : saNNa_vattu_Na
 multiply : saNNa_vattu_tha
 Oslash : saNNa_vattu_Tha
-Ugrave : saNNa_vattu_da
+Ugrave : saNNa_vattu_dha
 Uacute : saNNa_vattu_Dha
 Ucircumflex : saNNa_vattu_na
 Udieresis : saNNa_vattu_pa
@@ -232,7 +230,7 @@ egrave : saNNa_vattu_Sha
 eacute : saNNa_vattu_sa
 ecircumflex : saNNa_vattu_ha
 edieresis : saNNa_vattu_hale_La
-igrave : saNNa_vattu_ta_2
+igrave : saNNa_vattu_tha_2
 iacute : saNNa_vattu_na_2
 icircumflex : saNNa_vattu_ya_2
 idieresis : saNNa_vattu_ra_2
@@ -250,12 +248,12 @@ uacute : vattu_ma_ai
 ucircumflex : vattu_ma_ya
 udieresis : vattu_ra_ai
 yacute : glyph_kSha
-thorn : glyph_jna
+thorn : glyph_Jna
 ydieresis : ardha_kSha
-Amacron : ardha_jna
+Amacron : ardha_Jna
 amacron : vattu_kSha
-Abreve : vattu_kSha_Na
-abreve : ardha_vattu_kSha_Na
+Abreve : glyph_kShaNa
+abreve : ardha_kShaNa
 Aogonek : glyph_ki
 aogonek : glyph_khi
 Cacute : glyph_gi
@@ -301,8 +299,8 @@ ibreve : glyph_Shi
 Iogonek : glyph_si
 iogonek : glyph_hi
 Idotaccent : glyph_kShi
-dotlessi : glyph_jni
-IJ : glyph_kShi_vattu_Na
+dotlessi : glyph_Jni
+IJ : glyph_kShNi
 ij : halant_ka
 Jcircumflex : halant_kha
 jcircumflex : halant_ga
@@ -340,8 +338,8 @@ Racute : halant_sa
 racute : halant_ha
 Rcedilla : halant_hale_La
 rcedilla : halant_kSha
-Rcaron : halant_jna
-rcaron : halant_kSha_vattu_Na
+Rcaron : halant_Jna
+rcaron : halant_kShaNa
 Sacute : glyph_po
 sacute : glyph_mo
 Scircumflex : glyph_vo
@@ -372,9 +370,6 @@ Wcircumflex : saNNa_vattu_va_2
 wcircumflex : saNNa_vattu_Sha_2
 Ycircumflex : saNNa_vattu_ha_2
 ycircumflex : saNNa_vattu_hale_La_2
-Ydieresis : extra_16
-Zacute : extra_17
-zacute : extra_18
 Zdot : extra_19
 zdot : extra_20
 Zcaron : vattu_ra_vowel_deergha
@@ -413,3 +408,36 @@ U25CC : U25CC
 U20B9 : U20B9
 U0C8C : U0C8C
 U0CE1 : U0CE1
+NameMe.429: vattu_gha_2
+NameMe.430: vattu_jna_2
+NameMe.431: vattu_cha_2
+NameMe.432: vattu_Cha_2
+NameMe.433: vattu_ja_2
+NameMe.434: vattu_jha_2
+NameMe.435: vattu_nya_2
+NameMe.436: vattu_ta_2
+NameMe.437: vattu_Ta_2
+NameMe.438: vattu_da_2
+NameMe.439: vattu_Da_2
+NameMe.440: vattu_Na_2
+NameMe.441: vattu_tha_2
+NameMe.442: vattu_Tha_2
+NameMe.443: vattu_dha_2
+NameMe.444: vattu_Dha_2
+NameMe.445: vattu_na_2
+NameMe.446: vattu_pa_2
+NameMe.447: vattu_pha_2
+NameMe.448: vattu_ba_2
+NameMe.449: vattu_bha_2
+NameMe.450: vattu_ma_2
+NameMe.451: vattu_ya_2
+NameMe.452: vattu_ra_2
+NameMe.453: vattu_hale_ra_2
+NameMe.454: vattu_la_2
+NameMe.455: vattu_La_2
+NameMe.456: vattu_va_2
+NameMe.457: vattu_sha_2
+NameMe.458: vattu_Sha_2
+NameMe.459: vattu_sa_2
+NameMe.460: vattu_ha_2
+NameMe.461: vattu_hale_La_2

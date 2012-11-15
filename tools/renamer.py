@@ -64,6 +64,9 @@ if __name__ == "__main__":
     result = replace_in_featurefile(result, "M_c.rphf", "glyph_arkavattu")
     result = replace_in_featurefile(result, "less_c.blwf", "vattu_nya")
     result = replace_in_featurefile(result, "hale_ro", "glyph_hale_ro")
+    rename_glyph("vowel_extra_12_2", "vowel_u_2")
+    rename_glyph("vowel_U0CB9_2", "vowel_U_2")
+    
     
     font.save()
     f = open("/tmp/Gubbi_new.fea", "w")
