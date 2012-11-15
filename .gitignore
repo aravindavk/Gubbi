@@ -5,3 +5,6 @@ OTFFiles/
 tests/*
 !tests/tests.tex
 !tests/tests.pdf
+*.tar.gz
+*.tar.xz
+*.zip
