@@ -5,6 +5,7 @@ OTFFiles/
 tests/*
 !tests/tests.tex
 !tests/tests.pdf
+!tests/hb_pango.bash
 *.tar.gz
 *.tar.xz
 *.zip

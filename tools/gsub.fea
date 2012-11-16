@@ -1,14 +1,30 @@
+# Copyright (C) 2012, Aravinda VK <mail@aravindavk.in>
+#                          http://aravindavk.in
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+
 # Classes
-@MarkClass1=[\U0CCD];
-@MarkClass2=[\U0CBE \U0CBF \U0CC0 \U0CC1 \U0CC2 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC];
-@MarkClass3=[\vattu_Na];
-@Consonants = [\U0C95 \U0C96 \U0C97 \U0C98 \U0C99
+@kn_mark_class_1=[\U0CCD];
+@kn_mark_class_2=[\U0CBE \U0CBF \U0CC0 \U0CC1 \U0CC2 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC];
+@kn_mark_class_3=[\vattu_Na];
+@kn_consonants = [\U0C95 \U0C96 \U0C97 \U0C98 \U0C99
                \U0C9A \U0C9B \U0C9C \U0C9D \U0C9E
                \U0C9F \U0CA0 \U0CA1 \U0CA2 \U0CA3
                \U0CA4 \U0CA5 \U0CA6 \U0CA7 \U0CA8
                \U0CAA \U0CAB \U0CAC \U0CAD \U0CAE 
 	           \U0CAF \U0CB0 \U0CB1 \U0CB2 \U0CB3 \U0CB5 \U0CB6 \U0CB7 \U0CB8 \U0CB9 \U0CDE ];
-@ardha_consonants = [\ardha_ka \ardha_kha \ardha_ga \ardha_gha \ardha_jna
+@kn_ardha_consonants = [\ardha_ka \ardha_kha \ardha_ga \ardha_gha \ardha_jna
                      \ardha_cha \ardha_Cha \ardha_ja \ardha_jha \ardha_nya
                      \ardha_ta \ardha_Ta \ardha_da \ardha_Da \ardha_Na
                      \ardha_tha \ardha_Tha \ardha_dha \ardha_Dha \ardha_na
@@ -17,26 +33,26 @@
 
 
 # LOOKUPS
-lookup akhn_lookup_1 {
-    lookupflag MarkAttachmentType @MarkClass1;
+lookup kn_akhn_lookup_1 {
+    lookupflag MarkAttachmentType @kn_mark_class_1;
     sub \U0C95 \U0CB7 \U0CCD  by \glyph_kSha;
     sub \U0C9C \U0C9E \U0CCD  by \glyph_Jna;
-} akhn_lookup_1;
+} kn_akhn_lookup_1;
 
-lookup akhn_lookup_2 {
-    lookupflag MarkAttachmentType @MarkClass1;
+lookup kn_akhn_lookup_2 {
+    lookupflag MarkAttachmentType @kn_mark_class_1;
     sub \U0C95 \U0CCD \U0CB7  by \glyph_kSha;
     sub \U0C9C \U0CCD \U0C9E  by \glyph_Jna;
-} akhn_lookup_2;
+} kn_akhn_lookup_2;
 
-lookup rphf_lookup_1 {
+lookup kn_rphf_lookup_1 {
     lookupflag 0;
-    ignore sub [\U0CB0 ]' [\U0CCD ]' [\U200D ] @Consonants;
+    ignore sub [\U0CB0 ]' [\U0CCD ]' [\U200D ] @kn_consonants;
     subtable;
     sub [\U0CB0 ]' [\U0CCD ]'  by \glyph_arkavattu;    
-} rphf_lookup_1;
+} kn_rphf_lookup_1;
 
-lookup blwf_lookup_1 {
+lookup kn_blwf_lookup_1 {
     lookupflag 0;
     sub \U0C95 \U0CCD  by \vattu_ka;
 	sub \U0C96 \U0CCD  by \vattu_kha;
@@ -74,10 +90,10 @@ lookup blwf_lookup_1 {
 	sub \U0CB8 \U0CCD  by \vattu_sa;
 	sub \U0CB9 \U0CCD  by \vattu_ha;
 	sub \U0CDE \U0CCD  by \vattu_hale_La;
-} blwf_lookup_1;
+} kn_blwf_lookup_1;
 
 # Win7/8 and Harfbuzz uses this in knd2
-lookup ligature_lookup_1{
+lookup kn_ligature_lookup_1{
     lookupflag 0;
     sub \U0CCD \U0C95  by \vattu_ka;
 	sub \U0CCD \U0C96  by \vattu_kha;
@@ -115,9 +131,9 @@ lookup ligature_lookup_1{
 	sub \U0CCD \U0CB8  by \vattu_sa;
 	sub \U0CCD \U0CB9  by \vattu_ha;
 	sub \U0CCD \U0CDE  by \vattu_hale_La;
-} ligature_lookup_1;
+} kn_ligature_lookup_1;
 
-lookup ligature_lookup_2 {
+lookup kn_ligature_lookup_2 {
     lookupflag 0;
     sub \U0CCD \U200D \U0C95 by \vattu_ka;
 	sub \U0CCD \U200D \U0C96 by \vattu_kha;
@@ -155,9 +171,9 @@ lookup ligature_lookup_2 {
 	sub \U0CCD \U200D \U0CB8 by \vattu_sa;
 	sub \U0CCD \U200D \U0CB9 by \vattu_ha;
 	sub \U0CCD \U200D \U0CDE by \vattu_hale_La;
-} ligature_lookup_2;
+} kn_ligature_lookup_2;
 
-lookup single_sub_lookup_1 {
+lookup kn_single_sub_lookup_1 {
     lookupflag 0;
     sub \U0C95 by \vattu_ka;
 	sub \U0C96 by \vattu_kha;
@@ -195,33 +211,33 @@ lookup single_sub_lookup_1 {
 	sub \U0CB8 by \vattu_sa;
 	sub \U0CB9 by \vattu_ha;
 	sub \U0CDE by \vattu_hale_La;
-} single_sub_lookup_1;
+} kn_single_sub_lookup_1;
 
-lookup multiple_substitution_lookup_1 {
+lookup kn_multiple_sub_lookup_1 {
   lookupflag 0;
     sub \glyph_Jna by \U0C9C \U0CCD \U0C9E;
-} multiple_substitution_lookup_1;
+} kn_multiple_sub_lookup_1;
 
-lookup blwf_lookup_2 {
+lookup kn_blwf_lookup_2 {
     lookupflag 0;
-    sub [\U0CCD] [\glyph_Jna]' lookup multiple_substitution_lookup_1;
-} blwf_lookup_2;
+    sub [\U0CCD] [\glyph_Jna]' lookup kn_multiple_sub_lookup_1;
+} kn_blwf_lookup_2;
 
-lookup blwf_lookup_3 {
+lookup kn_blwf_lookup_3 {
     lookupflag 0;
-    ignore sub [\U0CCD ]' [@Consonants \glyph_kSha]' [\U0CBC];
+    ignore sub [\U0CCD ]' [@kn_consonants \glyph_kSha]' [\U0CBC];
     subtable;
-    sub [\U0CCD ]' lookup ligature_lookup_1 [@Consonants \glyph_kSha]';
-} blwf_lookup_3;
+    sub [\U0CCD ]' lookup kn_ligature_lookup_1 [@kn_consonants \glyph_kSha]';
+} kn_blwf_lookup_3;
 
-lookup blwf_lookup_4 {
+lookup kn_blwf_lookup_4 {
     lookupflag 0;
-    ignore sub [\U0CB0 ] [\U0CCD ]' [\U200D ]' [@Consonants]' [\U0CBC];
+    ignore sub [\U0CB0 ] [\U0CCD ]' [\U200D ]' [@kn_consonants]' [\U0CBC];
   subtable;
-    sub [\U0CB0 ] [\U0CCD ]' lookup ligature_lookup_2 [\U200D]' [@Consonants]';
-} blwf_lookup_4;
+    sub [\U0CB0 ] [\U0CCD ]' lookup kn_ligature_lookup_2 [\U200D]' [@kn_consonants]';
+} kn_blwf_lookup_4;
 
-lookup abvs_lookup_1 {
+lookup kn_abvs_lookup_1 {
   lookupflag 0;
 	sub \U0C98 \U0CBE  by \glyph_gha;
     sub \U0C98 \U0CC6  by \glyph_ghe;
@@ -263,9 +279,9 @@ lookup abvs_lookup_1 {
 	sub \U0CB9 \U0CBF  by \glyph_hi;
     sub \glyph_kSha \U0CBF  by \glyph_kShi;
     sub \glyph_Jna \U0CBF  by \glyph_Jni;
-} abvs_lookup_1;
+} kn_abvs_lookup_1;
 
-lookup ligature_lookup_3{
+lookup kn_ligature_lookup_3{
     lookupflag 0;
     sub \U0C95 \U200D by \ardha_ka;
 	sub \U0C96 \U200D by \ardha_kha;
@@ -303,50 +319,50 @@ lookup ligature_lookup_3{
 	sub \U0CB8 \U200D by \ardha_sa;
 	sub \U0CB9 \U200D by \ardha_ha;
 	sub \U0CDE \U200D by \ardha_hale_La;
-} ligature_lookup_3;
+} kn_ligature_lookup_3;
 
-lookup abvs_lookup_2 {
-    lookupflag MarkAttachmentType @MarkClass2;
-    sub [@Consonants \glyph_kSha \glyph_Jna]' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ]  by [@ardha_consonants \ardha_kSha \ardha_Jna];
-} abvs_lookup_2;
+lookup kn_abvs_lookup_2 {
+    lookupflag MarkAttachmentType @kn_mark_class_2;
+    sub [@kn_consonants \glyph_kSha \glyph_Jna]' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ]  by [@kn_ardha_consonants \ardha_kSha \ardha_Jna];
+} kn_abvs_lookup_2;
 
-lookup abvs_lookup_3 {
-    lookupflag MarkAttachmentType @MarkClass3;
+lookup kn_abvs_lookup_3 {
+    lookupflag MarkAttachmentType @kn_mark_class_3;
     sub \glyph_kSha \vattu_Na  by \glyph_kShaNa;
     sub \arda_kSha \vattu_Na  by \ardha_kShaNa;
-} abvs_lookup_3;
+} kn_abvs_lookup_3;
 
-lookup abvs_lookup_4 {
-    lookupflag MarkAttachmentType @MarkClass2;
-    sub [@Consonants \glyph_kSha \glyph_Jna]' lookup ligature_lookup_3 [\U200D]' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ];
-} abvs_lookup_4;
+lookup kn_abvs_lookup_4 {
+    lookupflag MarkAttachmentType @kn_mark_class_2;
+    sub [@kn_consonants \glyph_kSha \glyph_Jna]' lookup kn_ligature_lookup_3 [\U200D]' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ];
+} kn_abvs_lookup_4;
 
-lookup blws_lookup_1 {
+lookup kn_blws_lookup_1 {
   lookupflag 0;
     sub \vattu_ka \vattu_Sha  by \vattu_kSha;
-} blws_lookup_1;
+} kn_blws_lookup_1;
 
-@special_consonants_group_1 = [\U0C98 \U0C9B \U0C9D \U0CA2 \U0CA5 \U0CA7 \U0CAB \U0CAD 
+@kn_special_consonants_group_1 = [\U0C98 \U0C9B \U0C9D \U0CA2 \U0CA5 \U0CA7 \U0CAB \U0CAD 
 	\ardha_gha \ardha_Cha \ardha_jha \ardha_Da \ardha_Tha \ardha_Dha \ardha_pha 
 	\ardha_bha \glyph_ghi \glyph_ghe \glyph_Chi \glyph_jhi \glyph_jhe 
 	\glyph_Di \glyph_Thi \glyph_Dhi \glyph_phi \glyph_bhi \glyph_jhu 
 	\glyph_jho];
 
-@vattakshara = [\vattu_ka \vattu_kha \vattu_ga \vattu_gha \vattu_jna
+@kn_vattakshara = [\vattu_ka \vattu_kha \vattu_ga \vattu_gha \vattu_jna
                 \vattu_cha \vattu_Cha \vattu_ja \vattu_jha \vattu_nya 
 	            \vattu_ta \vattu_Ta \vattu_da \vattu_Da \vattu_Na
                 \vattu_tha \vattu_Tha \vattu_dha \vattu_Dha \vattu_na
                 \vattu_ya \vattu_ra \vattu_hale_ra \vattu_la \vattu_va \vattu_sha \vattu_Sha
                 \vattu_sa \vattu_ha \vattu_La \vattu_hale_La];
 
-@alternate_vattakshara = [\vattu_ka_2 \vattu_kha_2 \vattu_ga_2 \vattu_gha_2 \vattu_jna_2
+@kn_alternate_vattakshara = [\vattu_ka_2 \vattu_kha_2 \vattu_ga_2 \vattu_gha_2 \vattu_jna_2
                           \vattu_cha_2 \vattu_Cha_2 \vattu_ja_2 \vattu_jha_2 \vattu_nya_2
                           \vattu_ta_2 \vattu_Ta_2 \vattu_da_2 \vattu_Da_2 \vattu_Na_2
                           \vattu_tha_2 \vattu_Tha_2 \vattu_dha_2 \vattu_Dha_2 \vattu_na_2
                           \vattu_ya_2 \vattu_ra_2 \vattu_hale_ra_2 \vattu_la_2 \vattu_va_2 \vattu_sha_2 \vattu_Sha_2
                           \vattu_sa_2 \vattu_ha_2 \vattu_La_2 \vattu_hale_La_2 ];
 
-@saNNa_vattakshara =  [\saNNa_vattu_ka \saNNa_vattu_kha \saNNa_vattu_ga \saNNa_vattu_gha \saNNa_vattu_jna
+@kn_saNNa_vattakshara =  [\saNNa_vattu_ka \saNNa_vattu_kha \saNNa_vattu_ga \saNNa_vattu_gha \saNNa_vattu_jna
                           \saNNa_vattu_cha \saNNa_vattu_Cha \saNNa_vattu_ja \saNNa_vattu_jha \saNNa_vattu_nya
                           \saNNa_vattu_ta \saNNa_vattu_Ta \saNNa_vattu_da \saNNa_vattu_Da \saNNa_vattu_Na
                           \saNNa_vattu_tha \saNNa_vattu_Tha \saNNa_vattu_dha \saNNa_vattu_Dha \saNNa_vattu_na
@@ -354,12 +370,12 @@ lookup blws_lookup_1 {
                           \saNNa_vattu_sa \saNNa_vattu_ha \saNNa_vattu_La \saNNa_vattu_hale_La ];
 
 # Replace with alternate vattakshara when prefixed by ಘ, ಛ, ಫ etc
-lookup blws_lookup_2 {
+lookup kn_blws_lookup_2 {
   lookupflag 0;
-    sub [@special_consonants_group_1] [@vattakshara]' by [@alternate_vattakshara];
-} blws_lookup_2;
+    sub [@kn_special_consonants_group_1] [@kn_vattakshara]' by [@kn_alternate_vattakshara];
+} kn_blws_lookup_2;
 
-lookup single_sub_lookup_2{
+lookup kn_single_sub_lookup_2{
   lookupflag 0;
     sub \vattu_ka by \saNNa_vattu_ka ;
 	sub \vattu_kha by \saNNa_vattu_kha ;
@@ -397,34 +413,34 @@ lookup single_sub_lookup_2{
 	sub \vattu_ha by \saNNa_vattu_ha ;
 	sub \vattu_La by \saNNa_vattu_La ;
 	sub \vattu_hale_La by \saNNa_vattu_hale_La ;
-} single_sub_lookup_2;
+} kn_single_sub_lookup_2;
 
-lookup blws_lookup_3 {
+lookup kn_blws_lookup_3 {
   lookupflag 0;
     sub \glyph_kSha \vattu_Na  by \glyph_kShaNa;
     sub \glyph_kShi \vattu_Na  by \glyph_kShNi;
-} blws_lookup_3;
+} kn_blws_lookup_3;
 
-lookup blws_lookup_4 {
+lookup kn_blws_lookup_4 {
   lookupflag 0;
-    sub [@vattakshara @alternate_vattakshara @saNNa_vattakshara] [@vattakshara]' lookup single_sub_lookup_2;
-} blws_lookup_4;
+    sub [@kn_vattakshara @kn_alternate_vattakshara @kn_saNNa_vattakshara] [@kn_vattakshara]' lookup kn_single_sub_lookup_2;
+} kn_blws_lookup_4;
 
-lookup blws_lookup_5 {
+lookup kn_blws_lookup_5 {
   lookupflag 0;
-    sub [@alternate_vattakshara] [\vattu_tha \vattu_na \vattu_ya \vattu_ra \vattu_la \vattu_va]'  by [\saNNa_vattu_tha_2 \saNNa_vattu_na_2 \saNNa_vattu_ya_2 \saNNa_vattu_ra_2 \saNNa_vattu_la_2 \saNNa_vattu_va_2];
-} blws_lookup_5;
+    sub [@kn_alternate_vattakshara] [\vattu_tha \vattu_na \vattu_ya \vattu_ra \vattu_la \vattu_va]'  by [\saNNa_vattu_tha_2 \saNNa_vattu_na_2 \saNNa_vattu_ya_2 \saNNa_vattu_ra_2 \saNNa_vattu_la_2 \saNNa_vattu_va_2];
+} kn_blws_lookup_5;
 
-lookup blws_lookup_6 {
+lookup kn_blws_lookup_6 {
   lookupflag 0;
     sub \vattu_ta \vattu_ra_2  by \vattu_ta_ra;
     sub \vattu_tha \vattu_ya_2  by \vattu_tha_ya;
     sub \vattu_tha \vattu_ra_2  by \vattu_tha_ra;
     sub \vattu_pa \vattu_ra_2  by \vattu_pa_ra;
     sub \vattu_ma \vattu_ya_2  by \vattu_ma_ya;
-} blws_lookup_6;
+} kn_blws_lookup_6;
 
-lookup blws_lookup_7 {
+lookup kn_blws_lookup_7 {
   lookupflag 0;
     sub \vattu_ka \U0CC3  by \vattu_ka_ru;
     sub \vattu_tha \U0CC3  by \vattu_tha_ru;
@@ -433,10 +449,10 @@ lookup blws_lookup_7 {
     sub \vattu_ra \U0CD6  by \vattu_ra_ai;
     sub \vattu_ma \U0CC3  by \vattu_ma_ru;
     sub \vattu_ma \U0CD5  by \vattu_deergha_ma;
-} blws_lookup_7;
+} kn_blws_lookup_7;
 
 
-lookup psts_lookup_1 {
+lookup kn_psts_lookup_1 {
   lookupflag 0;
     sub \ardha_jha \U0CC6 \U0CD6  by \glyph_jhai;
     sub \U0CAB \U0CC1  by \glyph_phu;
@@ -450,50 +466,50 @@ lookup psts_lookup_1 {
     sub \glyph_jhe \U0CC2  by \glyph_jho;
     sub \glyph_ye \U0CC2  by \glyph_yo;
     sub \U0CAF \U0CC6 \U0CC2  by \glyph_yo;
-} psts_lookup_1;
+} kn_psts_lookup_1;
 
-lookup psts_lookup_2 {
+lookup kn_psts_lookup_2 {
   lookupflag 0;
     sub [\uni0C9C_uni0C9E_uni0CCD.akhn ] [\uni0CC3 \uni0CC4 ]'  by [\glyph138 \glyph139 ];
-} psts_lookup_2;
+} kn_psts_lookup_2;
 
 # pu, pU
-lookup psts_lookup_3 {
+lookup kn_psts_lookup_3 {
   lookupflag 0;
     sub [\U0CAA] [\U0CC1 \U0CC2 ]' by [\vowel_u_2 \vowel_U_2 ];
-} psts_lookup_3;
+} kn_psts_lookup_3;
 
 # vu and vU
-lookup psts_lookup_4 {
+lookup kn_psts_lookup_4 {
   lookupflag 0;
     sub [\U0CB5 ] [\U0CC1 \U0CC2 ]'  by [\vowel_u_2 \vowel_U_2 ];
-} psts_lookup_4;
+} kn_psts_lookup_4;
 
-lookup SingleSubstitutionlookup67 {
+lookup kn_single_sub_lookup_3 {
   lookupflag 0;
     sub \glyph_arkavattu by \vattu_ra;
-} SingleSubstitutionlookup67;
+} kn_single_sub_lookup_3;
 
-lookup psts_lookup_5 {
+lookup kn_psts_lookup_5 {
   lookupflag 0;
-    sub [\U0CB0 \glyph_ri] [\glyph_arkavattu ]' lookup SingleSubstitutionlookup67  ;
+    sub [\U0CB0 \glyph_ri] [\glyph_arkavattu ]' lookup kn_single_sub_lookup_3 ;
   subtable;
-    sub [\U0CC2] [\U0CC6] [\ardha_ra] [\glyph_arkavattu ]' lookup SingleSubstitutionlookup67  ;
+    sub [\U0CC2] [\U0CC6] [\ardha_ra] [\glyph_arkavattu ]' lookup kn_single_sub_lookup_3;
   subtable;
-    sub [\U0CBE \U0CC6 \U0CCC] [\ardha_ra] [\glyph_arkavattu]' lookup SingleSubstitutionlookup67  ;
+    sub [\U0CBE \U0CC6 \U0CCC] [\ardha_ra] [\glyph_arkavattu]' lookup kn_single_sub_lookup_3;
   subtable;
-    sub [\U0CC1 \U0CC2 ] [\U0CB0 ] [\glyph_arkavattu ]' lookup SingleSubstitutionlookup67  ;
+    sub [\U0CC1 \U0CC2 ] [\U0CB0 ] [\glyph_arkavattu ]' lookup kn_single_sub_lookup_3;
   subtable;
-    sub [\U0CCD ] [\U0CB0 ] [\glyph_arkavattu]' lookup SingleSubstitutionlookup67  ;
-} psts_lookup_5;
+    sub [\U0CCD ] [\U0CB0 ] [\glyph_arkavattu]' lookup kn_single_sub_lookup_3;
+} kn_psts_lookup_5;
 
-lookup psts_lookup_6 {
+lookup kn_psts_lookup_6 {
   lookupflag 0;
     sub [\ardha_ra ] [\U0CC6 ]' [\U0CC2 ]' [\U0CD5 ]' [\glyph_arkavattu ]'  by \vattu_ra_vowel_O;
-} psts_lookup_6;
+} kn_psts_lookup_6;
 
-lookup haln_lookup_1 {
-    lookupflag MarkAttachmentType @MarkClass1;
+lookup kn_haln_lookup_1 {
+    lookupflag MarkAttachmentType @kn_mark_class_1;
     sub \U0C95 \U0CCD  by \halant_ka;
     sub \U0C96 \U0CCD  by \halant_kha;
     sub \U0C97 \U0CCD  by \halant_ga;
@@ -533,106 +549,106 @@ lookup haln_lookup_1 {
     sub \glyph_kSha \U0CCD  by \halant_kSha;
     sub \glyph_Jna \U0CCD  by \halant_Jna;
     sub \glyph_kShaNa \U0CCD  by \halant_kShaNa;
-} haln_lookup_1;
+} kn_haln_lookup_1;
 
 feature akhn {
     script knd2;
     language dflt;
-    lookup akhn_lookup_2;
+    lookup kn_akhn_lookup_2;
 
     script knda;
     language dflt;
-    lookup akhn_lookup_1;
+    lookup kn_akhn_lookup_1;
 } akhn;
 
 feature rphf {
     script knd2;
     language dflt;
-    lookup rphf_lookup_1;
+    lookup kn_rphf_lookup_1;
     
     script knda;
     language dflt;
-    lookup rphf_lookup_1;
+    lookup kn_rphf_lookup_1;
 } rphf;
 
 feature blwf {
     script knd2;
     language dflt;
-    lookup blwf_lookup_2;
-    lookup blwf_lookup_3;
-    lookup blwf_lookup_4;
-    lookup blwf_lookup_1;   
+    lookup kn_blwf_lookup_2;
+    lookup kn_blwf_lookup_3;
+    lookup kn_blwf_lookup_4;
+    lookup kn_blwf_lookup_1;   
     
     script knda;
     language dflt;
-    lookup blwf_lookup_1;
+    lookup kn_blwf_lookup_1;
 } blwf;
 
 feature abvs {
     script knd2;
     language dflt;
-    lookup abvs_lookup_1;
-    lookup abvs_lookup_2;
-    lookup abvs_lookup_3;
-    lookup abvs_lookup_4;
+    lookup kn_abvs_lookup_1;
+    lookup kn_abvs_lookup_2;
+    lookup kn_abvs_lookup_3;
+    lookup kn_abvs_lookup_4;
 
     script knda;
     language dflt;
-    lookup abvs_lookup_1;
-    lookup abvs_lookup_2;
-    lookup abvs_lookup_3;
-    lookup abvs_lookup_4;
+    lookup kn_abvs_lookup_1;
+    lookup kn_abvs_lookup_2;
+    lookup kn_abvs_lookup_3;
+    lookup kn_abvs_lookup_4;
 } abvs;
 
 feature blws {
     script knd2;
     language dflt;
-    lookup blws_lookup_1;
-    lookup blws_lookup_2;
-    lookup blws_lookup_3;
-    lookup blws_lookup_4;
-    lookup blws_lookup_5;
-    lookup blws_lookup_6;
-    lookup blws_lookup_7;
+    lookup kn_blws_lookup_1;
+    lookup kn_blws_lookup_2;
+    lookup kn_blws_lookup_3;
+    lookup kn_blws_lookup_4;
+    lookup kn_blws_lookup_5;
+    lookup kn_blws_lookup_6;
+    lookup kn_blws_lookup_7;
 
     script knda;
     language dflt;
-    lookup blws_lookup_1;
-    lookup blws_lookup_2;
-    lookup blws_lookup_3;
-    lookup blws_lookup_4;
-    lookup blws_lookup_5;
-    lookup blws_lookup_6;
-    lookup blws_lookup_7;
+    lookup kn_blws_lookup_1;
+    lookup kn_blws_lookup_2;
+    lookup kn_blws_lookup_3;
+    lookup kn_blws_lookup_4;
+    lookup kn_blws_lookup_5;
+    lookup kn_blws_lookup_6;
+    lookup kn_blws_lookup_7;
 } blws;
 
 feature psts {
     script knd2;
     language dflt;
-    lookup psts_lookup_1;
-    lookup psts_lookup_2;
-    lookup psts_lookup_3;
-    lookup psts_lookup_4;
-    lookup psts_lookup_5;
-    lookup psts_lookup_6;
+    lookup kn_psts_lookup_1;
+    lookup kn_psts_lookup_2;
+    lookup kn_psts_lookup_3;
+    lookup kn_psts_lookup_4;
+    lookup kn_psts_lookup_5;
+    lookup kn_psts_lookup_6;
 
 
     script knda;
     language dflt;
-    lookup psts_lookup_1;
-    lookup psts_lookup_2;
-    lookup psts_lookup_3;
-    lookup psts_lookup_4;
-    lookup psts_lookup_5;
-    lookup psts_lookup_6;
+    lookup kn_psts_lookup_1;
+    lookup kn_psts_lookup_2;
+    lookup kn_psts_lookup_3;
+    lookup kn_psts_lookup_4;
+    lookup kn_psts_lookup_5;
+    lookup kn_psts_lookup_6;
 } psts;
 
 feature haln {
     script knd2;
     language dflt;
-    lookup haln_lookup_1;
+    lookup kn_haln_lookup_1;
     
     script knda;
     language dflt;
-    lookup haln_lookup_1;
+    lookup kn_haln_lookup_1;
 } haln;

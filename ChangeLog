@@ -1,3 +1,14 @@
+2012-11-17 Aravinda VK <hallimanearavind@gmail.com>
+	* v1.3 Release
+	* Fixed https://github.com/aravindavk/Gubbi/issues/4 and similar
+	issues
+	* Added missing glyphs(U0CBC, U0CBD, U0CE2, U0CE3, U0CF1, U0CF2)
+	* Added ZWJ, ZWNJ, Nukta and Dotted circle
+	* Rewrote all gsub rules as per OpenType spec
+	* Added haln, akhn tables
+	* Added PR37 rules http://unicode.org/review/pr-37.pdf
+	* Fixed duplicate glyph names
+
 2012-11-03 Aravinda VK <hallimanearavind@gmail.com>
 	* v1.2 Relicensed to GPL since OFL was not compatible with Kedage
 	font license(GPL)

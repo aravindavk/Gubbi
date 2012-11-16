@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # Program reads the fontforge source file and generates otf font
-# Copyright (C) 2011  Aravinda VK <hallimanearavind@gmail.com>
+# Copyright (C) 2011,2012  Aravinda VK <hallimanearavind@gmail.com>
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
