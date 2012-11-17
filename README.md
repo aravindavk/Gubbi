@@ -1,15 +1,23 @@
-# tar.gz for fedora packaging
+# Download and Install Fonts
 
-    make fedora
+Download fonts from [here](https://github.com/downloads/aravindavk/Gubbi/Gubbi-1.3.zip)
     
-Source and Binary tar.gz will be created in the /tmp/ directory. Ex: gubbi-1.1.tar.gz  gubbi-ttf-1.1.tar.gz
+## Linux Users
 
-# Generate Font
+1. Unzip and copy Gubbi.ttf to `$HOME/.fonts` directory.
+2. Run fc-cache in Terminal
 
-    make
+## Windows Users
+
+1. Unzip the downloaded Font zip. 
+2. Right click and select Install font option
+
+# For Package maintainers
+
+Source package: [https://github.com/downloads/aravindavk/Gubbi/gubbi-source-1.3.tar.xz](https://github.com/downloads/aravindavk/Gubbi/gubbi-source-1.3.tar.xz)
+
+Binary package: [https://github.com/downloads/aravindavk/Gubbi/gubbi-ttf-1.3.tar.xz](https://github.com/downloads/aravindavk/Gubbi/gubbi-ttf-1.3.tar.xz)
     
-ttf file will be created, copy to ~/.fonts directory and run fc-cache
+# Any issues? 
 
-# Download Font and Install
-
-Download ttf font and install by copying to fonts directory. (~/.fonts/ in Linux)
+Send mail to root AT aravindavk.in  or Open an issue [here](https://github.com/aravindavk/Gubbi/issues/new) (Requires github login)
