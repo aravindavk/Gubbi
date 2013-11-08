@@ -8,6 +8,7 @@ GUBBI_DOWNLOAD = Gubbi-${VERSION}
 
 default:
 	./generate.pe Gubbi.sfd; echo "Gubbi.ttf file generated, copy to ~/.fonts/ and run fc-cache"
+	rm -rf ${TMPDIR}
 dist:
 	mkdir ${TMPDIR}/${GUBBI_TTF}
 	cp ChangeLog COPYING Gubbi.ttf README ${TMPDIR}/${GUBBI_TTF}
@@ -17,12 +18,13 @@ dist:
 
 	tar --owner root --group root --mode a+rX -C ${TMPDIR} -cvf - ${GUBBI_TTF} | xz -9 > ${CURDIR}/${GUBBI_TTF}.tar.xz
 	tar --owner root --group root --mode a+rX -C ${TMPDIR} -cvf - ${GUBBI_SOURCE} | xz -9 > ${CURDIR}/${GUBBI_SOURCE}.tar.xz
-	cd ${TMPDIR} && zip -r ${CURDIR}/${GUBBI_DOWNLOAD}.zip ${GUBBI_TTF}
+	cd ${TMPDIR}/${GUBBI_TTF} && zip -r ${CURDIR}/${GUBBI_DOWNLOAD}.zip *
 	rm -rf ${TMPDIR}
 clean:
 	rm -rf *.ttf
-
+	rm -rf ${TMPDIR}
 distclean:
 	rm -rf ${GUBBI_TTF}.tar.xz
 	rm -rf ${GUBBI_SOURCE}.tar.xz
-	rm -rf Gubbi-${VERSION}.zip
+	rm -rf ${GUBBI_DOWNLOAD}.zip
+	rm -rf ${TMPDIR}

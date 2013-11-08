@@ -52,7 +52,7 @@ lookup kn_rphf_lookup_1 {
     sub [\U0CB0 ]' [\U0CCD ]'  by \glyph_arkavattu;    
 } kn_rphf_lookup_1;
 
-lookup kn_blwf_lookup_1 {
+lookup kn_ligature_lookup_0 {
     lookupflag 0;
     sub \U0C95 \U0CCD  by \vattu_ka;
 	sub \U0C96 \U0CCD  by \vattu_kha;
@@ -90,7 +90,7 @@ lookup kn_blwf_lookup_1 {
 	sub \U0CB8 \U0CCD  by \vattu_sa;
 	sub \U0CB9 \U0CCD  by \vattu_ha;
 	sub \U0CDE \U0CCD  by \vattu_hale_La;
-} kn_blwf_lookup_1;
+} kn_ligature_lookup_0;
 
 # Win7/8 and Harfbuzz uses this in knd2
 lookup kn_ligature_lookup_1{
@@ -237,6 +237,13 @@ lookup kn_blwf_lookup_4 {
     sub [\U0CB0 ] [\U0CCD ]' lookup kn_ligature_lookup_2 [\U200D]' [@kn_consonants]';
 } kn_blwf_lookup_4;
 
+lookup kn_blwf_lookup_1 {
+    lookupflag 0;
+    ignore sub [@kn_consonants \glyph_kSha]' [\U0CCD ]' [\U0CBC];
+    subtable;
+    sub [@kn_consonants \glyph_kSha]' lookup kn_ligature_lookup_0 [\U0CCD ]';
+} kn_blwf_lookup_1;
+
 lookup kn_abvs_lookup_1 {
   lookupflag 0;
 	sub \U0C98 \U0CBE  by \glyph_gha;
@@ -256,7 +263,7 @@ lookup kn_abvs_lookup_1 {
 	sub \U0C9F \U0CBF  by \glyph_ti;
 	sub \U0CA0 \U0CBF  by \glyph_Ti;
 	sub \U0CA1 \U0CBF  by \glyph_di;
-	sub \U0CA2 \U0CBF  by \glyph_dhi;
+	sub \U0CA2 \U0CBF  by \glyph_Di;
 	sub \U0CA3 \U0CBF  by \glyph_Ni;
 	sub \U0CA4 \U0CBF  by \glyph_thi;
 	sub \U0CA5 \U0CBF  by \glyph_Thi;
@@ -281,46 +288,6 @@ lookup kn_abvs_lookup_1 {
     sub \glyph_Jna \U0CBF  by \glyph_Jni;
 } kn_abvs_lookup_1;
 
-lookup kn_ligature_lookup_3{
-    lookupflag 0;
-    sub \U0C95 \U200D by \ardha_ka;
-	sub \U0C96 \U200D by \ardha_kha;
-	sub \U0C97 \U200D by \ardha_ga;
-	sub \U0C98 \U200D by \ardha_gha;
-	sub \U0C99 \U200D by \ardha_jna;
-	sub \U0C9A \U200D by \ardha_cha;
-	sub \U0C9B \U200D by \ardha_Cha;
-	sub \U0C9C \U200D by \ardha_ja;
-	sub \U0C9D \U200D by \ardha_jha;
-	sub \U0C9E \U200D by \ardha_nya;
-	sub \U0C9F \U200D by \ardha_ta;
-	sub \U0CA0 \U200D by \ardha_Ta;
-	sub \U0CA1 \U200D by \ardha_da;
-	sub \U0CA2 \U200D by \ardha_Da;
-	sub \U0CA3 \U200D by \ardha_Na;
-	sub \U0CA4 \U200D by \ardha_tha;
-	sub \U0CA5 \U200D by \ardha_Tha;
-	sub \U0CA6 \U200D by \ardha_dha;
-	sub \U0CA7 \U200D by \ardha_Dha;
-	sub \U0CA8 \U200D by \ardha_na;
-	sub \U0CAA \U200D by \ardha_pa;
-	sub \U0CAB \U200D by \ardha_pha;
-	sub \U0CAC \U200D by \ardha_ba;
-	sub \U0CAD \U200D by \ardha_bha;
-	sub \U0CAE \U200D by \ardha_ma;
-	sub \U0CAF \U200D by \ardha_ya;
-	sub \U0CB0 \U200D by \ardha_ra;
-	sub \U0CB1 \U200D by \ardha_hale_ra;
-	sub \U0CB2 \U200D by \ardha_la;
-	sub \U0CB3 \U200D by \ardha_La;
-	sub \U0CB5 \U200D by \ardha_va;
-	sub \U0CB6 \U200D by \ardha_sha;
-	sub \U0CB7 \U200D by \ardha_Sha;
-	sub \U0CB8 \U200D by \ardha_sa;
-	sub \U0CB9 \U200D by \ardha_ha;
-	sub \U0CDE \U200D by \ardha_hale_La;
-} kn_ligature_lookup_3;
-
 lookup kn_abvs_lookup_2 {
     lookupflag MarkAttachmentType @kn_mark_class_2;
     sub [@kn_consonants \glyph_kSha \glyph_Jna]' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ]  by [@kn_ardha_consonants \ardha_kSha \ardha_Jna];
@@ -334,7 +301,7 @@ lookup kn_abvs_lookup_3 {
 
 lookup kn_abvs_lookup_4 {
     lookupflag MarkAttachmentType @kn_mark_class_2;
-    sub [@kn_consonants \glyph_kSha \glyph_Jna]' lookup kn_ligature_lookup_3 [\U200D]' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ];
+    sub \U0CB0' \U200D' [\U0CBE \U0CBF \U0CC0 \U0CC6 \U0CC7 \U0CC8 \U0CCA \U0CCB \U0CCC ] by \ardha_ra;
 } kn_abvs_lookup_4;
 
 lookup kn_blws_lookup_1 {
@@ -523,7 +490,7 @@ lookup kn_haln_lookup_1 {
     sub \U0C9F \U0CCD  by \halant_ta;
     sub \U0CA0 \U0CCD  by \halant_Ta;
     sub \U0CA1 \U0CCD  by \halant_da;
-    sub \U0CA2 \U0CCD  by \halant_dha;
+    sub \U0CA2 \U0CCD  by \halant_Da;
     sub \U0CA3 \U0CCD  by \halant_Na;
     sub \U0CA4 \U0CCD  by \halant_tha;
     sub \U0CA5 \U0CCD  by \halant_Tha;
@@ -572,16 +539,16 @@ feature rphf {
 } rphf;
 
 feature blwf {
-    script knd2;
-    language dflt;
-    lookup kn_blwf_lookup_2;
-    lookup kn_blwf_lookup_3;
-    lookup kn_blwf_lookup_4;
-    lookup kn_blwf_lookup_1;   
+    # script knd2;
+    # language dflt;
+    # lookup kn_blwf_lookup_2;
+    # lookup kn_blwf_lookup_3;
+    # lookup kn_blwf_lookup_4;
     
     script knda;
     language dflt;
     lookup kn_blwf_lookup_1;
+    lookup kn_blwf_lookup_4;
 } blwf;
 
 feature abvs {

@@ -18,7 +18,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062074370
-ModificationTime: 1353148455
+ModificationTime: 1362931057
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -55,42 +55,47 @@ Lookup: 4 256 0 "kn_akhn_lookup_1"  {"kn_akhn_lookup_1 subtable"  } ['akhn' ('kn
 Lookup: 4 256 0 "kn_akhn_lookup_2"  {"kn_akhn_lookup_2 subtable"  } ['akhn' ('knd2' <'dflt' > ) ]
 Lookup: 6 0 0 "kn_rphf_lookup_1"  {"kn_rphf_lookup_1 contextual 0"  "kn_rphf_lookup_1 contextual 1"  } ['rphf' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 3"  {"Ligature Substitution lookup 3 subtable"  } []
-Lookup: 4 0 0 "kn_blwf_lookup_1"  {"kn_blwf_lookup_1 subtable"  } ['blwf' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
+Lookup: 4 0 0 "kn_ligature_lookup_0"  {"kn_ligature_lookup_0 subtable"  } []
 Lookup: 4 0 0 "kn_ligature_lookup_1"  {"kn_ligature_lookup_1 subtable"  } []
 Lookup: 4 0 0 "kn_ligature_lookup_2"  {"kn_ligature_lookup_2 subtable"  } []
 Lookup: 1 0 0 "kn_single_sub_lookup_1"  {"kn_single_sub_lookup_1 subtable"  } []
 Lookup: 2 0 0 "kn_multiple_sub_lookup_1"  {"kn_multiple_sub_lookup_1 subtable"  } []
-Lookup: 6 0 0 "kn_blwf_lookup_2"  {"kn_blwf_lookup_2 subtable"  } ['blwf' ('knd2' <'dflt' > ) ]
-Lookup: 6 0 0 "kn_blwf_lookup_3"  {"kn_blwf_lookup_3 contextual 0"  "kn_blwf_lookup_3 contextual 1"  } ['blwf' ('knd2' <'dflt' > ) ]
-Lookup: 6 0 0 "kn_blwf_lookup_4"  {"kn_blwf_lookup_4 contextual 0"  "kn_blwf_lookup_4 contextual 1"  } ['blwf' ('knd2' <'dflt' > ) ]
+Lookup: 6 0 0 "kn_blwf_lookup_2"  {"kn_blwf_lookup_2 subtable"  } []
+Lookup: 6 0 0 "kn_blwf_lookup_3"  {"kn_blwf_lookup_3 contextual 0"  "kn_blwf_lookup_3 contextual 1"  } []
+Lookup: 6 0 0 "kn_blwf_lookup_4"  {"kn_blwf_lookup_4 contextual 0"  "kn_blwf_lookup_4 contextual 1"  } ['blwf' ('knda' <'dflt' > ) ]
+Lookup: 6 0 0 "kn_blwf_lookup_1"  {"kn_blwf_lookup_1 contextual 0"  "kn_blwf_lookup_1 contextual 1"  } ['blwf' ('knda' <'dflt' > ) ]
 Lookup: 4 0 0 "kn_abvs_lookup_1"  {"kn_abvs_lookup_1 subtable"  } ['abvs' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 4 0 0 "kn_ligature_lookup_3"  {"kn_ligature_lookup_3 subtable"  } []
 Lookup: 6 512 0 "kn_abvs_lookup_2"  {"kn_abvs_lookup_2 subtable"  } ['abvs' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 1 512 0 "Single Substitution lookup 15"  {"Single Substitution lookup 15 subtable"  } []
 Lookup: 4 768 0 "kn_abvs_lookup_3"  {"kn_abvs_lookup_3 subtable"  } ['abvs' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 6 512 0 "kn_abvs_lookup_4"  {"kn_abvs_lookup_4 subtable"  } ['abvs' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
+Lookup: 4 512 0 "Ligature Substitution lookup 18"  {"Ligature Substitution lookup 18 subtable"  } []
 Lookup: 4 0 0 "kn_blws_lookup_1"  {"kn_blws_lookup_1 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 6 0 0 "kn_blws_lookup_2"  {"kn_blws_lookup_2 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 20"  {"Single Substitution lookup 20 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 21"  {"Single Substitution lookup 21 subtable"  } []
 Lookup: 1 0 0 "kn_single_sub_lookup_2"  {"kn_single_sub_lookup_2 subtable"  } []
 Lookup: 4 0 0 "kn_blws_lookup_3"  {"kn_blws_lookup_3 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 6 0 0 "kn_blws_lookup_4"  {"kn_blws_lookup_4 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 6 0 0 "kn_blws_lookup_5"  {"kn_blws_lookup_5 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 25"  {"Single Substitution lookup 25 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 26"  {"Single Substitution lookup 26 subtable"  } []
 Lookup: 4 0 0 "kn_blws_lookup_6"  {"kn_blws_lookup_6 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 4 0 0 "kn_blws_lookup_7"  {"kn_blws_lookup_7 subtable"  } ['blws' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 4 0 0 "kn_psts_lookup_1"  {"kn_psts_lookup_1 subtable"  } ['psts' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 6 0 0 "kn_psts_lookup_2"  {"kn_psts_lookup_2 subtable"  } ['psts' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 30"  {"Single Substitution lookup 30 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 31"  {"Single Substitution lookup 31 subtable"  } []
 Lookup: 6 0 0 "kn_psts_lookup_3"  {"kn_psts_lookup_3 subtable"  } ['psts' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 32"  {"Single Substitution lookup 32 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 33"  {"Single Substitution lookup 33 subtable"  } []
 Lookup: 6 0 0 "kn_psts_lookup_4"  {"kn_psts_lookup_4 subtable"  } ['psts' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 34"  {"Single Substitution lookup 34 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 35"  {"Single Substitution lookup 35 subtable"  } []
 Lookup: 1 0 0 "kn_single_sub_lookup_3"  {"kn_single_sub_lookup_3 subtable"  } []
 Lookup: 6 0 0 "kn_psts_lookup_5"  {"kn_psts_lookup_5 contextual 0"  "kn_psts_lookup_5 contextual 1"  "kn_psts_lookup_5 contextual 2"  "kn_psts_lookup_5 contextual 3"  "kn_psts_lookup_5 contextual 4"  } ['psts' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
 Lookup: 6 0 0 "kn_psts_lookup_6"  {"kn_psts_lookup_6 subtable"  } ['psts' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
-Lookup: 4 0 0 "Ligature Substitution lookup 38"  {"Ligature Substitution lookup 38 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 39"  {"Ligature Substitution lookup 39 subtable"  } []
 Lookup: 4 256 0 "kn_haln_lookup_1"  {"kn_haln_lookup_1 subtable"  } ['haln' ('knda' <'dflt' > 'knd2' <'dflt' > ) ]
+Lookup: 258 0 0 "'dist' Distance lookup 3"  {"'dist' Distance lookup 3-1" [307,30,2] } ['dist' ('DFLT' <'dflt' > 'knd2' <'dflt' > 'knda' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 3"  {"'mkmk' Mark to Mark lookup 3-1"  } ['mkmk' ('DFLT' <'dflt' > 'knd2' <'dflt' > 'knda' <'dflt' > ) ]
+Lookup: 260 0 0 "Mark to base attachment lookup 1"  {"Mark to base attachment lookup 1-2"  "Mark to base attachment lookup 1-1"  "Mark to base attachment lookup 1-3"  } ['blwm' ('DFLT' <'dflt' > 'knd2' <'dflt' > 'knda' <'dflt' > ) ]
+Lookup: 258 0 0 "Pairwise Positioning (kerning) lookup 0"  {"Pairwise Positioning (kerning) lookup 0-3" [307,30,0] "Pairwise Positioning (kerning) lookup 0-1" [307,30,0] } ['    ' ('DFLT' <'dflt' > 'knd2' <'dflt' > 'knda' <'dflt' > ) ]
 MarkAttachClasses: 4
 "kn_mark_class_1" 5 U0CCD
 "kn_mark_class_2" 65 U0CBE U0CBF U0CC0 U0CC1 U0CC2 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC
@@ -104,38 +109,38 @@ ChainSub2: coverage "kn_psts_lookup_6 subtable"  0 0 0 1
   Coverage: 15 glyph_arkavattu
   BCoverage: 8 ardha_ra
  1
-  SeqLookup: 0 "Ligature Substitution lookup 38" 
+  SeqLookup: 0 "Ligature Substitution lookup 39" 
 EndFPST
 ChainSub2: coverage "kn_psts_lookup_5 contextual 4"  0 0 0 1
  1 2 0
   Coverage: 15 glyph_arkavattu
-  BCoverage: 5 U0CCD
   BCoverage: 5 U0CB0
+  BCoverage: 5 U0CCD
  1
   SeqLookup: 0 "kn_single_sub_lookup_3" 
 EndFPST
 ChainSub2: coverage "kn_psts_lookup_5 contextual 3"  0 0 0 1
  1 2 0
   Coverage: 15 glyph_arkavattu
-  BCoverage: 11 U0CC1 U0CC2
   BCoverage: 5 U0CB0
+  BCoverage: 11 U0CC1 U0CC2
  1
   SeqLookup: 0 "kn_single_sub_lookup_3" 
 EndFPST
 ChainSub2: coverage "kn_psts_lookup_5 contextual 2"  0 0 0 1
  1 2 0
   Coverage: 15 glyph_arkavattu
-  BCoverage: 17 U0CBE U0CC6 U0CCC
   BCoverage: 8 ardha_ra
+  BCoverage: 17 U0CBE U0CC6 U0CCC
  1
   SeqLookup: 0 "kn_single_sub_lookup_3" 
 EndFPST
 ChainSub2: coverage "kn_psts_lookup_5 contextual 1"  0 0 0 1
  1 3 0
   Coverage: 15 glyph_arkavattu
-  BCoverage: 5 U0CC2
-  BCoverage: 5 U0CC6
   BCoverage: 8 ardha_ra
+  BCoverage: 5 U0CC6
+  BCoverage: 5 U0CC2
  1
   SeqLookup: 0 "kn_single_sub_lookup_3" 
 EndFPST
@@ -151,28 +156,28 @@ ChainSub2: coverage "kn_psts_lookup_4 subtable"  0 0 0 1
   Coverage: 11 U0CC1 U0CC2
   BCoverage: 5 U0CB5
  1
-  SeqLookup: 0 "Single Substitution lookup 34" 
+  SeqLookup: 0 "Single Substitution lookup 35" 
 EndFPST
 ChainSub2: coverage "kn_psts_lookup_3 subtable"  0 0 0 1
  1 1 0
   Coverage: 11 U0CC1 U0CC2
   BCoverage: 5 U0CAA
  1
-  SeqLookup: 0 "Single Substitution lookup 32" 
+  SeqLookup: 0 "Single Substitution lookup 33" 
 EndFPST
 ChainSub2: coverage "kn_psts_lookup_2 subtable"  0 0 0 1
  1 1 0
   Coverage: 15 uni0CC3 uni0CC4
   BCoverage: 28 uni0C9C_uni0C9E_uni0CCD.akhn
  1
-  SeqLookup: 0 "Single Substitution lookup 30" 
+  SeqLookup: 0 "Single Substitution lookup 31" 
 EndFPST
 ChainSub2: coverage "kn_blws_lookup_5 subtable"  0 0 0 1
  1 1 0
   Coverage: 54 vattu_tha vattu_na vattu_ya vattu_ra vattu_la vattu_va
   BCoverage: 363 vattu_ka_2 vattu_kha_2 vattu_ga_2 vattu_gha_2 vattu_jna_2 vattu_cha_2 vattu_Cha_2 vattu_ja_2 vattu_jha_2 vattu_nya_2 vattu_ta_2 vattu_Ta_2 vattu_da_2 vattu_Da_2 vattu_Na_2 vattu_tha_2 vattu_Tha_2 vattu_dha_2 vattu_Dha_2 vattu_na_2 vattu_ya_2 vattu_ra_2 vattu_hale_ra_2 vattu_la_2 vattu_va_2 vattu_sha_2 vattu_Sha_2 vattu_sa_2 vattu_ha_2 vattu_La_2 vattu_hale_La_2
  1
-  SeqLookup: 0 "Single Substitution lookup 25" 
+  SeqLookup: 0 "Single Substitution lookup 26" 
 EndFPST
 ChainSub2: coverage "kn_blws_lookup_4 subtable"  0 0 0 1
  1 1 0
@@ -186,15 +191,15 @@ ChainSub2: coverage "kn_blws_lookup_2 subtable"  0 0 0 1
   Coverage: 301 vattu_ka vattu_kha vattu_ga vattu_gha vattu_jna vattu_cha vattu_Cha vattu_ja vattu_jha vattu_nya vattu_ta vattu_Ta vattu_da vattu_Da vattu_Na vattu_tha vattu_Tha vattu_dha vattu_Dha vattu_na vattu_ya vattu_ra vattu_hale_ra vattu_la vattu_va vattu_sha vattu_Sha vattu_sa vattu_ha vattu_La vattu_hale_La
   BCoverage: 245 U0C98 U0C9B U0C9D U0CA2 U0CA5 U0CA7 U0CAB U0CAD ardha_gha ardha_Cha ardha_jha ardha_Da ardha_Tha ardha_Dha ardha_pha ardha_bha glyph_ghi glyph_ghe glyph_Chi glyph_jhi glyph_jhe glyph_Di glyph_Thi glyph_Dhi glyph_phi glyph_bhi glyph_jhu glyph_jho
  1
-  SeqLookup: 0 "Single Substitution lookup 20" 
+  SeqLookup: 0 "Single Substitution lookup 21" 
 EndFPST
 ChainSub2: coverage "kn_abvs_lookup_4 subtable"  0 0 0 1
  2 0 1
-  Coverage: 236 U0C95 U0C96 U0C97 U0C98 U0C99 U0C9A U0C9B U0C9C U0C9D U0C9E U0C9F U0CA0 U0CA1 U0CA2 U0CA3 U0CA4 U0CA5 U0CA6 U0CA7 U0CA8 U0CAA U0CAB U0CAC U0CAD U0CAE U0CAF U0CB0 U0CB1 U0CB2 U0CB3 U0CB5 U0CB6 U0CB7 U0CB8 U0CB9 U0CDE glyph_kSha glyph_Jna
+  Coverage: 5 U0CB0
   Coverage: 5 U200D
   FCoverage: 53 U0CBE U0CBF U0CC0 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC
  1
-  SeqLookup: 0 "kn_ligature_lookup_3" 
+  SeqLookup: 0 "Ligature Substitution lookup 18" 
 EndFPST
 ChainSub2: coverage "kn_abvs_lookup_2 subtable"  0 0 0 1
  1 0 1
@@ -202,6 +207,20 @@ ChainSub2: coverage "kn_abvs_lookup_2 subtable"  0 0 0 1
   FCoverage: 53 U0CBE U0CBF U0CC0 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC
  1
   SeqLookup: 0 "Single Substitution lookup 15" 
+EndFPST
+ChainSub2: coverage "kn_blwf_lookup_1 contextual 1"  0 0 0 1
+ 2 0 0
+  Coverage: 226 U0C95 U0C96 U0C97 U0C98 U0C99 U0C9A U0C9B U0C9C U0C9D U0C9E U0C9F U0CA0 U0CA1 U0CA2 U0CA3 U0CA4 U0CA5 U0CA6 U0CA7 U0CA8 U0CAA U0CAB U0CAC U0CAD U0CAE U0CAF U0CB0 U0CB1 U0CB2 U0CB3 U0CB5 U0CB6 U0CB7 U0CB8 U0CB9 U0CDE glyph_kSha
+  Coverage: 5 U0CCD
+ 1
+  SeqLookup: 0 "kn_ligature_lookup_0" 
+EndFPST
+ChainSub2: coverage "kn_blwf_lookup_1 contextual 0"  0 0 0 1
+ 2 0 1
+  Coverage: 226 U0C95 U0C96 U0C97 U0C98 U0C99 U0C9A U0C9B U0C9C U0C9D U0C9E U0C9F U0CA0 U0CA1 U0CA2 U0CA3 U0CA4 U0CA5 U0CA6 U0CA7 U0CA8 U0CAA U0CAB U0CAC U0CAD U0CAE U0CAF U0CB0 U0CB1 U0CB2 U0CB3 U0CB5 U0CB6 U0CB7 U0CB8 U0CB9 U0CDE glyph_kSha
+  Coverage: 5 U0CCD
+  FCoverage: 5 U0CBC
+ 0
 EndFPST
 ChainSub2: coverage "kn_blwf_lookup_4 contextual 1"  0 0 0 1
  3 1 0
@@ -330,16 +349,18 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "+AKkA 2011-2012, Aravinda VK <hallimanearavind@gmail.com> http://aravindavk.in+AAoAqQAA 2005, Indian Institute of Science,Bangalore.+AAoA" "" "" "" "" "1.3" "" "" "Aravinda" "" "" "http://aravindavk.in" "" "Gubbi - Kannada Unicode FONT+AAoACgAA-Copyright (C) 2011-2012, Aravinda VK <hallimanearavind@gmail.com>+AAoA                         http://aravindavk.in+AAoA-Copyright (C) 2005-2010, Indian Institute of Science,Bangalore.+AAoACgAA-This program is free software: you can redistribute it and/or modify+AAoA-it under the terms of the GNU General Public License as published by+AAoA-the Free Software Foundation, either version 3 of the License, or+AAoA(at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful,+AAoA-but WITHOUT ANY WARRANTY; without even the implied warranty of+AAoA-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the+AAoA-GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License+AAoA-along with this program.  If not, see <http://www.gnu.org/licenses/>.+AAoACgAA-As a special exception, if you create a document which uses this font,+AAoA-and embed this font or unaltered portions of this font into the document,+AAoA-this font does not by itself cause the resulting document to be covered+AAoA-by the GNU General Public License. This exception does not however+AAoA-invalidate any other reasons why the document might be covered by the+AAoA-GNU General Public License. If you modify this font, you may extend this+AAoA-exception to your version of the font, but you are not obligated to do so.+AAoA-If you do not wish to do so, delete this exception statement from your version. " "http://www.gnu.org/licenses/gpl.html" 
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 52 13 5
+WinInfo: 65 13 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 332800 166400 110933 0 -1048576 110933 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65886 469
+AnchorClass2: "sanna_vattu_ta"  "'mkmk' Mark to Mark lookup 3-1" "ta_vattu"  "Mark to base attachment lookup 1-3" "ra_vattu"  "Mark to base attachment lookup 1-2" "Anchor1"  "Mark to base attachment lookup 1-1" 
+BeginChars: 65893 468
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -2272,6 +2293,7 @@ SplineSet
  916 733 l 1,59,-1
  916 598 l 1,15,-1
 EndSplineSet
+Kerns2: 418 135 "Pairwise Positioning (kerning) lookup 0-3" 
 Substitution2: "Single Substitution lookup 15 subtable" ardha_ka
 Substitution2: "kn_single_sub_lookup_1 subtable" vattu_ka
 EndChar
@@ -3054,6 +3076,7 @@ Encoding: 3234 3234 67
 Width: 1460
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Anchor1" 305.5 1.70963 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3112,6 +3135,7 @@ SplineSet
  1276 604 1276 604 1312 512 c 0,91,92
  1350 416 1350 416 1350 344 c 0,56,57
 EndSplineSet
+Kerns2: 418 -137 "Pairwise Positioning (kerning) lookup 0-1" 
 Substitution2: "Single Substitution lookup 15 subtable" ardha_Da
 Substitution2: "kn_single_sub_lookup_1 subtable" vattu_Da
 EndChar
@@ -4533,8 +4557,8 @@ SplineSet
  1006 1126 1006 1126 1151 955 c 0,71,72
  1303 775 1303 775 1303 483 c 0,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 34 subtable" vowel_U_2
-Substitution2: "Single Substitution lookup 32 subtable" vowel_U_2
+Substitution2: "Single Substitution lookup 35 subtable" vowel_U_2
+Substitution2: "Single Substitution lookup 33 subtable" vowel_U_2
 EndChar
 
 StartChar: uni0CC3
@@ -4575,7 +4599,7 @@ SplineSet
  214 320 214 320 272 146 c 0,51,52
  332 -33 332 -33 332 -223 c 0,13,14
 EndSplineSet
-Substitution2: "Single Substitution lookup 30 subtable" glyph138
+Substitution2: "Single Substitution lookup 31 subtable" glyph138
 EndChar
 
 StartChar: uni0CC4
@@ -4627,7 +4651,7 @@ SplineSet
  130 -152 130 -152 207 -238 c 1,70,71
  274 -311 274 -311 274 -422 c 1,23,24
 EndSplineSet
-Substitution2: "Single Substitution lookup 30 subtable" glyph139
+Substitution2: "Single Substitution lookup 31 subtable" glyph139
 EndChar
 
 StartChar: U0CC6
@@ -5824,8 +5848,8 @@ SplineSet
  242 1090 242 1090 400 913 c 0,27,28
  570 722 570 722 570 487 c 0,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 34 subtable" vowel_u_2
-Substitution2: "Single Substitution lookup 32 subtable" vowel_u_2
+Substitution2: "Single Substitution lookup 35 subtable" vowel_u_2
+Substitution2: "Single Substitution lookup 33 subtable" vowel_u_2
 EndChar
 
 StartChar: vowel_U_2
@@ -6313,7 +6337,6 @@ SplineSet
  936 733 l 1,49,-1
  936 598 l 1,15,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C95 U200D
 EndChar
 
 StartChar: ardha_kha
@@ -6372,7 +6395,6 @@ SplineSet
  1445 859 1445 859 1500.5 728.5 c 128,-1,81
  1556 598 1556 598 1556 469 c 0,10,11
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C96 U200D
 EndChar
 
 StartChar: ardha_ga
@@ -6399,7 +6421,6 @@ SplineSet
  993 709 993 709 1049 559 c 0,19,20
  1116 381 1116 381 1116 0 c 1,0,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C97 U200D
 EndChar
 
 StartChar: ardha_gha
@@ -6473,7 +6494,6 @@ SplineSet
  1438 1071 l 1,104,-1
  1438 899 l 1,101,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C98 U200D
 EndChar
 
 StartChar: ardha_jna
@@ -6544,7 +6564,6 @@ SplineSet
  751.031 441.031 751.031 441.031 752 442 c 1,101,102
  751.398 440.321 751.398 440.321 750.792 438.653 c 1,99,100
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C99 U200D
 EndChar
 
 StartChar: ardha_cha
@@ -6610,7 +6629,6 @@ SplineSet
  750.4 440.628 750.4 440.628 752 442 c 1,91,92
  751.14 439.176 751.14 439.176 750.263 436.383 c 1,89,90
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C9A U200D
 EndChar
 
 StartChar: ardha_Cha
@@ -6670,7 +6688,6 @@ SplineSet
  1187 864 1187 864 1286 699 c 0,82,83
  1375 549 1375 549 1374 365 c 0,24,25
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C9B U200D
 EndChar
 
 StartChar: ardha_ja
@@ -6737,7 +6754,6 @@ SplineSet
  750.977 441.148 750.977 441.148 752 442 c 1,96,97
  751.401 440.315 751.401 440.315 750.797 438.64 c 1,94,95
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C9C U200D
 EndChar
 
 StartChar: ardha_jha
@@ -6806,7 +6822,6 @@ SplineSet
  2269 899 l 1,91,92
  2472 727 2472 727 2472 487 c 0,23,24
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C9D U200D
 EndChar
 
 StartChar: ardha_nya
@@ -6882,7 +6897,6 @@ SplineSet
  1808 1128 1808 1128 1887 1034 c 0,116,117
  1962 945 1962 945 1962 819 c 0,9,10
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C9E U200D
 EndChar
 
 StartChar: ardha_ta
@@ -6957,7 +6971,6 @@ SplineSet
  409.924 1147.1 409.924 1147.1 410 1147 c 1,108,109
  410 1147.12 410 1147.12 409.848 1147.2 c 1,106,107
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0C9F U200D
 EndChar
 
 StartChar: ardha_Ta
@@ -6999,7 +7012,6 @@ SplineSet
  870 899 l 1,35,36
  1108 782 1108 782 1108 481 c 0,22,23
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA0 U200D
 EndChar
 
 StartChar: ardha_da
@@ -7054,7 +7066,6 @@ SplineSet
  1276 604 1276 604 1312 512 c 0,70,71
  1350 416 1350 416 1350 344 c 0,42,43
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA1 U200D
 EndChar
 
 StartChar: ardha_Da
@@ -7117,7 +7128,6 @@ SplineSet
  1276 604 1276 604 1312 512 c 0,84,85
  1350 416 1350 416 1350 344 c 0,56,57
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA2 U200D
 EndChar
 
 StartChar: ardha_Na
@@ -7179,7 +7189,6 @@ SplineSet
  1141 1071 l 1,87,-1
  1141 899 l 1,84,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA3 U200D
 EndChar
 
 StartChar: ardha_tha
@@ -7232,7 +7241,6 @@ SplineSet
  1073 599 1073 599 1097 549 c 0,70,71
  1130 479 1130 479 1130 389 c 0,16,17
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA4 U200D
 EndChar
 
 StartChar: ardha_Tha
@@ -7287,7 +7295,6 @@ SplineSet
  1161 818 1161 818 1265 656 c 0,65,66
  1360 507 1360 507 1360 342 c 0,42,43
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA5 U200D
 EndChar
 
 StartChar: ardha_dha
@@ -7326,7 +7333,6 @@ SplineSet
  1161 818 1161 818 1265 656 c 0,43,44
  1360 507 1360 507 1360 342 c 0,20,21
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA6 U200D
 EndChar
 
 StartChar: ardha_Dha
@@ -7372,7 +7378,6 @@ SplineSet
  1161 818 1161 818 1265 656 c 0,55,56
  1360 507 1360 507 1360 342 c 0,32,33
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA7 U200D
 EndChar
 
 StartChar: ardha_na
@@ -7412,7 +7417,6 @@ SplineSet
  811 899 l 1,46,47
  1155 700 1155 700 1155 348 c 0,0,1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CA8 U200D
 EndChar
 
 StartChar: ardha_pa
@@ -7472,7 +7476,6 @@ SplineSet
  1102 1071 l 1,78,-1
  1102 899 l 1,75,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CAA U200D
 EndChar
 
 StartChar: ardha_pha
@@ -7539,7 +7542,6 @@ SplineSet
  1102 1071 l 1,89,-1
  1102 899 l 1,86,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CAB U200D
 EndChar
 
 StartChar: ardha_ba
@@ -7591,7 +7593,6 @@ SplineSet
  1302 847 1302 847 1356 705 c 1,70,71
  1403 577 1403 577 1403 442 c 0,0,1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CAC U200D
 EndChar
 
 StartChar: ardha_bha
@@ -7650,7 +7651,6 @@ SplineSet
  1302 847 1302 847 1356 705 c 1,82,83
  1403 577 1403 577 1403 442 c 0,12,13
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CAD U200D
 EndChar
 
 StartChar: ardha_ma
@@ -7716,7 +7716,6 @@ SplineSet
  1835 899 l 1,96,97
  2040 725 2040 725 2040 487 c 0,0,1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CAE U200D
 EndChar
 
 StartChar: ardha_ya
@@ -7780,7 +7779,6 @@ SplineSet
  2099 899 l 1,89,90
  2302 725 2302 725 2302 487 c 0,16,17
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CAF U200D
 EndChar
 
 StartChar: ardha_ra
@@ -7813,7 +7811,15 @@ SplineSet
  870 899 l 1,24,25
  1108 782 1108 782 1108 481 c 0,11,12
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB0 U200D
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CBE
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CBF
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CC0
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CC6
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CC7
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CC8
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CCA
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CCB
+Ligature2: "Ligature Substitution lookup 18 subtable" U0CB0 U200D U0CCC
 EndChar
 
 StartChar: ardha_hale_ra
@@ -7867,7 +7873,6 @@ SplineSet
  1208 1098 1208 1098 1285 942 c 0,68,69
  1356 797 1356 797 1356 592 c 0,42,43
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB1 U200D
 EndChar
 
 StartChar: ardha_la
@@ -7914,7 +7919,6 @@ SplineSet
  1227 899 l 1,59,60
  1366 750 1366 750 1366 580 c 0,14,15
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB2 U200D
 EndChar
 
 StartChar: ardha_La
@@ -7981,7 +7985,6 @@ SplineSet
  994 964 994 964 1066 870 c 0,96,97
  1143 771 1143 771 1143 639 c 0,27,28
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB3 U200D
 EndChar
 
 StartChar: ardha_va
@@ -8031,7 +8034,6 @@ SplineSet
  1150 818 1150 818 1258 646 c 0,67,68
  1354 494 1354 494 1354 322 c 0,0,1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB5 U200D
 EndChar
 
 StartChar: ardha_sha
@@ -8086,7 +8088,6 @@ SplineSet
  927 871 927 871 1018 770 c 0,73,74
  1139 636 1139 636 1139 459 c 0,21,22
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB6 U200D
 EndChar
 
 StartChar: ardha_Sha
@@ -8155,7 +8156,6 @@ SplineSet
  1116 1071 l 1,92,-1
  1116 899 l 1,89,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB7 U200D
 EndChar
 
 StartChar: ardha_sa
@@ -8201,7 +8201,6 @@ SplineSet
  877 1071 l 1,52,-1
  877 899 l 1,49,-1
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB8 U200D
 EndChar
 
 StartChar: ardha_ha
@@ -8253,7 +8252,6 @@ SplineSet
  1261 676 1261 676 1358 574 c 1,67,68
  1446 483 1446 483 1446 346 c 0,28,29
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CB9 U200D
 EndChar
 
 StartChar: ardha_hale_La
@@ -8307,7 +8305,6 @@ SplineSet
  1221 1079 1221 1079 1302 926 c 0,76,77
  1378 782 1378 782 1378 582 c 0,22,23
 EndSplineSet
-Ligature2: "kn_ligature_lookup_3 subtable" U0CDE U200D
 EndChar
 
 StartChar: vattu_ka
@@ -8349,10 +8346,10 @@ SplineSet
  255 -316 l 1,14,-1
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ka
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ka_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ka_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C95
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C95
-Ligature2: "kn_blwf_lookup_1 subtable" U0C95 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C95 U0CCD
 EndChar
 
 StartChar: vattu_kha
@@ -8405,10 +8402,10 @@ SplineSet
  204 -120 204 -120 204 -285 c 0,12,13
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_kha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_kha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_kha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C96
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C96
-Ligature2: "kn_blwf_lookup_1 subtable" U0C96 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C96 U0CCD
 EndChar
 
 StartChar: vattu_ga
@@ -8431,10 +8428,10 @@ SplineSet
  164 -519 164 -519 164 -732 c 1,0,-1
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ga
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ga_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ga_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C97
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C97
-Ligature2: "kn_blwf_lookup_1 subtable" U0C97 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C97 U0CCD
 EndChar
 
 StartChar: vattu_gha
@@ -8496,10 +8493,10 @@ SplineSet
  -411.984 -236.813 -411.984 -236.813 -412 -239.814 c 1,85,86
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_gha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_gha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_gha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C98
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C98
-Ligature2: "kn_blwf_lookup_1 subtable" U0C98 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C98 U0CCD
 EndChar
 
 StartChar: vattu_jna
@@ -8563,10 +8560,10 @@ SplineSet
  -697.107 -373.076 -697.107 -373.076 -697.214 -373.152 c 1,89,90
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_jna
-Substitution2: "Single Substitution lookup 20 subtable" vattu_jna_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_jna_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C99
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C99
-Ligature2: "kn_blwf_lookup_1 subtable" U0C99 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C99 U0CCD
 EndChar
 
 StartChar: vattu_cha
@@ -8619,10 +8616,10 @@ SplineSet
  220 -511 220 -511 220 -617 c 0,0,1
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_cha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_cha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_cha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C9A
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C9A
-Ligature2: "kn_blwf_lookup_1 subtable" U0C9A U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C9A U0CCD
 EndChar
 
 StartChar: vattu_Cha
@@ -8662,10 +8659,10 @@ SplineSet
  172 122 172 122 172 -281 c 0,8,9
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Cha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Cha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Cha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C9B
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C9B
-Ligature2: "kn_blwf_lookup_1 subtable" U0C9B U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C9B U0CCD
 EndChar
 
 StartChar: vattu_ja
@@ -8720,10 +8717,10 @@ SplineSet
  -718.077 -357.058 -718.077 -357.058 -718.154 -357.115 c 129,-1,70
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ja
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ja_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ja_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C9C
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C9C
-Ligature2: "kn_blwf_lookup_1 subtable" U0C9C U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C9C U0CCD
 EndChar
 
 StartChar: vattu_jha
@@ -8788,10 +8785,10 @@ SplineSet
  372 -289 372 -289 374 -385 c 0,24,25
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_jha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_jha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_jha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C9D
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C9D
-Ligature2: "kn_blwf_lookup_1 subtable" U0C9D U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C9D U0CCD
 EndChar
 
 StartChar: vattu_nya
@@ -8855,10 +8852,10 @@ SplineSet
  308 -255 308 -255 309 -334 c 0,12,13
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_nya
-Substitution2: "Single Substitution lookup 20 subtable" vattu_nya_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_nya_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C9E
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C9E
-Ligature2: "kn_blwf_lookup_1 subtable" U0C9E U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C9E U0CCD
 EndChar
 
 StartChar: vattu_ta
@@ -8905,10 +8902,10 @@ SplineSet
  161 -243 161 -243 161 -382 c 0,10,11
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ta
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ta_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ta_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0C9F
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0C9F
-Ligature2: "kn_blwf_lookup_1 subtable" U0C9F U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0C9F U0CCD
 EndChar
 
 StartChar: vattu_Ta
@@ -8948,10 +8945,10 @@ SplineSet
  -5 -313 -5 -313 -5 -436 c 0,24,25
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Ta
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Ta_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Ta_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA0
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA0
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA0 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA0 U0CCD
 EndChar
 
 StartChar: vattu_da
@@ -9004,10 +9001,10 @@ SplineSet
  251 -406 251 -406 251 -493 c 0,47,48
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_da
-Substitution2: "Single Substitution lookup 20 subtable" vattu_da_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_da_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA1
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA1
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA1 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA1 U0CCD
 EndChar
 
 StartChar: vattu_Da
@@ -9066,10 +9063,10 @@ SplineSet
  251 -406 251 -406 251 -493 c 0,56,57
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Da
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Da_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Da_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA2
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA2
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA2 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA2 U0CCD
 EndChar
 
 StartChar: vattu_Na
@@ -9129,10 +9126,10 @@ SplineSet
  114 -364 114 -364 114 -497 c 0,0,1
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Na
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Na_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Na_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA3
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA3
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA3 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA3 U0CCD
 EndChar
 
 StartChar: vattu_tha
@@ -9163,12 +9160,12 @@ SplineSet
  131 -49 131 -49 184 -129 c 0,28,29
  233 -203 233 -203 233 -307 c 0,13,14
 EndSplineSet
-Substitution2: "Single Substitution lookup 25 subtable" saNNa_vattu_tha_2
+Substitution2: "Single Substitution lookup 26 subtable" saNNa_vattu_tha_2
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_tha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_tha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_tha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA4
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA4
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA4 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA4 U0CCD
 EndChar
 
 StartChar: vattu_Tha
@@ -9216,10 +9213,10 @@ SplineSet
  91 -373 91 -373 91 -516 c 0,37,38
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Tha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Tha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Tha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA5
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA5
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA5 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA5 U0CCD
 EndChar
 
 StartChar: vattu_dha
@@ -9254,10 +9251,10 @@ SplineSet
  91 -363 91 -363 91 -506 c 0,18,19
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_dha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_dha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_dha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA6
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA6
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA6 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA6 U0CCD
 EndChar
 
 StartChar: vattu_Dha
@@ -9298,10 +9295,10 @@ SplineSet
  91 -363 91 -363 91 -506 c 0,27,28
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Dha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Dha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Dha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA7
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA7
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA7 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA7 U0CCD
 EndChar
 
 StartChar: vattu_na
@@ -9344,12 +9341,12 @@ SplineSet
  283 -504 283 -504 283 -474 c 1,52,53
  299 -500 299 -500 299 -544 c 0,11,12
 EndSplineSet
-Substitution2: "Single Substitution lookup 25 subtable" saNNa_vattu_na_2
+Substitution2: "Single Substitution lookup 26 subtable" saNNa_vattu_na_2
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_na
-Substitution2: "Single Substitution lookup 20 subtable" vattu_na_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_na_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CA8
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CA8
-Ligature2: "kn_blwf_lookup_1 subtable" U0CA8 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CA8 U0CCD
 EndChar
 
 StartChar: vattu_pa
@@ -9388,7 +9385,7 @@ EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_pa
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CAA
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CAA
-Ligature2: "kn_blwf_lookup_1 subtable" U0CAA U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CAA U0CCD
 EndChar
 
 StartChar: vattu_pha
@@ -9433,7 +9430,7 @@ EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_pha
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CAB
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CAB
-Ligature2: "kn_blwf_lookup_1 subtable" U0CAB U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CAB U0CCD
 EndChar
 
 StartChar: vattu_ba
@@ -9479,7 +9476,7 @@ EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ba
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CAC
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CAC
-Ligature2: "kn_blwf_lookup_1 subtable" U0CAC U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CAC U0CCD
 EndChar
 
 StartChar: vattu_bha
@@ -9530,7 +9527,7 @@ EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_bha
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CAD
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CAD
-Ligature2: "kn_blwf_lookup_1 subtable" U0CAD U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CAD U0CCD
 EndChar
 
 StartChar: vattu_ma
@@ -9577,7 +9574,7 @@ EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ma
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CAE
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CAE
-Ligature2: "kn_blwf_lookup_1 subtable" U0CAE U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CAE U0CCD
 EndChar
 
 StartChar: vattu_ya
@@ -9585,6 +9582,7 @@ Encoding: 65621 -1 192
 Width: 381
 GlyphClass: 4
 Flags: W
+AnchorPoint: "ra_vattu" 75 -419 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9629,12 +9627,13 @@ SplineSet
  200 -251 200 -251 262 -351 c 1,73,74
  330 -477 330 -477 330 -582 c 0,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 25 subtable" saNNa_vattu_ya_2
+Substitution2: "Single Substitution lookup 26 subtable" saNNa_vattu_ya_2
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ya
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ya_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ya_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CAF
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CAF
-Ligature2: "kn_blwf_lookup_1 subtable" U0CAF U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CAF U0CCD
+LCarets2: 2 0 0 
 EndChar
 
 StartChar: vattu_ra
@@ -9642,6 +9641,7 @@ Encoding: 65622 -1 193
 Width: 242
 GlyphClass: 4
 Flags: W
+AnchorPoint: "ra_vattu" -4 -6 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9657,13 +9657,13 @@ SplineSet
  -36 -251 -36 -251 47 -96 c 1,15,-1
  97 -96 l 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 25 subtable" saNNa_vattu_ra_2
+Substitution2: "Single Substitution lookup 26 subtable" saNNa_vattu_ra_2
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ra
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ra_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ra_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB0
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB0
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB0 U0CCD
-LCarets2: 1 0 
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB0 U0CCD
+LCarets2: 2 0 0 
 EndChar
 
 StartChar: vattu_hale_ra
@@ -9716,10 +9716,10 @@ SplineSet
  25 -227 25 -227 25 -334 c 0,41,42
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_hale_ra
-Substitution2: "Single Substitution lookup 20 subtable" vattu_hale_ra_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_hale_ra_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB1
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB1
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB1 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB1 U0CCD
 EndChar
 
 StartChar: vattu_la
@@ -9760,12 +9760,12 @@ SplineSet
  139 -234 139 -234 206 -315 c 0,54,55
  265 -386 265 -386 265 -488 c 0,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 25 subtable" saNNa_vattu_la_2
+Substitution2: "Single Substitution lookup 26 subtable" saNNa_vattu_la_2
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_la
-Substitution2: "Single Substitution lookup 20 subtable" vattu_la_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_la_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB2
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB2
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB2 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB2 U0CCD
 EndChar
 
 StartChar: vattu_La
@@ -9820,10 +9820,10 @@ SplineSet
  140 26 140 26 140 -94 c 0,20,21
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_La
-Substitution2: "Single Substitution lookup 20 subtable" vattu_La_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_La_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB3
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB3
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB3 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB3 U0CCD
 EndChar
 
 StartChar: vattu_va
@@ -9874,12 +9874,12 @@ SplineSet
  252 -146 252 -146 328 -260 c 0,71,72
  397 -365 397 -365 397 -481 c 0,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 25 subtable" saNNa_vattu_va_2
+Substitution2: "Single Substitution lookup 26 subtable" saNNa_vattu_va_2
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_va
-Substitution2: "Single Substitution lookup 20 subtable" vattu_va_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_va_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB5
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB5
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB5 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB5 U0CCD
 EndChar
 
 StartChar: vattu_sha
@@ -9923,10 +9923,10 @@ SplineSet
  260 -272 260 -272 260 -423 c 0,18,19
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_sha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_sha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_sha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB6
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB6
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB6 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB6 U0CCD
 EndChar
 
 StartChar: vattu_Sha
@@ -9970,10 +9970,10 @@ SplineSet
  -628.576 -266 -628.576 -266 -628.16 -265.975 c 1,52,53
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_Sha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_Sha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_Sha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB7
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB7
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB7 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB7 U0CCD
 EndChar
 
 StartChar: vattu_sa
@@ -9981,6 +9981,8 @@ Encoding: 65629 -1 200
 Width: 263
 GlyphClass: 4
 Flags: W
+AnchorPoint: "sanna_vattu_ta" 81 -186 basemark 0
+AnchorPoint: "ta_vattu" -49 -315.1 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10006,11 +10008,13 @@ SplineSet
  105 371 105 371 148 164 c 0,37,38
  190 -39 190 -39 190 -227 c 0,0,1
 EndSplineSet
+Kerns2: 213 120 "'dist' Distance lookup 3-1" 
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_sa
-Substitution2: "Single Substitution lookup 20 subtable" vattu_sa_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_sa_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB8
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB8
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB8 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB8 U0CCD
+LCarets2: 2 0 0 
 EndChar
 
 StartChar: vattu_ha
@@ -10057,10 +10061,10 @@ SplineSet
  317 -401 317 -401 317 -523 c 0,28,29
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_ha
-Substitution2: "Single Substitution lookup 20 subtable" vattu_ha_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_ha_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CB9
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CB9
-Ligature2: "kn_blwf_lookup_1 subtable" U0CB9 U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CB9 U0CCD
 EndChar
 
 StartChar: vattu_hale_La
@@ -10111,10 +10115,10 @@ SplineSet
  49 -227 49 -227 49 -334 c 0,16,17
 EndSplineSet
 Substitution2: "kn_single_sub_lookup_2 subtable" saNNa_vattu_hale_La
-Substitution2: "Single Substitution lookup 20 subtable" vattu_hale_La_2
+Substitution2: "Single Substitution lookup 21 subtable" vattu_hale_La_2
 Ligature2: "kn_ligature_lookup_2 subtable" U0CCD U200D U0CDE
 Ligature2: "kn_ligature_lookup_1 subtable" U0CCD U0CDE
-Ligature2: "kn_blwf_lookup_1 subtable" U0CDE U0CCD
+Ligature2: "kn_ligature_lookup_0 subtable" U0CDE U0CCD
 EndChar
 
 StartChar: saNNa_vattu_ka
@@ -10604,6 +10608,8 @@ Encoding: 65642 -1 213
 Width: 524
 GlyphClass: 4
 Flags: W
+AnchorPoint: "sanna_vattu_ta" 0 0 mark 0
+AnchorPoint: "ta_vattu" -2.5 -102 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11274,6 +11280,7 @@ Encoding: 65658 -1 229
 Width: 242
 GlyphClass: 4
 Flags: W
+AnchorPoint: "ra_vattu" 0 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14553,6 +14560,7 @@ SplineSet
  1295 308 1295 308 1295 395 c 0,118,119
  1295 479.92 1295 479.92 1237.11 548.871 c 1,78,79
 EndSplineSet
+Ligature2: "kn_abvs_lookup_1 subtable" U0CA2 U0CBF
 EndChar
 
 StartChar: glyph_Ni
@@ -14805,7 +14813,6 @@ SplineSet
  1360 693 1360 693 1360 342 c 0,42,43
 EndSplineSet
 Ligature2: "kn_abvs_lookup_1 subtable" U0CA6 U0CBF
-Ligature2: "kn_abvs_lookup_1 subtable" U0CA2 U0CBF
 EndChar
 
 StartChar: glyph_Dhi
@@ -18030,6 +18037,7 @@ SplineSet
  1861 1307 1861 1307 1951 1242 c 1,126,127
  2048 1174 2048 1174 2048 1069 c 0,69,70
 EndSplineSet
+Ligature2: "kn_haln_lookup_1 subtable" U0CA2 U0CCD
 EndChar
 
 StartChar: halant_Na
@@ -18327,7 +18335,6 @@ SplineSet
  2064 1174 2064 1174 2064 1069 c 0,33,34
 EndSplineSet
 Ligature2: "kn_haln_lookup_1 subtable" U0CA6 U0CCD
-Ligature2: "kn_haln_lookup_1 subtable" U0CA2 U0CCD
 EndChar
 
 StartChar: halant_Dha
@@ -22297,7 +22304,7 @@ SplineSet
  1532 429 1532 429 1669 265 c 0,162,163
  1824 79 1824 79 2101 0 c 1,135,-1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 38 subtable" U0CC6 U0CC2 U0CD5 glyph_arkavattu
+Ligature2: "Ligature Substitution lookup 39 subtable" U0CC6 U0CC2 U0CD5 glyph_arkavattu
 EndChar
 
 StartChar: glyph_no
@@ -25805,30 +25812,31 @@ EndChar
 
 StartChar: U0CBC
 Encoding: 3260 3260 418
-Width: 2048
+Width: 110
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Anchor1" -900 3 mark 0
 LayerCount: 2
 Fore
 SplineSet
--404 -338 m 128,-1,1
- -404 -284 -404 -284 -366 -246 c 128,-1,2
- -328 -208 -328 -208 -274 -208 c 128,-1,3
- -220 -208 -220 -208 -182 -246 c 128,-1,4
- -144 -284 -144 -284 -144 -338 c 128,-1,5
- -144 -392 -144 -392 -182 -430 c 128,-1,6
- -220 -468 -220 -468 -274 -468 c 128,-1,7
- -328 -468 -328 -468 -366 -430 c 128,-1,0
- -404 -392 -404 -392 -404 -338 c 128,-1,1
--1054 -338 m 128,-1,9
- -1054 -284 -1054 -284 -1016 -246 c 128,-1,10
- -978 -208 -978 -208 -924 -208 c 128,-1,11
- -870 -208 -870 -208 -832 -246 c 128,-1,12
- -794 -284 -794 -284 -794 -338 c 128,-1,13
- -794 -392 -794 -392 -832 -430 c 128,-1,14
- -870 -468 -870 -468 -924 -468 c 128,-1,15
- -978 -468 -978 -468 -1016 -430 c 128,-1,8
- -1054 -392 -1054 -392 -1054 -338 c 128,-1,9
+-250 -338 m 128,-1,1
+ -250 -284 -250 -284 -212 -246 c 128,-1,2
+ -174 -208 -174 -208 -120 -208 c 128,-1,3
+ -66 -208 -66 -208 -28 -246 c 128,-1,4
+ 10 -284 10 -284 10 -338 c 128,-1,5
+ 10 -392 10 -392 -28 -430 c 128,-1,6
+ -66 -468 -66 -468 -120 -468 c 128,-1,7
+ -174 -468 -174 -468 -212 -430 c 128,-1,0
+ -250 -392 -250 -392 -250 -338 c 128,-1,1
+-900 -338 m 128,-1,9
+ -900 -284 -900 -284 -862 -246 c 128,-1,10
+ -824 -208 -824 -208 -770 -208 c 128,-1,11
+ -716 -208 -716 -208 -678 -246 c 128,-1,12
+ -640 -284 -640 -284 -640 -338 c 128,-1,13
+ -640 -392 -640 -392 -678 -430 c 128,-1,14
+ -716 -468 -716 -468 -770 -468 c 128,-1,15
+ -824 -468 -824 -468 -862 -430 c 128,-1,8
+ -900 -392 -900 -392 -900 -338 c 128,-1,9
 EndSplineSet
 EndChar
 
@@ -27266,6 +27274,7 @@ Width: 381
 VWidth: 1898
 GlyphClass: 2
 Flags: W
+AnchorPoint: "ra_vattu" 655.01 -348 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -27748,24 +27757,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dep_vowel_e_2
-Encoding: 65879 -1 462
-Width: 2048
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: dep_vowel_o_2
-Encoding: 65880 -1 463
-Width: 2048
-VWidth: 0
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: arda_kSha
-Encoding: 65881 -1 464
+Encoding: 65887 -1 462
 Width: 2048
 VWidth: 0
 Flags: W
@@ -27773,7 +27766,7 @@ LayerCount: 2
 EndChar
 
 StartChar: glyph_jhu
-Encoding: 65882 -1 465
+Encoding: 65888 -1 463
 Width: 2048
 VWidth: 0
 Flags: W
@@ -27781,7 +27774,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni0C9C_uni0C9E_uni0CCD.akhn
-Encoding: 65883 -1 466
+Encoding: 65889 -1 464
 Width: 2048
 VWidth: 0
 Flags: W
@@ -27789,7 +27782,7 @@ LayerCount: 2
 EndChar
 
 StartChar: glyph138
-Encoding: 65884 -1 467
+Encoding: 65890 -1 465
 Width: 2048
 VWidth: 0
 Flags: W
@@ -27797,7 +27790,15 @@ LayerCount: 2
 EndChar
 
 StartChar: glyph139
-Encoding: 65885 -1 468
+Encoding: 65891 -1 466
+Width: 2048
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U0CC3
+Encoding: 65892 -1 467
 Width: 2048
 VWidth: 0
 Flags: W
